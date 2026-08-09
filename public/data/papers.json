@@ -1,5 +1,97 @@
 [
   {
+    "id": "W4416998810",
+    "doi": "https://doi.org/10.1093/pnasnexus/pgag263",
+    "title_en": "Brief speech samples reveal emotional states in daily life",
+    "title_ja": "短い話し声でわかる！日常の主観的感情",
+    "authors": [
+      "Timo Kevin Koch",
+      "Gabriella M. Harari",
+      "Samuel D. Gosling",
+      "Zachariah Marrero",
+      "Ramona Schoedel",
+      "Markus Bühner",
+      "Clemens Stachl"
+    ],
+    "venue": "PNAS Nexus",
+    "published": "2026-08-06",
+    "summary_ja": "本研究は、スマートフォンで録音された自然な話し言葉が、日常生活における個人の主観的な感情経験をどの程度反映するかを、大規模なデータと機械学習を用いて検証しました。その結果、短い音声サンプルから自己申告による満足感、悲しみ、覚醒といった感情状態を予測できることが示され、特に発言内容を表すテキスト埋め込みが感情と最も強く関連することが明らかになりました。この知見は、自然な音声に感情の情報が含まれることを示すものですが、機械学習モデルによる予測であり、音声と自己申告感情の間に因果関係ではなく相関関係があることを示しています。",
+    "why_ja": "この知見は、感情認識技術の発展に貢献し、メンタルヘルスケア、ヒューマン・コンピューター・インタラクションの改善、コールセンターでの顧客感情分析など、多様な場面での応用が期待されます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-08-09"
+  },
+  {
+    "id": "W7196974460",
+    "doi": "https://doi.org/10.1177/01461672261462978",
+    "title_en": "Riding Solo: The Associations Between Singlehood Self-Expansion Potential, Self-Expansion Experiences, and Singlehood Outcomes",
+    "title_ja": "独身期の自己拡大が満足度と幸福感を高める",
+    "authors": [
+      "Elina Moreno",
+      "Yuthika U. Girme",
+      "Anastasiia Burik",
+      "Sarah C. E. Stanton"
+    ],
+    "venue": "Personality and Social Psychology Bulletin",
+    "published": "2026-08-06",
+    "summary_ja": "独身であることが個人の成長（自己拡大）の機会を提供し、それが幸福感にどう影響するかを、自己拡大可能性（SSEP）の役割に焦点を当てて調査しました。その結果、自己拡大の可能性が高い独身者は、自己拡大体験が豊富で、独身生活や人生全体の満足度が高く、孤独への不安が低いという関連が示されました。さらに、独身期に新しい活動を想像することは、自己拡大体験とポジティブな気分を高める可能性が示唆されました。本研究の主要な知見は相関関係を示しており、特定の活動を想像する実験を除き、自己拡大可能性と幸福感の間の明確な因果関係を直接的に証明するものではありません。",
+    "why_ja": "この知見は、独身者が自身の状況をポジティブに捉え、積極的に自己成長の機会を追求することで、より充実した生活を送るためのヒントを提供します。",
+    "guest_slug": null,
+    "reviewed_at": "2026-08-09"
+  },
+  {
+    "id": "W7196960647",
+    "doi": "https://doi.org/10.1073/pnas.2602655123",
+    "title_en": "Oxytocin increases trust in men low in dispositional trust",
+    "title_ja": "疑り深い男性の信頼感はオキシトシンで高まる",
+    "authors": [
+      "Bodo Vogt",
+      "Paul Bengart",
+      "Carolyn H. Declerck",
+      "Ernst Fehr"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-08-06",
+    "summary_ja": "オキシトシンが社会的行動に及ぼす影響への懐疑論に対し、本研究は生まれつき信頼度が低い男性においてオキシトシン投与が信頼行動に因果的な効果を持つかを、大規模な事前登録研究で検証しました。その結果、オキシトシン投与は対象男性の信頼行動を平均約15%増加させ、既存データとの統合分析では16.9%の有意な増加が確認され、信頼度の低い男性全体で効果が一貫していることが示されました。この知見は成人男性に限定された実験環境での結果であり、女性や一般的な信頼度を持つ人々に同様の効果があるか、また日常的な状況下での応用についてはさらなる検討が必要です。",
+    "why_ja": "この知見は、集団内での信頼関係構築や、個人間の不信感を解消する介入策として、特に信頼度の低い男性に対して有効な可能性を示唆しています。",
+    "guest_slug": null,
+    "reviewed_at": "2026-08-09"
+  },
+  {
+    "id": "W7172535780",
+    "doi": "https://doi.org/10.1038/s41562-026-02533-1",
+    "title_en": "Fluctuations in arousal reflect latent state transitions that facilitate behavioural optimization",
+    "title_ja": "驚きが促す行動最適化：覚醒度と心の状態の役割",
+    "authors": [
+      "Tiantian Li",
+      "Harrison Marble",
+      "Timothy Chen",
+      "Niloufar Razmi",
+      "Matthew R. Nassar"
+    ],
+    "venue": "Nature Human Behaviour",
+    "published": "2026-08-05",
+    "summary_ja": "予期せぬ出来事によって生じる覚醒度の変化が、学習や知覚を制御する心の状態（潜在状態）の切り替えをどのように促進し、行動の最適化につながるのかを検証しました。実験の結果、課題中の心の状態の切り替わりは瞳孔散大や脳波の変化を引き起こし、これらが学習における偏りの減少や柔軟な調整といった行動の最適化と関連することが判明しました。これにより、覚醒システムが環境の変化を合図することで、心の状態の迅速な調整を促し、行動を最適化しているという理論が支持されました。本研究は、特定の色彩予測・再現課題を用いた実験室での知見であり、覚醒度の変化と行動最適化の間の関連性を示唆するもので、一般的な日常生活における幅広い状況に直接的に適用できるかは今後の検証が必要です。",
+    "why_ja": "この知見は、予期せぬ環境変化に直面した際に、私たちがどのように心の状態を切り替え、学習や行動を効率的に調整しているかを理解する上で役立ち、教育方法の改善やストレスマネジメントなどに応用できる可能性があります。",
+    "guest_slug": null,
+    "reviewed_at": "2026-08-09"
+  },
+  {
+    "id": "W7201840318",
+    "doi": "https://doi.org/10.1016/j.cognition.2026.106673",
+    "title_en": "Reward selectively preserves relational structure in memory",
+    "title_ja": "報酬による記憶の関連構造の選択的保持",
+    "authors": [
+      "Seoyoung Lee",
+      "Akram Bakkour"
+    ],
+    "venue": "Cognition",
+    "published": "2026-08-08",
+    "summary_ja": "報酬が既存の記憶構造とどのように相互作用し、その後の価値に基づく意思決定に影響を与えるのかを解明することを目的に、複数実験を実施しました。報酬は記憶内の関連構造を組織化する力として機能し、特に検索可能な場合に、価値に基づく意思決定をサポートするために関連する連想を選択的に保持することが明らかになりました。この知見は、参加者が特定のコミュニティ構造を持つ認知グラフを学習し、その記憶表現が検索可能であるという実験条件下でのものであり、一般的な記憶形成全般にそのまま適用できるかはさらなる検証が必要です。",
+    "why_ja": "この研究成果は、教育現場での効果的な学習方法の設計、マーケティングにおける購買意欲の喚起、またはリハビリテーションにおける行動変容の促進など、価値に基づく意思決定を強化する様々な場面で活用できるでしょう。",
+    "guest_slug": null,
+    "reviewed_at": "2026-08-09"
+  },
+  {
     "id": "W7201864296",
     "doi": "https://doi.org/10.1073/pnas.2532230123",
     "title_en": "Eye movements reveal a dissociation between prediction and structural processing difficulty in language comprehension",
