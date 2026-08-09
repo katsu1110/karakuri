@@ -57,6 +57,7 @@ function main() {
       authors: item.authors,
       venue: item.venue,
       published: item.published,
+      topic: item.topic || null,
       summary_ja: item.summary_ja,
       why_ja: item.why_ja,
       guest_slug: item.guest_slug || null,

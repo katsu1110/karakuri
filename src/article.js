@@ -1,3 +1,12 @@
+function esc(value) {
+  return String(value ?? '')
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
+}
+
 async function loadArticleDetail() {
   const container = document.getElementById('article-content');
   const params = new URLSearchParams(window.location.search);
@@ -24,13 +33,14 @@ async function loadArticleDetail() {
     const html = await contentRes.text();
 
     if (meta) {
-      const escTitle = meta.title.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
-      document.title = `${meta.title} — KARAKURI`;
+      document.title = `${esc(meta.title)} — KARAKURI`;
       const metaHeader = `
-        <h1>${escTitle}</h1>
+        <h1>${esc(meta.title)}</h1>
         <div class="detail-meta">
-          <span>公開日: ${meta.date}</span> |
-          <span>対象研究者: ${meta.researcher_name_ja} (${meta.researcher_affiliation || meta.researcher_name_en})</span>
+          <span>公開日: ${esc(meta.date)}</span> |
+          <span>対象研究者: ${esc(meta.researcher_name_ja)}${
+            meta.researcher_affiliation ? ` (${esc(meta.researcher_affiliation)})` : ''
+          }</span>
         </div>
       `;
       container.innerHTML = metaHeader + `<div class="article-content">${html}</div>`;
@@ -39,7 +49,7 @@ async function loadArticleDetail() {
     }
   } catch (err) {
     console.error('Failed to load article:', err);
-    container.innerHTML = `<h2>記事の読み込みに失敗しました。</h2><p>${err.message}</p><p><a href="/">トップページへ戻る</a></p>`;
+    container.innerHTML = `<h2>記事の読み込みに失敗しました。</h2><p>${esc(err.message)}</p><p><a href="/">トップページへ戻る</a></p>`;
   }
 }
 
