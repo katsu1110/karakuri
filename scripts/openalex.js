@@ -31,7 +31,7 @@ function sleep(ms) {
 }
 
 export async function openalexGet(endpoint, params = {}) {
-  const mailto = process.env.OPENALEX_MAILTO || 'kokoro-lab@example.com';
+  const mailto = process.env.OPENALEX_MAILTO || 'karakuri@example.com';
   const searchParams = new URLSearchParams(params);
   searchParams.set('mailto', mailto);
 
@@ -44,7 +44,7 @@ export async function openalexGet(endpoint, params = {}) {
     try {
       const res = await fetch(url, {
         headers: {
-          'User-Agent': `kokoro-lab-fetcher (${mailto})`
+          'User-Agent': `karakuri-fetcher (${mailto})`
         }
       });
 

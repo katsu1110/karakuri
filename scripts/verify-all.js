@@ -1,7 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 
-console.log('=== KOKORO-LAB VERIFICATION SUITE ===\n');
+console.log('=== KARAKURI VERIFICATION SUITE ===\n');
 
 // 1. Check inbox.json
 const inboxPath = path.resolve('data/inbox.json');

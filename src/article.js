@@ -25,7 +25,7 @@ async function loadArticleDetail() {
 
     if (meta) {
       const escTitle = meta.title.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
-      document.title = `${meta.title} — kokoro-lab`;
+      document.title = `${meta.title} — KARAKURI`;
       const metaHeader = `
         <h1>${escTitle}</h1>
         <div class="detail-meta">
