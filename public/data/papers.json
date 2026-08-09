@@ -1,0 +1,23 @@
+[
+  {
+    "id": "W7201864296",
+    "doi": "https://doi.org/10.1073/pnas.2532230123",
+    "title_en": "Eye movements reveal a dissociation between prediction and structural processing difficulty in language comprehension",
+    "title_ja": "視線計測が明かす言語理解における処理負荷の乖離",
+    "authors": [
+      "William Timkey",
+      "Kuan-Jung Huang",
+      "Byung-Doh Oh",
+      "Grusha Prasad",
+      "Suhas Arehalli",
+      "Tal Linzen",
+      "Brian Dillon"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-08-07",
+    "summary_ja": "本研究は構文的に曖昧な文章を読む際の視線運動を計測し、単語の予測可能性（surprisal）が処理負荷に与える影響を検証した。大規模な読解実験の結果、初期の文脈解釈は surprisal で良く近似できるものの、エラーの検出や修復に伴う再読コストは surprisal だけでは説明できないことが判明した。本結果は言語モデルの予測指標が日常的な構造構築を捉えるものの誤り修正の負荷は捉えきれない限界を示している。",
+    "why_ja": "文章を読むときにつっかえる原因が、単なる単語の予期しにくさだけでなく文法構造の修正コストにあることを理解するのに役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-08-09"
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "id": "W7201864296",
+    "doi": "https://doi.org/10.1073/pnas.2532230123",
+    "title_en": "Eye movements reveal a dissociation between prediction and structural processing difficulty in language comprehension",
+    "authors": [
+      "William Timkey",
+      "Kuan-Jung Huang",
+      "Byung-Doh Oh",
+      "Grusha Prasad",
+      "Suhas Arehalli",
+      "Tal Linzen",
+      "Brian Dillon"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-08-07",
+    "topic": "Neurobiology of Language and Bilingualism",
+    "oa_status": "hybrid",
+    "abstract_en": "In the process of extracting a meaning from a text, our eyes linger much more on some words than others, and we often reread earlier portions of the text. These disruptions to the reading process are particularly common in syntactically ambiguous sentences. What explains the difficulty presented by these sentences? One prominent hypothesis explains it as a special case of the impact of a word’s predictability (operationalized via surprisal) on the difficulty of processing the word. This contrasts with theories that attribute these disruptions to errors in the structure-building process. Earlier attempts to address this debate have been inconclusive because of small numbers of participants, coarse measurements of the reading process that are ill-suited to disentangling these competing views, and a limited range of surprisal estimates. Here, we conduct a large-scale study ( <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\" overflow=\"scroll\"> <mml:mrow> <mml:mi>n</mml:mi> <mml:mo>=</mml:mo> <mml:mn>368</mml:mn> </mml:mrow> </mml:math> ) examining eye movements during the reading of syntactically challenging sentences, using 409 types of surprisal estimates from language models with multiple architectures and training settings. We find a stark dissociation: Early effects of syntactic disambiguation are well-approximated by language model surprisal, but syntactic disambiguation incurs a significant additional cost, reflected in an increase in rereading that is not explained by language model surprisal. We conclude that surprisal can capture routine structure-building, but not the cost of detecting or correcting errors in the structure-building process.",
+    "title_ja": "視線計測が明かす言語理解における処理負荷の乖離",
+    "summary_ja": "本研究は構文的に曖昧な文章を読む際の視線運動を計測し、単語の予測可能性（surprisal）が処理負荷に与える影響を検証した。大規模な読解実験の結果、初期の文脈解釈は surprisal で良く近似できるものの、エラーの検出や修復に伴う再読コストは surprisal だけでは説明できないことが判明した。本結果は言語モデルの予測指標が日常的な構造構築を捉えるものの誤り修正の負荷は捉えきれない限界を示している。",
+    "why_ja": "文章を読むときにつっかえる原因が、単なる単語の予期しにくさだけでなく文法構造の修正コストにあることを理解するのに役立つ。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-08-09",
+    "published_at": "2026-08-09"
+  },
+  {
+    "id": "W4416998810",
+    "doi": "https://doi.org/10.1093/pnasnexus/pgag263",
+    "title_en": "Brief speech samples reveal emotional states in daily life",
+    "authors": [
+      "Timo Kevin Koch",
+      "Gabriella M. Harari",
+      "Samuel D. Gosling",
+      "Zachariah Marrero",
+      "Ramona Schoedel",
+      "Markus Bühner",
+      "Clemens Stachl"
+    ],
+    "venue": "PNAS Nexus",
+    "published": "2026-08-06",
+    "topic": "Emotion and Mood Recognition",
+    "oa_status": "gold",
+    "abstract_en": "Abstract Does our speech—what we say and how we say it—reveal how we subjectively feel in daily life? Speech and emotion are often thought to be linked, but most supporting evidence comes from controlled laboratory settings and focuses on expressed, enacted, or externally labeled emotions, leaving open the question of whether naturalistic speech reflects subjective emotional experience in daily life. To address this question, we extracted both modern foundation-model embeddings and established speech-analysis variables from brief, prompted smartphone recordings, including Linguistic Inquiry and Word Count features and prosodic descriptors, and used them as inputs to supervised machine learning models predicting concurrent self-reported emotional states (934 participants; 12,285 observations). Cross-validated models evaluated on unseen participants captured information about self-reported emotional states (contentment: median Spearman ρ = 0.37; sadness: ρ = 0.24; arousal: ρ = 0.35), with spoken content represented by foundation-model text embeddings carrying the strongest emotional signal. Interpretability analyses provided further insights into the linguistic characteristics of everyday emotional language. These findings provide large-scale evidence that brief speech samples contain information about subjective emotional states in daily life.",
+    "title_ja": null,
+    "summary_ja": null,
+    "why_ja": null,
+    "guest_slug": null,
+    "status": "new",
+    "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "W7196974460",
+    "doi": "https://doi.org/10.1177/01461672261462978",
+    "title_en": "Riding Solo: The Associations Between Singlehood Self-Expansion Potential, Self-Expansion Experiences, and Singlehood Outcomes",
+    "authors": [
+      "Elina Moreno",
+      "Yuthika U. Girme",
+      "Anastasiia Burik",
+      "Sarah C. E. Stanton"
+    ],
+    "venue": "Personality and Social Psychology Bulletin",
+    "published": "2026-08-06",
+    "topic": "Attachment and Relationship Dynamics",
+    "oa_status": "hybrid",
+    "abstract_en": "Being single (i.e., not in a romantic relationship) offers people an important opportunity to self-expand and experience the associated well-being benefits. Drawing on self-expansion theory, we investigated the role of singlehood self-expansion potential (SSEP) across three pre-registered studies. In two diary studies (Studies 1 and 2), greater SSEP was associated with concurrent and (to a lesser extent in Study 2) lagged associations with greater self-expanding experiences, singlehood satisfaction, psychological need fulfillment, and life satisfaction, and lower fear of being single. We also examined the self-expanding activities that single people engage in and found that singlehood self-expansion predominately occurs with non-romantic close others (Study 2). Finally, in an experimental study (Study 3), individuals who imagined how singlehood could facilitate future novel (vs. routine) activities did not report greater SSEP but reported greater self-expansion experiences and positive mood. This research highlights the importance of viewing singlehood as having potential for self-expansion.",
+    "title_ja": null,
+    "summary_ja": null,
+    "why_ja": null,
+    "guest_slug": null,
+    "status": "new",
+    "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "W7196960647",
+    "doi": "https://doi.org/10.1073/pnas.2602655123",
+    "title_en": "Oxytocin increases trust in men low in dispositional trust",
+    "authors": [
+      "Bodo Vogt",
+      "Paul Bengart",
+      "Carolyn H. Declerck",
+      "Ernst Fehr"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-08-06",
+    "topic": "Neuroendocrine regulation and behavior",
+    "oa_status": "closed",
+    "abstract_en": "In recent years, increasing skepticism regarding oxytocin's (OT) influence on social behavior arose. Low power, HARKing (hypothesizing after the results are known), and replication failures have clouded the field. Here, we directly address these concerns with a high-powered, preregistered study that offers robust evidence for a causal effect of OT on trust among males with a low disposition to trust. We recruited 359 low-trusting men who participated in a trust game with complete anonymity. Results show that OT administration significantly increased trusting behavior by roughly 15%, with consistent effects across regression models with and without controls for personality traits. A pooled data analysis incorporating a previous sample (n = 219) of low-trusting individuals further strengthens this conclusion, yielding a statistically significant 16.9% increase in trust. No interaction effect was found between OT and the degree of dispositional trust, suggesting OT's effect may be uniform across the low-trusting spectrum. These findings present a strong case for OT's selective trust-enhancing role. By isolating OT's impact within a well-defined subpopulation and experimental context, this study resolves a key question in the debate over neurobiological determinants of trust.",
+    "title_ja": null,
+    "summary_ja": null,
+    "why_ja": null,
+    "guest_slug": null,
+    "status": "new",
+    "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "W7172535780",
+    "doi": "https://doi.org/10.1038/s41562-026-02533-1",
+    "title_en": "Fluctuations in arousal reflect latent state transitions that facilitate behavioural optimization",
+    "authors": [
+      "Tiantian Li",
+      "Harrison Marble",
+      "Timothy Chen",
+      "Niloufar Razmi",
+      "Matthew R. Nassar"
+    ],
+    "venue": "Nature Human Behaviour",
+    "published": "2026-08-05",
+    "topic": "Neural and Behavioral Psychology Studies",
+    "oa_status": "hybrid",
+    "abstract_en": "People are often faced with surprising events that defy expectations. Such events elicit transient activity in the locus coeruleus/norepinephrine system and elevation of peripheral arousal markers including pupil dilation and a late positive peak in stimulus evoked EEG response, the P300, but the function of these signals remains unclear. We propose that they reflect latent state transitions that dynamically control the mental context governing learning and perception. We tested and confirmed five preregistered predictions of this theory using EEG and pupil measurements collected from people performing a colour prediction and reproduction task. Task-induced latent state transitions elicited pupil dilation and amplified event-related potentials including the P3a component of the P300. These EEG and pupil measures related to behavioural signatures of latent state updating, including reduced bias and bidirectional adjustment of learning, both across trials and across individuals. Our findings support the theory that locus coeruleus/norepinephrine-linked arousal systems optimize behaviour by signalling environmental transitions to facilitate rapid adjustments of mental context.",
+    "title_ja": null,
+    "summary_ja": null,
+    "why_ja": null,
+    "guest_slug": null,
+    "status": "new",
+    "fetched_at": "2026-08-09"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "hero-journey-ben-rogers",
+    "title": "「自分の人生を物語として語る」ことは、なぜ困難への強さにつながるのか",
+    "date": "Sun Aug 16 2026 09:00:00 GMT+0900 (Japan Standard Time)",
+    "lead": "人生の中で理不尽な試練や想定外の失敗に直面したとき、私たちはどうやって精神的な立ち直りを果たすのでしょうか。 心理学では古くから、人間が自分の過去や現在をどう認知しているかという「ナラティブ・アイデンティティ（物語的アイデンティティ）」の研…",
+    "researcher_name_ja": "ベン・ロジャーズ",
+    "researcher_name_en": "Benjamin Rogers",
+    "researcher_affiliation": "Boston College",
+    "sources": [
+      {
+        "label": "Rogers, B. A., et al. (2023). Seeing your life story as a hero's journey increases meaning in life. Journal of Personality and Social Psychology.",
+        "url": "https://doi.org/10.1037/pspa0000341"
+      }
+    ],
+    "episode_ref": {
+      "title": "You Are Not Ordinary",
+      "url": "https://www.hiddenbrain.org/podcast/you-are-not-ordinary/"
+    },
+    "note_url": ""
+  }
+]
