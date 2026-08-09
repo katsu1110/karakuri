@@ -8,6 +8,7 @@
     "build": "node scripts/build-articles.js && vite build",
     "feed:fetch": "node scripts/fetch-papers.js",
     "feed:draft": "node scripts/draft-papers.js",
+    "feed:autoapprove": "node scripts/auto-approve.js",
     "feed:publish": "node scripts/publish-papers.js",
     "guest:resolve": "node scripts/resolve-author.js",
     "guest:works": "node scripts/fetch-guest-works.js"

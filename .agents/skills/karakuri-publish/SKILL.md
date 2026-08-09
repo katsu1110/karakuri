@@ -9,9 +9,14 @@ End-to-end publishing of feed items for the KARAKURI site (repo `katsu1110/karak
 prod `https://karakuri-gamma.vercel.app`, Vercel Git integration deploys on push to `main`).
 
 Pipeline: `data/inbox.json` (statuses `new` → `draft` → `approved` → `published`, or
-`rejected`) → `npm run feed:publish` → `public/data/papers.json` … and the site. The
-only step that must remain human is *deciding* what is approved — this skill's job is
-the mechanical cycle after that decision, executed with guardrails.
+`rejected`) → `npm run feed:publish` → `public/data/papers.json` … and the site.
+
+**Policy (2026-08-09): feed items with `confidence: "high"` are auto-published by the
+daily cron (`feed:autoapprove` → `feed:publish`) with NO human step. This skill is the
+manual path for everything else:** items flagged `low`, corrected copy, or any batch the
+user wants to push out of band. The human-gate guarantees this skill enforces: never
+self-approve an item the user did not explicitly name, never auto-publish deep-dive
+articles (`content/articles/*.md` — those are human-published by design, Policy A).
 
 ## In scope
 
@@ -22,8 +27,9 @@ the mechanical cycle after that decision, executed with guardrails.
 ## Out of scope — never do without explicit user instruction
 
 - Setting `approved` on items the user did not name, or "publish all" interpretations of
-  ambiguous phrasing. "publish them all" / "OK全部出して" IS explicit — but machine-terse:
-  when in doubt, list the ids you're about to approve and require a yes.
+  ambiguous phrasing. "publish them all" / "OK全部出して" IS explicit — but when in
+  doubt, list the ids you're about to approve and require a yes. (High-confidence
+  items are auto-published by cron — do NOT walk them through this skill again.)
 - Editing the generated Japanese copies (`title_ja`/`summary_ja`/`why_ja`) — the user
   edits those themselves and the diff shows their changes; preserve them byte-for-byte
   when flipping status only.

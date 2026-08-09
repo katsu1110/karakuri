@@ -35,9 +35,26 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
-      - name: Commit and push inbox.json drafts
+      # Policy B: high-confidence drafts (with DOI + all Japanese fields) go
+      # straight to "approved"; the publish step then moves them to the public
+      # feed. Low-confidence / incomplete items stay "draft" for human review.
+      - name: Auto-approve high-confidence drafts
+        run: npm run feed:autoapprove
+
+      - name: Publish approved items to the public feed
+        run: npm run feed:publish
+
+      - name: Commit drafts and inbox changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/inbox.json
-          git diff --cached --quiet || git commit -m "feed: draft $(date +'%Y-%m-%d')" && git push
+          if ! git diff --cached --quiet; then git commit -m "feed: draft $(date +'%Y-%m-%d')"; fi
+
+      - name: Commit published feed items
+        run: |
+          git add data/inbox.json public/data/papers.json
+          if ! git diff --cached --quiet; then git commit -m "feed: publish $(date +'%Y-%m-%d')"; fi
+
+      - name: Push
+        run: git push
