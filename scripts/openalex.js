@@ -37,37 +37,57 @@ export async function openalexGet(endpoint, params = {}) {
 
   const url = `${BASE_URL}${endpoint.startsWith('/') ? endpoint : '/' + endpoint}?${searchParams.toString()}`;
 
-  const delays = [1000, 4000, 16000];
+  // A transient 429 must never silently kill a day's feed run. Retry budget:
+  // 8 attempts total (~4 min worst case), exponential backoff capped at 120s,
+  // honoring OpenAlex's Retry-After header on 429 when present.
+  const MAX_ATTEMPTS = 8;
+  const BASE_DELAY_MS = 2000;
+  const MAX_DELAY_MS = 120_000;
+
   let lastError = null;
 
-  for (let attempt = 0; attempt <= delays.length; attempt++) {
+  for (let attempt = 0; attempt < MAX_ATTEMPTS; attempt++) {
+    let res;
     try {
-      const res = await fetch(url, {
+      res = await fetch(url, {
         headers: {
           'User-Agent': `karakuri-fetcher (${mailto})`
         }
       });
-
-      if (res.ok) {
-        return await res.json();
-      }
-
-      if (res.status === 429 || res.status >= 500) {
-        lastError = new Error(`OpenAlex HTTP ${res.status}: ${res.statusText}`);
-      } else {
-        throw new Error(`OpenAlex HTTP ${res.status}: ${res.statusText}`);
-      }
     } catch (err) {
+      // Network-level failure (timeout, DNS, connection reset) — retryable.
       lastError = err;
-      if (attempt === delays.length) {
+      if (attempt === MAX_ATTEMPTS - 1) {
         throw lastError;
       }
     }
 
-    if (attempt < delays.length) {
-      console.warn(`OpenAlex request failed (${lastError?.message}). Retrying in ${delays[attempt]}ms...`);
-      await sleep(delays[attempt]);
+    if (res) {
+      if (res.ok) {
+        return await res.json();
+      }
+
+      lastError = new Error(`OpenAlex HTTP ${res.status}: ${res.statusText}`);
+      if (res.status === 429) {
+        const retryAfterSec = Number.parseInt(res.headers.get('retry-after') ?? '', 10);
+        if (Number.isFinite(retryAfterSec) && retryAfterSec > 0) {
+          lastError.retryAfterMs = Math.min(retryAfterSec * 1000, MAX_DELAY_MS);
+        }
+      }
+      if (res.status !== 429 && res.status < 500) {
+        throw lastError; // non-retryable client error (e.g. 400, 404)
+      }
+      if (attempt === MAX_ATTEMPTS - 1) {
+        throw lastError;
+      }
     }
+
+    const backoffMs = Math.min(BASE_DELAY_MS * 2 ** attempt, MAX_DELAY_MS);
+    const waitMs = Math.max(backoffMs, lastError?.retryAfterMs ?? 0);
+    console.warn(
+      `OpenAlex request failed (${lastError.message}). Retrying in ${Math.round(waitMs / 1000)}s (attempt ${attempt + 2}/${MAX_ATTEMPTS})...`
+    );
+    await sleep(waitMs);
   }
 
   throw lastError;
