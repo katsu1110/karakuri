@@ -179,5 +179,28 @@
     "confidence": "high",
     "drafted_at": "2026-08-09",
     "published_at": "2026-08-09"
+  },
+  {
+    "id": "W7201995576",
+    "doi": "https://doi.org/10.1016/j.cognition.2026.106676",
+    "title_en": "Exploring the malleability of Sensitivity to Intersensory Synchrony in typically developing preschoolers: Insights from single-session Intersensory Synchrony Experiential Practice (ISEP-SS)",
+    "authors": [
+      "Silvia Ampollini",
+      "Ada Cigala"
+    ],
+    "venue": "Cognition",
+    "published": "2026-08-08",
+    "topic": "Action Observation and Synchronization",
+    "oa_status": "hybrid",
+    "abstract_en": "Temporal proximity is a fundamental cue for integrating sensory inputs into unified percepts. Sensitivity to Intersensory Synchrony (SIS) enables detection of this cue, fostering intersensory redundancy that not only enriches perception but also appears to support the development of higher-order functions. In adults, single-session perceptual training can enhance SIS with lasting effects, although generalization to untrained stimuli remains unclear. Developmental evidence is scarce. To date, only one study has been conducted, which reported traininginduced enhancements in SIS in six-month-old infants. Given the role of experience in shaping SIS and its rapid refinement during the preschool years, the present study examined whether brief multisensory perceptual training can enhance SIS in typically developing children aged 3 to 6 years. A 20-min individually administered playbased multisensory perceptual training was tested in 77 participants versus 62 agematched controls. Training efficacy was examined in relation to Age and Inhibitory Control, assessed prior to training via a standardized test battery. A preferential-looking task administered before and immediately after training revealed a significant enhancement in SIS, reflected in an increased preference for synchronous over asynchronous intersensory events, with effects generalizing to untrained, complex speech stimuli. No age-related differences emerged. Notably, children with lower Inhibitory Control showed the greatest improvements, suggesting that brief multisensory interventions may also benefit atypical developmental profiles characterized by reduced SIS and impaired Inhibitory Control. These findings highlight the potential of a simple, nonverbal, and play-based training to strengthen fundamental perceptual mechanisms thought to support the development of higher-order functions.",
+    "title_ja": "未就学児の感覚同期感受性：遊び訓練で向上",
+    "summary_ja": "この研究は、3歳から6歳の健常な未就学児において、短時間の多感覚知覚トレーニングが感覚間同期感受性（SIS）を向上させることができるかを検証しました。20分間の遊びを通じたトレーニングを受けたグループは、トレーニング前後に実施された選好視線課題においてSISが有意に向上し、未訓練の複雑な音声刺激にも効果が汎化することが示され、特に抑制制御が低い子どもたちでより大きな改善が見られました。この知見は、健常な未就学児を対象としたものであり、20分間の単一セッションによる短期的介入の効果を示しています。長期的な効果や、未就学児以外の年齢層、あるいは広範な発達障害児への適用可能性については、さらなる研究が必要です。",
+    "why_ja": "発達の基盤となる知覚メカニズムを、遊びを通じた簡単なトレーニングで強化できる可能性を示しており、特に発達障害の兆候がある子どもたちの支援にも役立つかもしれません。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-08-10",
+    "confidence": "high",
+    "drafted_at": "2026-08-10",
+    "published_at": "2026-08-10"
   }
 ]
