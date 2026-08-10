@@ -51,6 +51,12 @@
           autocomplete="off"
         />
         <select id="feed-tag" class="tag-select" aria-label="テーマで絞り込み"></select>
+        <select id="feed-sort" class="tag-select" aria-label="並び順">
+          <option value="new">新着順</option>
+          <option value="published">発表日順</option>
+          <option value="title">タイトル順</option>
+          <option value="venue">掲載誌順</option>
+        </select>
         <span id="feed-count" class="feed-count" aria-live="polite"></span>
       </div>
       <div id="feed-container" class="feed-list">

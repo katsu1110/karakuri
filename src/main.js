@@ -1,4 +1,4 @@
-/* KARAKURI — トップページ描画: 深掘り記事 + 新着フィード（検索・タグ絞り込み・ページ送り） */
+/* KARAKURI — トップページ描画: 深掘り記事 + 新着フィード（検索・タグ絞り込み・並び替え・ページ送り） */
 
 const PER_PAGE = 6;
 
@@ -11,7 +11,7 @@ function esc(value) {
     .replace(/'/g, '&#39;');
 }
 
-const state = { papers: [], query: '', tag: '', page: 1 };
+const state = { papers: [], query: '', tag: '', sort: 'new', page: 1 };
 
 function debounce(fn, ms) {
   let timer = null;
@@ -79,7 +79,7 @@ function renderFeedCard(paper) {
 
 function filteredPapers() {
   const q = state.query.trim().toLowerCase();
-  return state.papers.filter((p) => {
+  const list = state.papers.filter((p) => {
     if (state.tag && (p.topic || '') !== state.tag) return false;
     if (!q) return true;
     const haystack = [
@@ -94,6 +94,15 @@ function filteredPapers() {
       .toLowerCase();
     return haystack.includes(q);
   });
+  // 並び順（'new' = papers.json の並び＝フィード公開順を維持）
+  const sorters = {
+    published: (a, b) => (b.published || '').localeCompare(a.published || '', 'en'),
+    title: (a, b) => (a.title_ja || '').localeCompare(b.title_ja || '', 'ja'),
+    venue: (a, b) => (a.venue || '').localeCompare(b.venue || '', 'en')
+  };
+  const sorter = sorters[state.sort];
+  if (sorter) list.sort(sorter); // 安定ソート: 同値はフィード順を維持
+  return list;
 }
 
 function pageSequence(pages, current) {
@@ -184,9 +193,11 @@ async function loadFeed() {
 function resetFilters() {
   state.query = '';
   state.tag = '';
+  state.sort = 'new';
   state.page = 1;
   document.getElementById('feed-search').value = '';
   document.getElementById('feed-tag').value = '';
+  document.getElementById('feed-sort').value = 'new';
   renderFeed();
 }
 
@@ -196,6 +207,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   const searchEl = document.getElementById('feed-search');
   const tagEl = document.getElementById('feed-tag');
+  const sortEl = document.getElementById('feed-sort');
   const pagerEl = document.getElementById('feed-pager');
   const containerEl = document.getElementById('feed-container');
 
@@ -210,6 +222,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
   tagEl.addEventListener('change', () => {
     state.tag = tagEl.value;
+    state.page = 1;
+    renderFeed();
+  });
+
+  sortEl.addEventListener('change', () => {
+    state.sort = sortEl.value;
     state.page = 1;
     renderFeed();
   });
