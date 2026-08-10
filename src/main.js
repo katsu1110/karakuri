@@ -69,7 +69,7 @@ function renderFeedCard(paper) {
         <h3>${esc(paper.title_ja)}</h3>
         ${paper.title_en ? `<div class="title-en">原題: ${esc(paper.title_en)} (${authors})</div>` : ''}
         <p class="summary-ja">${esc(paper.summary_ja)}</p>
-        ${paper.why_ja ? `<div class="why-box"><strong>なぜ効くか:</strong> ${esc(paper.why_ja)}</div>` : ''}
+        ${paper.why_ja ? `<div class="why-box"><strong>役立つ場面:</strong> ${esc(paper.why_ja)}</div>` : ''}
         <a class="doi-link" href="${esc(paper.doi)}" target="_blank" rel="noopener noreferrer">
           論文の一次情報を見る（DOI）
         </a>
