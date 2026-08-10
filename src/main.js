@@ -39,8 +39,8 @@ async function loadArticles() {
         (art) => `
       <article class="article-card">
         <div class="meta">${esc(art.date)} · 研究者: ${esc(art.researcher_name_ja)}${
-          art.researcher_affiliation ? ` — ${esc(art.researcher_affiliation)}` : ''
-        }</div>
+          art.researcher_name_en ? ` (${esc(art.researcher_name_en)})` : ''
+        }${art.researcher_affiliation ? ` — ${esc(art.researcher_affiliation)}` : ''}</div>
         <h3><a href="/article.html?slug=${encodeURIComponent(art.slug)}">${esc(art.title)}</a></h3>
         <p class="lead">${esc(art.lead)}</p>
       </article>

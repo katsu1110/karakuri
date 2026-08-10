@@ -39,8 +39,8 @@ async function loadArticleDetail() {
         <div class="detail-meta">
           <span>公開日: ${esc(meta.date)}</span> |
           <span>対象研究者: ${esc(meta.researcher_name_ja)}${
-            meta.researcher_affiliation ? ` (${esc(meta.researcher_affiliation)})` : ''
-          }</span>
+            meta.researcher_name_en ? ` (${esc(meta.researcher_name_en)})` : ''
+          }${meta.researcher_affiliation ? ` (${esc(meta.researcher_affiliation)})` : ''}</span>
         </div>
       `;
       container.innerHTML = metaHeader + `<div class="article-content">${html}</div>`;
