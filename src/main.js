@@ -11,6 +11,22 @@ function esc(value) {
     .replace(/'/g, '&#39;');
 }
 
+/* テーマの日本語ラベル。OpenAlex の topic は英語のため表示用に変換する。
+   未登録の新テーマは英語のまま表示（フィルタの値は常に英語 topic のまま）。 */
+const TOPIC_LABELS = {
+  'Attachment and Relationship Dynamics': '愛着と人間関係',
+  'Emotion and Mood Recognition': '感情・気分の認識',
+  'Memory and Neural Mechanisms': '記憶と脳の仕組み',
+  'Neural and Behavioral Psychology Studies': '神経・行動心理学',
+  'Neurobiology of Language and Bilingualism': '言語とバイリンガルの脳科学',
+  'Neuroendocrine regulation and behavior': '神経内分泌と行動',
+  'Sleep and Wakefulness Research': '睡眠と覚醒の研究'
+};
+
+function topicLabel(topic) {
+  return TOPIC_LABELS[topic] || topic || '';
+}
+
 const state = { papers: [], query: '', tag: '', sort: 'new', page: 1 };
 
 function debounce(fn, ms) {
@@ -58,7 +74,7 @@ function renderFeedCard(paper) {
   const authors = (paper.authors || []).map(esc).join(', ');
   const topic = paper.topic || '未分類';
   const meta = `
-        <span class="pill">${esc(topic)}</span>
+        <span class="pill">${esc(topicLabel(topic))}</span>
         <span class="chip">${esc(paper.venue || '—')}</span>
         ${paper.published ? `<span class="chip">掲載 ${esc(paper.published)}</span>` : ''}
         ${paper.reviewed_at ? `<span class="chip">公開 ${esc(paper.reviewed_at)}</span>` : ''}
@@ -86,6 +102,7 @@ function filteredPapers() {
       p.title_ja,
       p.title_en,
       p.venue,
+      topicLabel(p.topic),
       p.summary_ja,
       p.why_ja,
       (p.authors || []).join(' ')
@@ -169,11 +186,11 @@ function renderFeed() {
 function populateTagSelect() {
   const el = document.getElementById('feed-tag');
   const topics = [...new Set(state.papers.map((p) => p.topic || '未分類'))].sort((a, b) =>
-    a.localeCompare(b)
+    topicLabel(a).localeCompare(topicLabel(b), 'ja')
   );
   el.innerHTML =
     '<option value="">テーマすべて</option>' +
-    topics.map((t) => `<option value="${esc(t)}">${esc(t)}</option>`).join('');
+    topics.map((t) => `<option value="${esc(t)}">${esc(topicLabel(t))}</option>`).join('');
 }
 
 async function loadFeed() {
