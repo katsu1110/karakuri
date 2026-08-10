@@ -5,6 +5,7 @@ export const FEED_SOURCES = [
   'S58854535',   // Psychological Science
   'S29984966',   // J. Personality & Social Psychology
   'S88198767',   // Cognition
+  'S192051125',  // Trends in Cognitive Sciences
   'S75627607',   // Psychological Bulletin
   'S27228949',   // Perspectives on Psych. Science
   'S125754415',  // PNAS
