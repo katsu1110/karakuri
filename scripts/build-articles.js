@@ -7,6 +7,19 @@ const ARTICLES_DIR = path.resolve('content/articles');
 const PUBLIC_ARTICLES_DIR = path.resolve('public/articles');
 const PUBLIC_ARTICLES_JSON = path.resolve('public/data/articles.json');
 
+// Frontmatter date may parse as a JS Date (YAML `2026-08-16` → UTC midnight).
+// String(Date) yields "Sun Aug 16 2026 …" — always emit YYYY-MM-DD instead.
+// UTC getters preserve the literal YAML date regardless of builder timezone.
+function formatDate(value) {
+  if (value instanceof Date && !Number.isNaN(value.getTime())) {
+    const y = value.getUTCFullYear();
+    const m = String(value.getUTCMonth() + 1).padStart(2, '0');
+    const d = String(value.getUTCDate()).padStart(2, '0');
+    return `${y}-${m}-${d}`;
+  }
+  return String(value ?? '');
+}
+
 function stripMarkdown(md) {
   return md
     .replace(/^#+\s+/gm, '')
@@ -99,7 +112,7 @@ function main() {
     publishedArticles.push({
       slug,
       title: frontmatter.title || '',
-      date: frontmatter.date ? String(frontmatter.date) : '',
+      date: formatDate(frontmatter.date),
       lead,
       researcher_name_ja: frontmatter.researcher?.name_ja || '',
       researcher_name_en: frontmatter.researcher?.name_en || '',

@@ -19,7 +19,7 @@ Two requests:
 I'll happily change or remove anything you're not comfortable with.
 
 Sincerely,
-Katsuhisa / contact@karakuri.example.com / https://karakuri-gamma.vercel.app
+Katsuhisa / code1110g-show@hotmail.co.jp / https://karakuri-gamma.vercel.app
 ```
 
 ---

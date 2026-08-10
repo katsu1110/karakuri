@@ -31,7 +31,7 @@ function sleep(ms) {
 }
 
 export async function openalexGet(endpoint, params = {}) {
-  const mailto = process.env.OPENALEX_MAILTO || 'karakuri@example.com';
+  const mailto = process.env.OPENALEX_MAILTO || 'code1110g-show@hotmail.co.jp';
   const searchParams = new URLSearchParams(params);
   searchParams.set('mailto', mailto);
 

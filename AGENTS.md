@@ -89,4 +89,4 @@ gh workflow run "Daily Feed Drafts" --repo katsu1110/karakuri   # 手動トリ�
 
 - `main` への push は Vercel 本番デプロイ。テスト・失敗確認は作業ブランチで。
 - doc 内の旧 URL `karakuri.vercel.app` は遅延を生みがち — 本番は `karakuri-gamma.vercel.app`。
-- policy.html の `contact@karakuri.example.com` と手動ドラフトのメールはまだプレースホルダ。正式メール導入前に差し替える。
+- 連絡先メールの扱い: policy.html は収集対策で難読化表示（`code1110g-show [at] hotmail.co.jp`）のみ。生アドレスは docs/hidden-brain-permission-request.md の署名と scripts/openalex.js の mailto フォールバックのみで使用。

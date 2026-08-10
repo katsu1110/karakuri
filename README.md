@@ -2,7 +2,7 @@
 
 行動科学・社会心理学の査読論文を、日本の読者向けに毎日 1〜5 件「やさしい日本語」で解説する静的サイト。
 
-- 本番: https://karakuri-gamma.vercel.app（Vercel Git 連携、`main` push で自動デプロイ）
+- 本番: <https://karakuri-gamma.vercel.app>（Vercel Git 連携、`main` push で自動デプロイ）
 - リポジトリ: `katsu1110/karakuri`
 
 ## スタック
@@ -85,4 +85,4 @@ gh workflow run "Daily Feed Drafts" --repo katsu1110/karakuri   # 手動トリ�
 ## 留意点
 
 - `main` への push は Vercel 本番デプロイ。テスト・失敗確認は作業ブランチで。
-- policy.html の `contact@karakuri.example.com` はプレースホルダ。正式メール導入前に差し替える。
+- policy.html の連絡先はメール収集対策のため難読化表示（`code1110g-show [at] hotmail.co.jp`）。生アドレスを policy.html に記載しない。
