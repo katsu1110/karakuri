@@ -18,5 +18,29 @@
       "url": "https://www.hiddenbrain.org/podcast/you-are-not-ordinary/"
     },
     "note_url": ""
+  },
+  {
+    "slug": "unconscious-thought-dijksterhuis",
+    "title": "ひらめきは「ぼんやり」しているときに生まれる——無意識思考の科学",
+    "date": "2026-08-10",
+    "lead": "人生で大きな決断をするとき、私たちは「じっくり考えなければ」と思います。しかし社会心理学の実験は、複雑な選択ほど、いったん頭から離して「無意識に考えさせる」ほうが良い結果を生むことを示しています。意識が細い光で一点を照らす「スポットライト」…",
+    "researcher_name_ja": "アプ・ダイクスターハウス",
+    "researcher_name_en": "Ap Dijksterhuis",
+    "researcher_affiliation": "Radboud University Nijmegen",
+    "sources": [
+      {
+        "label": "Dijksterhuis, A., Bos, M. W., Nordgren, L. F., & van Baaren, R. B. (2006). On making the right choice: The deliberation-without-attention effect. Science, 311(5763), 1005–1007.",
+        "url": "https://doi.org/10.1126/science.1121629"
+      },
+      {
+        "label": "Nieuwenstein, M. R., et al. (2015). On making the right choice: A meta-analysis and large-scale replication attempt of the unconscious thought advantage. Judgment and Decision Making, 10(1), 1–17.",
+        "url": "https://doi.org/10.1017/S1930297500003144"
+      }
+    ],
+    "episode_ref": {
+      "title": "Unleashing Your Creativity",
+      "url": "https://www.hiddenbrain.org/podcast/unleashing-your-creativity/"
+    },
+    "note_url": ""
   }
 ]

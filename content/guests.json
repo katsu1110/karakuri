@@ -10,5 +10,17 @@
       "url": "https://www.hiddenbrain.org/podcast/you-are-not-ordinary/"
     },
     "added": "2026-08-09"
+  },
+  {
+    "slug": "ap-dijksterhuis",
+    "name_en": "Ap Dijksterhuis",
+    "name_ja": "アプ・ダイクスターハウス",
+    "openalex_author_id": "A5109359460",
+    "affiliation": "Radboud University Nijmegen",
+    "episode": {
+      "title": "Unleashing Your Creativity",
+      "url": "https://www.hiddenbrain.org/podcast/unleashing-your-creativity/"
+    },
+    "added": "2026-08-10"
   }
 ]
