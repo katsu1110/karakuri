@@ -1,5 +1,22 @@
 [
   {
+    "id": "W7201995576",
+    "doi": "https://doi.org/10.1016/j.cognition.2026.106676",
+    "title_en": "Exploring the malleability of Sensitivity to Intersensory Synchrony in typically developing preschoolers: Insights from single-session Intersensory Synchrony Experiential Practice (ISEP-SS)",
+    "title_ja": "未就学児の感覚同期感受性：遊び訓練で向上",
+    "authors": [
+      "Silvia Ampollini",
+      "Ada Cigala"
+    ],
+    "venue": "Cognition",
+    "published": "2026-08-08",
+    "topic": "Action Observation and Synchronization",
+    "summary_ja": "この研究は、3歳から6歳の健常な未就学児において、短時間の多感覚知覚トレーニングが感覚間同期感受性（SIS）を向上させることができるかを検証しました。20分間の遊びを通じたトレーニングを受けたグループは、トレーニング前後に実施された選好視線課題においてSISが有意に向上し、未訓練の複雑な音声刺激にも効果が汎化することが示され、特に抑制制御が低い子どもたちでより大きな改善が見られました。この知見は、健常な未就学児を対象としたものであり、20分間の単一セッションによる短期的介入の効果を示しています。長期的な効果や、未就学児以外の年齢層、あるいは広範な発達障害児への適用可能性については、さらなる研究が必要です。",
+    "why_ja": "発達の基盤となる知覚メカニズムを、遊びを通じた簡単なトレーニングで強化できる可能性を示しており、特に発達障害の兆候がある子どもたちの支援にも役立つかもしれません。",
+    "guest_slug": null,
+    "reviewed_at": "2026-08-10"
+  },
+  {
     "id": "W4413420975",
     "doi": "https://doi.org/10.1073/pnas.2528246123",
     "title_en": "Protecting episodic memory after sleep loss: Similar benefits of exercise and naps via distinct neural contributions",
