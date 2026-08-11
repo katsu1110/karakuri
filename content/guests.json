@@ -22,5 +22,17 @@
       "url": "https://www.hiddenbrain.org/podcast/unleashing-your-creativity/"
     },
     "added": "2026-08-10"
+  },
+  {
+    "slug": "amit-kumar",
+    "name_en": "Amit Kumar",
+    "name_ja": "アミット・クマール",
+    "openalex_author_id": "A5032312067",
+    "affiliation": "University of Delaware",
+    "episode": {
+      "title": "A Secret Source of Connection",
+      "url": "https://www.hiddenbrain.org/podcast/a-secret-source-of-connection/"
+    },
+    "added": "2026-08-11"
   }
 ]

@@ -20,6 +20,30 @@
     "note_url": ""
   },
   {
+    "slug": "prosociality-paradox-kumar",
+    "title": "「親切は、思ったよりずっと相手に喜ばれる」—なぜ私たちはためらうのか",
+    "date": "2026-08-11",
+    "lead": "親切にした相手は、実は思った以上に喜んでいる——にもかかわらず、多くの人は親切をためらい、その機会を逃しています。2023年に発表されたレビュー論文は、この「利他性のパラドックス」の背後にある心のずれを明らかにしました。親切をする側と受ける…",
+    "researcher_name_ja": "アミット・クマール",
+    "researcher_name_en": "Amit Kumar",
+    "researcher_affiliation": "University of Delaware",
+    "sources": [
+      {
+        "label": "Epley, N., Kumar, A., Dungan, J., & Echelbarger, M. (2023). A prosociality paradox: How miscalibrated social cognition creates a misplaced barrier to prosocial action. Current Directions in Psychological Science, 32(1), 33–41.",
+        "url": "https://doi.org/10.1177/09637214221128016"
+      },
+      {
+        "label": "Kumar, A., & Epley, N. (2023). A little good goes an unexpectedly long way: Underestimating the positive impact of kindness on recipients. Journal of Experimental Psychology: General, 152(1), 236–252.",
+        "url": "https://doi.org/10.1037/xge0001271"
+      }
+    ],
+    "episode_ref": {
+      "title": "A Secret Source of Connection",
+      "url": "https://www.hiddenbrain.org/podcast/a-secret-source-of-connection/"
+    },
+    "note_url": ""
+  },
+  {
     "slug": "unconscious-thought-dijksterhuis",
     "title": "ひらめきは「ぼんやり」しているときに生まれる——無意識思考の科学",
     "date": "2026-08-10",
