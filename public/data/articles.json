@@ -20,6 +20,26 @@
     "note_url": ""
   },
   {
+    "slug": "emotional-intelligence-salovey",
+    "title": "感情を「読み取り・整え・生かす」力—感情知性（EI）研究の原点",
+    "date": "2026-08-11",
+    "lead": "感情は、思考を邪魔するノイズではなく、判断に役立つ情報そのものだ——1990年に発表されたこの論文は、今日広く知られる「感情知性（EI・EQ）」という考え方の原点となりました。イェール大学のピーター・サロベイ氏とニューハンプシャー大学のジョ…",
+    "researcher_name_ja": "ピーター・サロベイ",
+    "researcher_name_en": "Peter Salovey",
+    "researcher_affiliation": "Yale University",
+    "sources": [
+      {
+        "label": "Salovey, P., & Mayer, J. D. (1990). Emotional intelligence. Imagination, Cognition and Personality, 9(3), 185–211.",
+        "url": "https://doi.org/10.2190/DUGG-P24E-52WK-6CDG"
+      }
+    ],
+    "episode_ref": {
+      "title": "How Feelings Make Us Smarter",
+      "url": "https://www.hiddenbrain.org/podcast/how-feelings-make-us-smarter/"
+    },
+    "note_url": ""
+  },
+  {
     "slug": "prosociality-paradox-kumar",
     "title": "「親切は、思ったよりずっと相手に喜ばれる」—なぜ私たちはためらうのか",
     "date": "2026-08-11",
@@ -40,6 +60,26 @@
     "episode_ref": {
       "title": "A Secret Source of Connection",
       "url": "https://www.hiddenbrain.org/podcast/a-secret-source-of-connection/"
+    },
+    "note_url": ""
+  },
+  {
+    "slug": "psychological-safety-edmondson",
+    "title": "「ミスを報告できるチーム」こそ学び成長する—心理的安全性の研究",
+    "date": "2026-08-11",
+    "lead": "ミスを減らそうとミスを厳しく罰するほど、ミスは報告されなくなり、組織は学べなくなる——。この逆説に正面から取り組んだのが、ハーバード・ビジネス・スクールのエイミー・エドモンドソン氏による「心理的安全性」の研究です。1999年の論文は、製造業…",
+    "researcher_name_ja": "エイミー・エドモンドソン",
+    "researcher_name_en": "Amy C. Edmondson",
+    "researcher_affiliation": "Harvard Business School",
+    "sources": [
+      {
+        "label": "Edmondson, A. C. (1999). Psychological safety and learning behavior in work teams. Administrative Science Quarterly, 44(2), 350–383.",
+        "url": "https://doi.org/10.2307/2666999"
+      }
+    ],
+    "episode_ref": {
+      "title": "Making the Most of Your Mistakes",
+      "url": "https://www.hiddenbrain.org/podcast/making-the-most-of-your-mistakes/"
     },
     "note_url": ""
   },

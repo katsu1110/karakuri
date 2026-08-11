@@ -34,5 +34,29 @@
       "url": "https://www.hiddenbrain.org/podcast/a-secret-source-of-connection/"
     },
     "added": "2026-08-11"
+  },
+  {
+    "slug": "peter-salovey",
+    "name_en": "Peter Salovey",
+    "name_ja": "ピーター・サロベイ",
+    "openalex_author_id": "A5078862452",
+    "affiliation": "Yale University",
+    "episode": {
+      "title": "How Feelings Make Us Smarter",
+      "url": "https://www.hiddenbrain.org/podcast/how-feelings-make-us-smarter/"
+    },
+    "added": "2026-08-11"
+  },
+  {
+    "slug": "amy-edmondson",
+    "name_en": "Amy C. Edmondson",
+    "name_ja": "エイミー・エドモンドソン",
+    "openalex_author_id": "A5003931866",
+    "affiliation": "Harvard Business School",
+    "episode": {
+      "title": "Making the Most of Your Mistakes",
+      "url": "https://www.hiddenbrain.org/podcast/making-the-most-of-your-mistakes/"
+    },
+    "added": "2026-08-11"
   }
 ]
