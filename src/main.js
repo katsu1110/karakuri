@@ -14,6 +14,7 @@ function esc(value) {
 /* テーマの日本語ラベル。OpenAlex の topic は英語のため表示用に変換する。
    未登録の新テーマは英語のまま表示（フィルタの値は常に英語 topic のまま）。 */
 const TOPIC_LABELS = {
+  'Action Observation and Synchronization': '動作観察と同期',
   'Attachment and Relationship Dynamics': '愛着と人間関係',
   'Emotion and Mood Recognition': '感情・気分の認識',
   'Memory and Neural Mechanisms': '記憶と脳の仕組み',
