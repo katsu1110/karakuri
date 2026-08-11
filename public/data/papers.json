@@ -1,5 +1,47 @@
 [
   {
+    "id": "W7202074550",
+    "doi": "https://doi.org/10.1038/s41562-026-02535-z",
+    "title_en": "Human ticklishness is a widespread, culturally shared and bodily organized sensory experience",
+    "title_ja": "「くすぐったさ」の普遍性と身体部位マップ：文化とメカニズムの探求",
+    "authors": [
+      "Ziliang Xiong",
+      "Konstantina Kilteni"
+    ],
+    "venue": "Nature Human Behaviour",
+    "published": "2026-08-10",
+    "topic": "Action Observation and Synchronization",
+    "summary_ja": "本研究は、人間の「くすぐったさ」が文化的に共有されているか、身体的に構造化されているか、他の感覚とどう関連するかという古くからの問いに対し、中国、オランダ、ギリシャの3つの文化圏の参加者のデータを分析してその特徴を明らかにすることを目的としました。その結果、くすぐったさには文化や個人を超えて普遍的な行動パターンと社会的ダイナミクスが存在し、また触覚、痛み、快感とは異なる高解像度の身体マップを持つことが示され、特にあまり触られない部位でくすぐったさが強いというダーウィンの仮説が支持されました。ただし、この身体マップのメカニズムは複雑であり、既存の単一の理論では完全に説明できず、本研究の知見は特定の3文化圏のデータに基づいており、他の文化圏での普遍性についてはさらなる検証が必要です。",
+    "why_ja": "この知見は、人間の感情や感覚の普遍性を理解する上で重要であり、対人コミュニケーションにおける非言語的相互作用の理解を深める手がかりとなります。",
+    "guest_slug": null,
+    "reviewed_at": "2026-08-11"
+  },
+  {
+    "id": "W7202150702",
+    "doi": "https://doi.org/10.1073/pnas.2604191123",
+    "title_en": "White-matter functional connectivity uniquely predicts brain age, cognition, and psychopathology beyond gray-matter connectivity",
+    "title_ja": "白質の脳内結合が脳年齢・認知・精神疾患を独自に予測",
+    "authors": [
+      "Jing Cong",
+      "Shaoling Zhao",
+      "Haoshu Xu",
+      "Xiaoyu Xu",
+      "Chao Li",
+      "Hongming Li",
+      "Ting Xu",
+      "Yang Li",
+      "Hang Yang",
+      "Zaixu Cui"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-08-10",
+    "topic": "Functional Brain Connectivity Studies",
+    "summary_ja": "本研究は、従来の灰白質ネットワークの機能的結合では捉えきれない、白質の機能的結合が脳年齢、認知、精神疾患に独自の情報をもたらすかを検証しました。その結果、白質の機能的結合（白質-白質および灰白質-白質結合を含む）が、脳年齢、認知能力、ADHD症状の個人差を灰白質の機能的結合とは独立して予測することが明らかになりました。これは白質が脳の発達と行動に影響を与える非冗長な機能情報を担っていることを示唆していますが、大規模なデータに基づいた相関研究であり、因果関係を直接示すものではありません。",
+    "why_ja": "この知見は、発達障害や精神疾患の早期発見やメカニズム理解に貢献し、個々の脳の状態に合わせた効果的な予防や治療法を開発する上で役立つ可能性があります。",
+    "guest_slug": null,
+    "reviewed_at": "2026-08-11"
+  },
+  {
     "id": "W7201995576",
     "doi": "https://doi.org/10.1016/j.cognition.2026.106676",
     "title_en": "Exploring the malleability of Sensitivity to Intersensory Synchrony in typically developing preschoolers: Insights from single-session Intersensory Synchrony Experiential Practice (ISEP-SS)",
