@@ -1,5 +1,44 @@
 [
   {
+    "id": "W7202214597",
+    "doi": "https://doi.org/10.1093/pnasnexus/pgag255",
+    "title_en": "Gender gaps in patience, risk-taking, trust, and prosociality are smaller among younger cohorts",
+    "title_ja": "若年層ほど男女差が縮小：忍耐力・リスク・信頼・向社会性",
+    "authors": [
+      "Rainer Kotschy",
+      "Uwe Sunde"
+    ],
+    "venue": "PNAS Nexus",
+    "published": "2026-08-11",
+    "topic": "Evolutionary Psychology and Human Behavior",
+    "summary_ja": "これまで多くの国で報告されてきた、忍耐力、リスク許容度、信頼、向社会性といった行動特性における男女差が、年齢層（コホート）によってどのように変化し、進化してきたかを調査しました。その結果、これらの男女差は若年層ほど小さくなる傾向があり、この縮小は年齢グループによるものではなく、誕生コホート間の違いに起因する可能性が示されました。この知見は、100カ国以上46万人を対象とした大規模な調査データから得られた相関関係に基づくものであり、性差の縮小を引き起こす具体的な原因の因果関係までは特定していません。",
+    "why_ja": "男女間の行動特性の差が縮小傾向にあるという知見は、教育制度、雇用慣行、社会政策などを設計する上で、より公平で実態に即したアプローチを検討する一助となるでしょう。",
+    "guest_slug": null,
+    "reviewed_at": "2026-08-12"
+  },
+  {
+    "id": "W7202080688",
+    "doi": "https://doi.org/10.1037/pspp0000610",
+    "title_en": "Self-efficacy predicts differential neuroticism change in a smartphone-based intervention.",
+    "title_ja": "自己効力感が高いと神経症傾向が改善しやすい",
+    "authors": [
+      "Michael D. Krämer",
+      "Amanda J. Wright",
+      "Peter Haehner",
+      "Johannes Zimmermann",
+      "Christoph Flückiger",
+      "Christopher J. Hopwood",
+      "Wiebke Bleidorn"
+    ],
+    "venue": "Journal of Personality and Social Psychology",
+    "published": "2026-08-10",
+    "topic": "Digital Mental Health Interventions",
+    "summary_ja": "スマートフォンを用いた6週間の介入と2ヶ月の追跡調査を通じて、自己効力感や成長マインドセットが神経症傾向の複数の指標に与える影響と、介入中の自己効力感と神経症傾向の週ごとの関連性を調べた。その結果、成長マインドセットではなく自己効力感が高い参加者ほど、介入前後および追跡調査において神経症傾向が減少し、情緒的レジリエンスが増加することが明らかになった。さらに、週ごとの分析では、ある週の高い自己効力感が翌週の低い神経症傾向を予測し、逆もまた同様であったが、本研究の参加者は85%が女性で、スイス、ドイツ、オーストリアに居住する者が大部分を占めていたため、これらの知見が全ての集団に等しく当てはまるかはさらなる検証が必要である。",
+    "why_ja": "この知見は、不安やストレスを感じやすい人が自己効力感を高めるための介入（例えば、小さな成功体験を積み重ねるプログラムなど）を設計する上で有効であり、精神的なレジリエンス向上に役立つだろう。",
+    "guest_slug": null,
+    "reviewed_at": "2026-08-12"
+  },
+  {
     "id": "W7202074550",
     "doi": "https://doi.org/10.1038/s41562-026-02535-z",
     "title_en": "Human ticklishness is a widespread, culturally shared and bodily organized sensory experience",
