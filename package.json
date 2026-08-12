@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
-    "build": "node scripts/build-articles.js && node scripts/generate-feed.js && vite build",
+    "build": "node scripts/build-articles.js && node scripts/generate-feed.js && node scripts/generate-sitemap.js && vite build",
     "feed:fetch": "node scripts/fetch-papers.js",
     "feed:draft": "node scripts/draft-papers.js",
     "feed:autoapprove": "node scripts/auto-approve.js",

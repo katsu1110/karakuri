@@ -1,6 +1,7 @@
 node_modules
 dist
 public/feed.xml
+public/sitemap.xml
 .DS_Store
 .env
 .env.local
