@@ -256,5 +256,56 @@
     "confidence": "high",
     "drafted_at": "2026-08-11",
     "published_at": "2026-08-11"
+  },
+  {
+    "id": "W7202214597",
+    "doi": "https://doi.org/10.1093/pnasnexus/pgag255",
+    "title_en": "Gender gaps in patience, risk-taking, trust, and prosociality are smaller among younger cohorts",
+    "authors": [
+      "Rainer Kotschy",
+      "Uwe Sunde"
+    ],
+    "venue": "PNAS Nexus",
+    "published": "2026-08-11",
+    "topic": "Evolutionary Psychology and Human Behavior",
+    "oa_status": "gold",
+    "abstract_en": "Abstract Recent empirical literature has documented that men and women differ systematically in measures of patience, risk-taking, trust, and prosociality in many countries throughout the world. These gender gaps have been associated with variation in economic and social development. However, little is known about how these gender gaps evolve and whether they systematically vary across age cohorts. To examine this question, we analyze how within-country gender gaps in patience, risk-taking, trust, and prosociality have evolved. We compare gender gaps across country-period-cohort cells using two survey datasets covering 460,000 people in more than 100 countries. Our results document that gender gaps in patience, risk-taking, trust, and prosociality are smaller among younger cohorts, and suggest that this decline can be attributed to variation across birth cohorts rather than age groups. These findings challenge the conjecture that gender gaps widen as countries develop and instead point to an ongoing decline in the differences between men and women.",
+    "title_ja": "若年層ほど男女差が縮小：忍耐力・リスク・信頼・向社会性",
+    "summary_ja": "これまで多くの国で報告されてきた、忍耐力、リスク許容度、信頼、向社会性といった行動特性における男女差が、年齢層（コホート）によってどのように変化し、進化してきたかを調査しました。その結果、これらの男女差は若年層ほど小さくなる傾向があり、この縮小は年齢グループによるものではなく、誕生コホート間の違いに起因する可能性が示されました。この知見は、100カ国以上46万人を対象とした大規模な調査データから得られた相関関係に基づくものであり、性差の縮小を引き起こす具体的な原因の因果関係までは特定していません。",
+    "why_ja": "男女間の行動特性の差が縮小傾向にあるという知見は、教育制度、雇用慣行、社会政策などを設計する上で、より公平で実態に即したアプローチを検討する一助となるでしょう。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-08-12",
+    "confidence": "high",
+    "drafted_at": "2026-08-12",
+    "published_at": "2026-08-12"
+  },
+  {
+    "id": "W7202080688",
+    "doi": "https://doi.org/10.1037/pspp0000610",
+    "title_en": "Self-efficacy predicts differential neuroticism change in a smartphone-based intervention.",
+    "authors": [
+      "Michael D. Krämer",
+      "Amanda J. Wright",
+      "Peter Haehner",
+      "Johannes Zimmermann",
+      "Christoph Flückiger",
+      "Christopher J. Hopwood",
+      "Wiebke Bleidorn"
+    ],
+    "venue": "Journal of Personality and Social Psychology",
+    "published": "2026-08-10",
+    "topic": "Digital Mental Health Interventions",
+    "oa_status": "closed",
+    "abstract_en": "= 25.88; 85% female; Residence: 47% Switzerland, 26% Germany, 26% Austria, 1% other), we tested whether self-efficacy and growth mindset predict change in multiple neuroticism measures across a 6-week intervention and 2-month follow-up. To isolate temporal processes during the intervention, we examined codevelopment of weekly neuroticism and self-efficacy and their week-to-week temporal associations. We found evidence for self-efficacy predicting differential neuroticism change but not for growth mindset. Participants with higher self-efficacy showed greater pre-post decreases in self-reported neuroticism and greater pre-post increases in emotional resilience than those with lower self-efficacy. At follow-up, participants with higher self-efficacy continued to improve more in neuroticism and emotional resilience. Last, higher self-efficacy in 1 week predicted lower neuroticism in the following week, and vice versa, independent of participants' overall trajectories. In contrast, there was no consistent evidence for between-person codevelopment of weekly self-efficacy and neuroticism across the intervention. Findings support theoretical expectations that perceived feasibility is a precondition for neuroticism change and suggest possible reinforcement mechanisms between weekly self-efficacy and neuroticism. We discuss implications for theory and future intervention studies. (PsycInfo Database Record (c) 2026 APA, all rights reserved).",
+    "title_ja": "自己効力感が高いと神経症傾向が改善しやすい",
+    "summary_ja": "スマートフォンを用いた6週間の介入と2ヶ月の追跡調査を通じて、自己効力感や成長マインドセットが神経症傾向の複数の指標に与える影響と、介入中の自己効力感と神経症傾向の週ごとの関連性を調べた。その結果、成長マインドセットではなく自己効力感が高い参加者ほど、介入前後および追跡調査において神経症傾向が減少し、情緒的レジリエンスが増加することが明らかになった。さらに、週ごとの分析では、ある週の高い自己効力感が翌週の低い神経症傾向を予測し、逆もまた同様であったが、本研究の参加者は85%が女性で、スイス、ドイツ、オーストリアに居住する者が大部分を占めていたため、これらの知見が全ての集団に等しく当てはまるかはさらなる検証が必要である。",
+    "why_ja": "この知見は、不安やストレスを感じやすい人が自己効力感を高めるための介入（例えば、小さな成功体験を積み重ねるプログラムなど）を設計する上で有効であり、精神的なレジリエンス向上に役立つだろう。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-08-12",
+    "confidence": "high",
+    "drafted_at": "2026-08-12",
+    "published_at": "2026-08-12"
   }
 ]
