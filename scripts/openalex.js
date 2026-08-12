@@ -20,6 +20,7 @@ export const FEED_SUBFIELDS = [
   'subfields/3207', // Social Psychology
   'subfields/3205', // Experimental & Cognitive Psychology
   'subfields/3202', // Applied Psychology
+  'subfields/3203', // Clinical Psychology
   'subfields/2805', // Cognitive Neuroscience
   'subfields/1803', // Management Science & OR
   'subfields/3300'  // General Social Sciences
