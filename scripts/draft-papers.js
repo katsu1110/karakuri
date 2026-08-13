@@ -1,6 +1,6 @@
 import fs from 'node:fs';
 import path from 'node:path';
-import { GoogleGenerativeAI } from '@google/generative-ai';
+import { GoogleGenAI } from '@google/genai';
 
 const INBOX_PATH = path.resolve('data/inbox.json');
 
@@ -16,21 +16,33 @@ function cleanJsonText(rawText) {
   return text;
 }
 
-async function generateDraftWithModel(ai, modelName, prompt) {
-  const model = ai.getGenerativeModel({
-    model: modelName,
-    generationConfig: {
-      responseMimeType: 'application/json'
-    }
-  });
+const DRAFT_JSON_SCHEMA = {
+  type: 'object',
+  properties: {
+    title_ja: { type: 'string' },
+    summary_ja: { type: 'string' },
+    why_ja: { type: 'string' },
+    confidence: { type: 'string', enum: ['high', 'low'] }
+  },
+  required: ['title_ja', 'summary_ja', 'why_ja', 'confidence']
+};
 
-  const result = await model.generateContent(prompt);
-  const responseText = result.response.text();
-  const cleaned = cleanJsonText(responseText);
+async function generateDraftWithModel(client, modelName, prompt) {
+  const interaction = await client.interactions.create({
+    model: modelName,
+    input: prompt,
+    response_format: {
+      type: 'text',
+      mime_type: 'application/json',
+      schema: DRAFT_JSON_SCHEMA
+    },
+    store: false
+  });
+  const cleaned = cleanJsonText(interaction.output_text);
   return JSON.parse(cleaned);
 }
 
-async function generateDraft(ai, item) {
+async function generateDraft(client, item) {
   const systemPrompt = `あなたは行動科学・社会心理学の査読論文を日本の読者にわかりやすく解説する専門ライターです。
 与えられた論文のタイトルと英文抄録（abstract）を読み、以下の条件に厳密に従って日本語で解説用のJSONを出力してください。
 
@@ -55,7 +67,9 @@ JSONオブジェクトのみを出力してください。キーは title_ja, su
 英文抄録:
 ${item.abstract_en}`;
 
-  const modelsToTry = ['gemini-2.5-flash', 'gemini-2.0-flash'];
+  // コスト優先: flash-lite が主、2.5-flash が品質セーフティネット。
+  // 文面品質が落ちる場合は2つを入れ替える（1行変更）。
+  const modelsToTry = ['gemini-3.5-flash-lite', 'gemini-2.5-flash'];
   let lastErr = null;
 
   for (const modelName of modelsToTry) {
@@ -64,7 +78,7 @@ ${item.abstract_en}`;
         const prompt = attempt === 1
           ? systemPrompt
           : `${systemPrompt}\n\n注意: 前回出力のパースに失敗しました。余計な文字列を含めず、厳格なJSONオブジェクトのみを出力してください。`;
-        const data = await generateDraftWithModel(ai, modelName, prompt);
+        const data = await generateDraftWithModel(client, modelName, prompt);
 
         if (
           typeof data.title_ja === 'string' &&
@@ -106,7 +120,7 @@ async function main() {
   }
 
   console.log(`Found ${newItems.length} "new" item(s). Drafting up to 5 items...`);
-  const ai = new GoogleGenerativeAI(apiKey);
+  const client = new GoogleGenAI({ apiKey });
   const todayStr = getTodayStr();
 
   let draftedCount = 0;
@@ -116,7 +130,7 @@ async function main() {
 
     console.log(`Drafting [${item.id}] ${item.title_en}...`);
     try {
-      const draft = await generateDraft(ai, item);
+      const draft = await generateDraft(client, item);
       item.title_ja = draft.title_ja;
       item.summary_ja = draft.summary_ja;
       item.why_ja = draft.why_ja;

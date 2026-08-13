@@ -29,7 +29,7 @@ scripts/…               パイプライン各段（下記 run script 参照）
 ```
 OpenAlex (論文 高々25件/日, 直近14日, 対象ソース+サブフィールド, 抄録あり)
   └─ feed:fetch   → data/inbox.json に status:"new" で追記（重複 ID スキップ）
-       └─ feed:draft → Gemini (gemini-2.5-flash→2.0-flash フォールバック) が
+       └─ feed:draft → Gemini (gemini-3.5-flash-lite→2.5-flash フォールバック) が
             title_ja(<40字)・summary_ja(3文: 目的/結果/限界)・why_ja(1文)・confidence
             を JSON のみで生成 → status:"draft"
             ├─ feed:autoapprove (cron) → confidence:"high" かつ必須項目+DOI あり
