@@ -20,6 +20,30 @@
     "note_url": ""
   },
   {
+    "slug": "money-testosterone-john-dinsmore",
+    "title": "お金に触れると、人は本当に利己的になるのか",
+    "date": "2026-08-13",
+    "lead": "お金を手にすると、人は誰でも利己的になり、人への支援を渋るようになるのでしょうか。実は、その答えは「どんな人か」によって異なることが、実験研究で示されています。 研究の問い：お金の「魔力」はどこまで本当か 私たちは、財布の中の現金を数えたり…",
+    "researcher_name_ja": "ジョン・ディンズモア",
+    "researcher_name_en": "John B. Dinsmore",
+    "researcher_affiliation": "Wright State University",
+    "sources": [
+      {
+        "label": "Dinsmore, J. B., Stenstrom, E., & Kunstman, J. W. (2020). Baseline testosterone moderates the effect of money exposure on charitable giving intent. Psychology and Marketing.",
+        "url": "https://doi.org/10.1002/mar.21368"
+      },
+      {
+        "label": "Stenstrom, E., Dinsmore, J. B., Kunstman, J. W., & Vohs, K. D. (2017). The effects of money exposure on testosterone and risk-taking, and the moderating role of narcissism. Personality and Individual Differences.",
+        "url": "https://doi.org/10.1016/j.paid.2017.10.035"
+      }
+    ],
+    "episode_ref": {
+      "title": "The Debt Trap",
+      "url": "https://www.hiddenbrain.org/podcast/the-debt-trap/"
+    },
+    "note_url": ""
+  },
+  {
     "slug": "emotional-intelligence-salovey",
     "title": "感情を「読み取り・整え・生かす」力—感情知性（EI）研究の原点",
     "date": "2026-08-11",
