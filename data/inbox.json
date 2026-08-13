@@ -307,5 +307,78 @@
     "confidence": "high",
     "drafted_at": "2026-08-12",
     "published_at": "2026-08-12"
+  },
+  {
+    "id": "W7202307704",
+    "doi": "https://doi.org/10.1177/01461672261472608",
+    "title_en": "Maybe I Can’t Cook, but It Doesn’t Mean I Don’t Care: Moral Framing and Private Criticism of Meat Consumption Leads to Psychological Defensiveness",
+    "authors": [
+      "Isaac Chung",
+      "Pascale Sophie Russell",
+      "Erica G. Hepper"
+    ],
+    "venue": "Personality and Social Psychology Bulletin",
+    "published": "2026-08-12",
+    "topic": "Psychology of Moral and Emotional Judgment",
+    "oa_status": "hybrid",
+    "abstract_en": "Meat consumption contributes to climate change and has become a moralized issue. People may face moral criticism for meat consumption. Building on the central role of morality in person evaluation, this research tested the hypotheses that moral (vs. competence) and public (vs. private) criticism received online would elicit greater defensiveness among meat-eaters. Study 1 ( N = 307) supported the hypothesis that moral criticism heightened defensive responses (e.g. sensitivity, derogation, and avoidance). Study 2 ( N = 316) showed, unexpectedly, that private criticism led to greater defensiveness, potentially due to its “personal” nature. Further analysis revealed that the effects of moral framing and private criticism were mediated by perceived moral devaluation. Defensive responses were also generally stronger among individuals higher in narcissistic rivalry. In addition, perceived moral devaluation predicted lower intention to reduce meat consumption. Public messaging aimed at reducing meat consumption should avoid moral framing and personal-sounding negative feedback to minimize defensive responses.",
+    "title_ja": "肉食への道徳的批判が心理的防御反応を引き起こす仕組み",
+    "summary_ja": "肉食に対する道徳的・能力的な批判や公開・非公開の状況が、肉食者の心理的防御反応に与える影響を調査した。その結果、道徳的な批判や予想に反してプライベートな批判が、道徳的価値の低下という知覚を介してより強い防御反応を引き起こすことがわかった。ただし、本研究のサンプルや社会的文脈の偏りがどのように影響したかについては、さらなる検証が必要である。",
+    "why_ja": "この知見は、環境問題などで肉食削減を訴える際に、相手を非難する伝え方を避けて反発を防ぐためのコミュニケーション戦略に役立つ。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-08-13",
+    "confidence": "high",
+    "drafted_at": "2026-08-13",
+    "published_at": "2026-08-13"
+  },
+  {
+    "id": "W7202304400",
+    "doi": "https://doi.org/10.1073/pnas.2536294123",
+    "title_en": "Recursive mentalizing and public salience in the perception of common knowledge",
+    "authors": [
+      "Julian De Freitas",
+      "Yuhui Huang",
+      "Steven Pinker"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-08-12",
+    "topic": "Action Observation and Synchronization",
+    "oa_status": "hybrid",
+    "abstract_en": "Common knowledge—what everyone knows that everyone knows, ad infinitum—is theoretically required for coordination. But a finite mind cannot represent infinitely embedded propositions, and even a few are cognitively taxing. We propose that people perceive common knowledge by combining a capacity-limited ability for recursive mentalizing with an intuitive sense of public salience: When an event is jointly and openly witnessed, they infer that recursively embedded beliefs are licensed. We probed participants’ attributions of embedded beliefs to characters in fictitious vignettes. Study 1 presented narratives in which the information available to characters was either asymmetrical, reciprocal, or public. Participants indicated their confidence in the characters’ beliefs with 0, 2, 4, 6, and 18 embeddings (the latter judged indirectly). Ratings showed i) a decline with number of embeddings, reflecting cognitive load, ii) modest overattribution of embedded beliefs in the nonpublic conditions, iii) far higher attribution of embedded beliefs in the public conditions, and iv) high indirect judgments that arbitrarily deep beliefs were justified. Study 2 replicated these findings with animated videos in which the characters’ information was private, reciprocal, doubly reciprocal, or public. Together, the studies indicate that people attribute common knowledge to observers of a publicly salient event, while being susceptible to capacity-driven recursion collapse and heuristic extrapolation (false embedded beliefs). This can explain how humans achieve coordination from sparse cues, yet sometimes miscoordinate when publicness is absent or embedding grows complex.",
+    "title_ja": "人間は「みんなが見ている状況」から共有知識をどう認識しているのか",
+    "summary_ja": "無限の入れ子構造を処理できない人間が、どのような仕組みで共有知識を認識し協調を達成しているのかを調べた。実験の結果、人々は公開された出来事を目撃した際に高次な信念を強く推論する一方で、非公開の状況では過剰な atribución（帰属）を行い、認知的負荷による限界も生じることがわかった。本研究は架空のシナリオやアニメーションを用いた実験室環境に基づいたものであり、実際の多様な社会場面における一般化にはさらなる検証が必要である。",
+    "why_ja": "この知見は、ビジネスや教育現場で正確な情報共有や誤解のないチーム間の合意形成（コーディネーション）を図る際、単なる連絡だけでなく「全員が同時に知っている」という状況証拠を意図的に作ることの重要性を理解するのに役立ちます。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-08-13",
+    "confidence": "high",
+    "drafted_at": "2026-08-13",
+    "published_at": "2026-08-13"
+  },
+  {
+    "id": "W4412870048",
+    "doi": "https://doi.org/10.1177/01461672261470131",
+    "title_en": "Seeing to Connect: How Visual and Auditory Channels Shape Empathic Interactions",
+    "authors": [
+      "Shir Genzer",
+      "Yonat Rum",
+      "Ulrike M. Krämer",
+      "Anat Perry"
+    ],
+    "venue": "Personality and Social Psychology Bulletin",
+    "published": "2026-08-11",
+    "topic": "Communication in Education and Healthcare",
+    "oa_status": "hybrid",
+    "abstract_en": "This research examines how visual and auditory channels affect empathic interactions from the perspectives of the listener (the empathy provider), the storyteller (the empathy recipient), and the shared dyadic experience. Across three pre-registered studies ( N = 710), storytellers shared emotional experiences with listeners through online video calls, with cameras on or off. Study 1 examined empathic accuracy, attentiveness, empathy, and togetherness. Study 2 replicated these findings and extended them to emotional congruency. Study 3 introduced vocal responsiveness, positivity resonance, and prosocial behavior. Auditory information alone was sufficient for listeners to accurately identify storytellers’ emotions and to maintain high self-reported attentiveness and empathy. However, visual information shaped how storytellers perceived their listeners, and was key to creating shared positive emotions, we-ness, and mutual care, and appeared to enhance prosocial behavior. These findings suggest that while hearing each other might suffice for information sharing, optimal empathic connection requires seeing and being seen.",
+    "title_ja": "オンラインの共感に視覚と聴覚が果たす異なる役割",
+    "summary_ja": "本研究は、オンラインでの対話において聴覚と視覚の情報チャネルが共感的なインタラクションに与える影響を調べた。その結果、音声のみでも感情の正確な読み取りや高い注意・共感は可能であったが、カメラによる視覚情報は共有されたポジティブ感情や一体感、相互ケア、そして利他的行動の促進に不可欠であることがわかった。ただし、本研究のサンプルやオンラインの文脈における結果であり、すべての対面コミュニケーションや多様な集団にそのまま一般化できるとは限らない点に注意が必要である。",
+    "why_ja": "この知見は、リモートワークやオンライン面談において、単なる情報伝達だけでなく深い一体感や信頼関係を築くためにカメラをオンにすることの重要性を考える際に役立つ。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-08-13",
+    "confidence": "high",
+    "drafted_at": "2026-08-13",
+    "published_at": "2026-08-13"
   }
 ]
