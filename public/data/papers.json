@@ -1,5 +1,60 @@
 [
   {
+    "id": "W7202307704",
+    "doi": "https://doi.org/10.1177/01461672261472608",
+    "title_en": "Maybe I Can’t Cook, but It Doesn’t Mean I Don’t Care: Moral Framing and Private Criticism of Meat Consumption Leads to Psychological Defensiveness",
+    "title_ja": "肉食への道徳的批判が心理的防御反応を引き起こす仕組み",
+    "authors": [
+      "Isaac Chung",
+      "Pascale Sophie Russell",
+      "Erica G. Hepper"
+    ],
+    "venue": "Personality and Social Psychology Bulletin",
+    "published": "2026-08-12",
+    "topic": "Psychology of Moral and Emotional Judgment",
+    "summary_ja": "肉食に対する道徳的・能力的な批判や公開・非公開の状況が、肉食者の心理的防御反応に与える影響を調査した。その結果、道徳的な批判や予想に反してプライベートな批判が、道徳的価値の低下という知覚を介してより強い防御反応を引き起こすことがわかった。ただし、本研究のサンプルや社会的文脈の偏りがどのように影響したかについては、さらなる検証が必要である。",
+    "why_ja": "この知見は、環境問題などで肉食削減を訴える際に、相手を非難する伝え方を避けて反発を防ぐためのコミュニケーション戦略に役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-08-13"
+  },
+  {
+    "id": "W7202304400",
+    "doi": "https://doi.org/10.1073/pnas.2536294123",
+    "title_en": "Recursive mentalizing and public salience in the perception of common knowledge",
+    "title_ja": "人間は「みんなが見ている状況」から共有知識をどう認識しているのか",
+    "authors": [
+      "Julian De Freitas",
+      "Yuhui Huang",
+      "Steven Pinker"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-08-12",
+    "topic": "Action Observation and Synchronization",
+    "summary_ja": "無限の入れ子構造を処理できない人間が、どのような仕組みで共有知識を認識し協調を達成しているのかを調べた。実験の結果、人々は公開された出来事を目撃した際に高次な信念を強く推論する一方で、非公開の状況では過剰な atribución（帰属）を行い、認知的負荷による限界も生じることがわかった。本研究は架空のシナリオやアニメーションを用いた実験室環境に基づいたものであり、実際の多様な社会場面における一般化にはさらなる検証が必要である。",
+    "why_ja": "この知見は、ビジネスや教育現場で正確な情報共有や誤解のないチーム間の合意形成（コーディネーション）を図る際、単なる連絡だけでなく「全員が同時に知っている」という状況証拠を意図的に作ることの重要性を理解するのに役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-08-13"
+  },
+  {
+    "id": "W4412870048",
+    "doi": "https://doi.org/10.1177/01461672261470131",
+    "title_en": "Seeing to Connect: How Visual and Auditory Channels Shape Empathic Interactions",
+    "title_ja": "オンラインの共感に視覚と聴覚が果たす異なる役割",
+    "authors": [
+      "Shir Genzer",
+      "Yonat Rum",
+      "Ulrike M. Krämer",
+      "Anat Perry"
+    ],
+    "venue": "Personality and Social Psychology Bulletin",
+    "published": "2026-08-11",
+    "topic": "Communication in Education and Healthcare",
+    "summary_ja": "本研究は、オンラインでの対話において聴覚と視覚の情報チャネルが共感的なインタラクションに与える影響を調べた。その結果、音声のみでも感情の正確な読み取りや高い注意・共感は可能であったが、カメラによる視覚情報は共有されたポジティブ感情や一体感、相互ケア、そして利他的行動の促進に不可欠であることがわかった。ただし、本研究のサンプルやオンラインの文脈における結果であり、すべての対面コミュニケーションや多様な集団にそのまま一般化できるとは限らない点に注意が必要である。",
+    "why_ja": "この知見は、リモートワークやオンライン面談において、単なる情報伝達だけでなく深い一体感や信頼関係を築くためにカメラをオンにすることの重要性を考える際に役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-08-13"
+  },
+  {
     "id": "W7202214597",
     "doi": "https://doi.org/10.1093/pnasnexus/pgag255",
     "title_en": "Gender gaps in patience, risk-taking, trust, and prosociality are smaller among younger cohorts",
