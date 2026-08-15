@@ -380,5 +380,30 @@
     "confidence": "high",
     "drafted_at": "2026-08-13",
     "published_at": "2026-08-13"
+  },
+  {
+    "id": "W7203493671",
+    "doi": "https://doi.org/10.1177/01461672261474563",
+    "title_en": "Continuous or Dichotomous Scales? Holistic and Analytic Thinking Styles Influence Response Fluency to Different Scale Formats and Trait-Consistent Behavior",
+    "authors": [
+      "David Santos",
+      "Dilney Gonçalves",
+      "Hongyi Lin",
+      "Blanca Requero"
+    ],
+    "venue": "Personality and Social Psychology Bulletin",
+    "published": "2026-08-14",
+    "topic": "Cultural Differences and Values",
+    "oa_status": "bronze",
+    "abstract_en": "Personality scales use response formats ranging from dichotomous to continuous. Understanding how individuals respond to these formats is crucial for interpreting the consequences of those responses. This research examines the moderating role of holistic-analytic thinking style on the impact of response formats on fluency and subsequent behavioral outcomes. Across multiple personality scales and methodological approaches ( N = 3,636), holistic (vs. analytic) thinkers experienced greater fluency with continuous (vs. dichotomous) scales. This effect was observed with measured and manipulated thinking styles (Studies 1 and 2) and replicated using cultural groups as a proxy (Study 3). We also explored psychological discomfort as a mechanism. A 3-point (Study 4) and a 6-point scale (Study 5) also elicited fluency among holistic individuals. Finally, matching thinking styles with scale formats affected behavioral intentions (Study 5) and behavior (Study 6). Our research indicates that choosing response formats should consider factors beyond psychometric properties, including cultural and individual differences.",
+    "title_ja": "思考スタイルが回答しやすさと行動に与える影響",
+    "summary_ja": "本研究は、全体論的あるいは分析的な思考スタイルが、性格検査の回答フォーマット（連続的か二分法的か）に対する反応のしやすさやその後の行動にどのような影響を与えるかを調べた。その結果、全体論的思考の人は連続尺度に対してより高い回答のしやすさを感じる傾向があり、思考スタイルと尺度の形式の一致が行動意図や実際の行動に影響することがわかった。ただし、本研究は複数の研究やサンプル（総数N=3,636）を用いて検討されているものの、文化的なグループや特定の心理メカニズムを代理指標として用いており、すべての個人や状況一般にそのまま当てはまるとは限らない。",
+    "why_ja": "この知見は、アンケートや心理テストを作成する際に回答者の文化的背景や思考スタイルを考慮し、より正確なデータを収集するための設計に役立つ。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-08-15",
+    "confidence": "high",
+    "drafted_at": "2026-08-15",
+    "published_at": "2026-08-15"
   }
 ]
