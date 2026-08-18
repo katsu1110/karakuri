@@ -1,5 +1,117 @@
 [
   {
+    "id": "W7203636965",
+    "doi": "https://doi.org/10.1073/pnas.2608183123",
+    "title_en": "A kinematic convergence in ape and monkey vertical climbing informs debates on early hominin arborealism",
+    "title_ja": "類人猿とサルは垂直登攀で同じ動きをする：初期人類の樹上生活論争に新視点",
+    "authors": [
+      "Luke D. Fannin",
+      "Carmen Pape",
+      "W. Scott McGraw"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-08-17",
+    "topic": "Primate Behavior and Ecology",
+    "summary_ja": "足の形態が異なるサルと類人猿の間で、垂直登攀の安全性や効率性にどのような違いがあるのかを調べた。その結果、スーティマンガベイというサルは類人猿や狩猟採集民と同程度の中足部の背屈を示すことが明らかになった。ただし、本研究は特定の野生ザル1種のデータに基づくものであり、すべての霊長類や化石人類に直接一般化できるわけではない。",
+    "why_ja": "この知見は、化石の骨の形だけで過去の生物の行動や生活環境を断定せず、生体力学的な共通性からもアプローチする重要性を教えてくれる。",
+    "guest_slug": null,
+    "reviewed_at": "2026-08-18"
+  },
+  {
+    "id": "W7203650043",
+    "doi": "https://doi.org/10.1038/s41562-026-02556-8",
+    "title_en": "Parental haplotype reconstruction in up to 440,209 UK and Estonian individuals reveals recent assortative mating dynamics",
+    "title_ja": "親の遺伝子情報から配偶者の類似選択（同類交配）の動態を解明",
+    "authors": [
+      "Robin J. Hofmeister",
+      "Davide Marnetto",
+      "Théo Cavinato",
+      "Leona Knüsel",
+      "Giorgia Modenini",
+      "Erwan Pennarun",
+      "Andres Metspalu",
+      "Lili Milani",
+      "Tõnu Esko",
+      "Mari Nelis",
+      "Georgi Hudjashov",
+      "Nicola Barban",
+      "Reedik Mägi",
+      "Tabea Schoeler",
+      "Luca Pagani",
+      "Zoltán Kutalik"
+    ],
+    "venue": "Nature Human Behaviour",
+    "published": "2026-08-17",
+    "topic": "Evolutionary Psychology and Human Behavior",
+    "summary_ja": "血縁者のデータから親の遺伝子型を再構築し、近年の同類交配（似た形質のパートナーを選ぶ傾向）の度合いを推計する新しい手法を開発した。この手法をイギリスとエストニアの大規模データに適用した結果、身長や学歴、テレビ視聴時間などの形質において遺伝的な同類交配が存在し、特に身長や学歴では近世代ほどその傾向が加速していることがわかった。ただし、分析対象は主にイギリスとエストニアの集団に限定されており、他の地域や文化圏の集団にも同様の傾向がそのまま当てはまるとは限らない。",
+    "why_ja": "この知見は、人間の形質や社会経済的要因が世代を超えてどのように遺伝・継承されていくのかを理解する上で役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-08-18"
+  },
+  {
+    "id": "W7203603878",
+    "doi": "https://doi.org/10.1038/s41562-026-02537-x",
+    "title_en": "Neural dynamics underlying minute-timescale persistent behaviour in the human brain",
+    "title_ja": "数分単位の行動を支える脳の2つの文脈維持メカニズム",
+    "authors": [
+      "Hristos Courellis",
+      "Michael Kyzar",
+      "Juri Minxha",
+      "Araceli R. Cardenas",
+      "Taufik A. Valiante",
+      "Adam N. Mamelak",
+      "Ralph Adolphs",
+      "Ueli Rutishauser"
+    ],
+    "venue": "Nature Human Behaviour",
+    "published": "2026-08-17",
+    "topic": "Memory and Neural Mechanisms",
+    "summary_ja": "人間の脳（内側前頭皮質と海馬）が数分単位の長期的な目標達成に向けてどのように文脈情報を保持しているかを調べた。その結果、海馬は時間経過とともに変化する動的な符号化を行い、内側前頭皮質は時間を超えて汎化可能な安定した符号化を行うことがわかった。ただし、本研究は脳神経外科の患者（25名）を対象とした医療データに基づくものであり、結果の一般化には注意が必要である。",
+    "why_ja": "この知見は、人間が長期的な目標に向かって行動を維持したり、状況の変化に応じて柔軟に計画を切り替えたりする仕組みを理解する手がかりとなる。",
+    "guest_slug": null,
+    "reviewed_at": "2026-08-18"
+  },
+  {
+    "id": "W7203626188",
+    "doi": "https://doi.org/10.1073/pnas.2419514123",
+    "title_en": "Association between precentral gyrus morphology and modality-specific intentional communication in chimpanzees ( <i>Pan troglodytes</i> )",
+    "title_ja": "チンパンジーの中心前回の形状と意図的な音声コミュニケーションの関連",
+    "authors": [
+      "Ophélie Foubet",
+      "Zhong Yi Sun",
+      "Jean‐François Mangin",
+      "Chet C. Sherwood",
+      "William D. Hopkins"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-08-17",
+    "topic": "Hemispheric Asymmetry in Neuroscience",
+    "summary_ja": "本研究では、チンパンジーの脳画像分析を用いて中心前回の形状の多様性と音声・手話コミュニケーションとの関連を調べた。その結果、左半球の下中心前回における特定の形状パターンが、注意を引くための意図的な音声コミュニケーションと関連していることがわかった。ただし、本研究のサンプルはチンパンジーに限定されており、結果の一般化には注意が必要である。",
+    "why_ja": "この知見は、人間の言語の進化や、脳の構造とコミュニケーション能力の関連性を生物学的な視点から理解する際に役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-08-18"
+  },
+  {
+    "id": "W7203650389",
+    "doi": "https://doi.org/10.1177/01461672261474568",
+    "title_en": "Race Distorts How Faces Seem (Un)trustworthy",
+    "title_ja": "顔の信頼性判断は人種によって異なる表情の類似性に依存する",
+    "authors": [
+      "Neelamberi D. Klein",
+      "Anjana Lakshmi",
+      "Erin Freiburger",
+      "Ryan Hutchings",
+      "Kurt Hugenberg"
+    ],
+    "venue": "Personality and Social Psychology Bulletin",
+    "published": "2026-08-16",
+    "topic": "Face Recognition and Perception",
+    "summary_ja": "本研究では、顔の構造的な特徴に基づく信頼性の印象が、観察対象の人種（白人・黒人・東アジア人）によってどのように異なるかを調べた。その結果、白人の顔では怒り、黒人の顔では恐怖や驚き、東アジア人の顔では複数のネガティブな感情との類似性が、不信感の判断に影響していることがわかった。ただし、本研究は合成顔を用いた実験室での評価に基づいており、サンプルも白人参加者に偏っているため、実際の対人場面や多様な文化圏全体にそのまま一般化できるかは慎重に検討する必要がある。",
+    "why_ja": "この知見は、無意識のうちに相手の人種によって異なる表情の偏見を抱いてしまうメカニズムを理解し、面接や司法などの社会的場面におけるバイアスを防ぐために役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-08-18"
+  },
+  {
     "id": "W7203493671",
     "doi": "https://doi.org/10.1177/01461672261474563",
     "title_en": "Continuous or Dichotomous Scales? Holistic and Analytic Thinking Styles Influence Response Fluency to Different Scale Formats and Trait-Consistent Behavior",
