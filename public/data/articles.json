@@ -1,5 +1,25 @@
 [
   {
+    "slug": "sticky-frames-ledgerwood",
+    "title": "一度ネガティブに捉えた物事は、なぜ考えを変えにくいのか",
+    "date": "2026-08-19",
+    "lead": "手術の説明を「生存率70%」と聞けば前向きになれるのに、同じ内容を後から「死亡率30%」と言い換えられると、なぜか印象は暗いままになる――そんな経験はないでしょうか。カリフォルニア大学デービス校のアリソン・レジャーウッドらの研究チームは、い…",
+    "researcher_name_ja": "アリソン・レジャーウッド",
+    "researcher_name_en": "Alison Ledgerwood",
+    "researcher_affiliation": "University of California, Davis",
+    "sources": [
+      {
+        "label": "Wang, Y. A., Liwag, M. C., Weltzien, K., Crowell, T. A., & Ledgerwood, A. (2023). Sticky Frames and What's in a Name: Frames Stick to Particular Objects. Social Cognition, 41(5), 391-415.",
+        "url": "https://doi.org/10.1521/soco.2023.41.5.391"
+      }
+    ],
+    "episode_ref": {
+      "title": "Stepping Out of the Shadows",
+      "url": "https://www.hiddenbrain.org/podcast/stepping-out-of-the-shadows/"
+    },
+    "note_url": ""
+  },
+  {
     "slug": "hero-journey-ben-rogers",
     "title": "「自分の人生を物語として語る」ことは、なぜ困難への強さにつながるのか",
     "date": "2026-08-16",

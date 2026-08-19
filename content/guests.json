@@ -70,5 +70,17 @@
       "url": "https://www.hiddenbrain.org/podcast/the-debt-trap/"
     },
     "added": "2026-08-13"
+  },
+  {
+    "slug": "alison-ledgerwood",
+    "name_en": "Alison Ledgerwood",
+    "name_ja": "アリソン・レジャーウッド",
+    "openalex_author_id": "A5049091848",
+    "affiliation": "University of California, Davis",
+    "episode": {
+      "title": "Stepping Out of the Shadows",
+      "url": "https://www.hiddenbrain.org/podcast/stepping-out-of-the-shadows/"
+    },
+    "added": "2026-08-19"
   }
 ]
