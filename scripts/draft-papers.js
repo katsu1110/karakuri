@@ -31,6 +31,9 @@ async function generateDraftWithModel(client, modelName, prompt) {
   const interaction = await client.interactions.create({
     model: modelName,
     input: prompt,
+    generation_config: {
+      thinking_level: 'low' // 単純な抽出タスク: 3.7-flash の既定 medium によるコスト増を避ける
+    },
     response_format: {
       type: 'text',
       mime_type: 'application/json',
@@ -67,9 +70,10 @@ JSONオブジェクトのみを出力してください。キーは title_ja, su
 英文抄録:
 ${item.abstract_en}`;
 
-  // コスト優先: flash-lite が主、2.5-flash が品質セーフティネット。
+  // コスト優先: flash-lite が主、3.7-flash が品質セーフティネット
+  // （2.5-flash は2026-10-16 retire のため置き換え）。
   // 文面品質が落ちる場合は2つを入れ替える（1行変更）。
-  const modelsToTry = ['gemini-3.5-flash-lite', 'gemini-2.5-flash'];
+  const modelsToTry = ['gemini-3.5-flash-lite', 'gemini-3.7-flash'];
   let lastErr = null;
 
   for (const modelName of modelsToTry) {
