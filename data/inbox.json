@@ -547,5 +547,28 @@
     "confidence": "high",
     "drafted_at": "2026-08-18",
     "published_at": "2026-08-18"
+  },
+  {
+    "id": "W7128722300",
+    "doi": "https://doi.org/10.1016/j.cognition.2026.106691",
+    "title_en": "Age-related differences in the role of explicit encoding instructions on verbal, visual and spatial Hebb learning",
+    "authors": [
+      "Helena Leach",
+      "Dominic Guitard"
+    ],
+    "venue": "Cognition",
+    "published": "2026-08-20",
+    "topic": "Memory Processes and Influences",
+    "oa_status": "hybrid",
+    "abstract_en": "Hebb repetition learning – the improved recall performance for repeated sequences compared to non-repeated sequences – is widely used as a laboratory measure of learning. Recent research has demonstrated that awareness of the repeated sequence enhances learning, although there is reason to believe that older adults may not benefit from such foreknowledge in the same way as younger adults. In three experiments, we systematically investigated the role of foreknowledge in younger and older adults, across verbal, visual and spatial Hebb repetition learning. Each experiment employed a serial recall task (of letters, Chinese characters or dot locations), in which a repeated sequence was presented on every third trial. Half of the participants received foreknowledge – they were informed that a repeated sequence would occur and were signalled the presence prior to its presentation. The remaining participants received no foreknowledge and were not explicitly made aware of the repeated sequence. We compared learning rates between younger and older adults, in both foreknowledge and no foreknowledge conditions. Across all experiments, we found comparable Hebb learning between younger and older adults in the no foreknowledge condition. However, the foreknowledge condition revealed that the additional cue provided substantially greater benefit for learning the repeated sequence in younger adults compared to older adults. We suggest this pattern reflects older adults' difficulties in forming associations, in this case, between the foreknowledge cue and the repeated sequence, which limits their ability to use the cue to enhance learning.",
+    "title_ja": "繰り返し学習における事前知識の効果：若年者と高齢者の違い",
+    "summary_ja": "本研究では、言語・視覚・空間の反復学習において、事前の予告（事前知識）が若年者と高齢者の学習効率に与える影響を調べた。事前知識がない状態では両世代の学習率に差はなかったが、事前知識を与えられた場合、若年者は学習が大きく促進された一方で高齢者の恩恵は限定的であった。本結果は実験室における特定の順序記憶課題に基づくものであり、高齢者が手がかりと情報の関連付けを苦手とする特性を反映している可能性がある点に留意が必要である。",
+    "why_ja": "この知見は、高齢者向けの学習支援や記憶補助ツールのデザインにおいて、単に事前情報を与えるだけでなく、情報同士を結びつけやすくする工夫が重要であることを示唆している。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-08-21",
+    "confidence": "high",
+    "drafted_at": "2026-08-21",
+    "published_at": "2026-08-21"
   }
 ]
