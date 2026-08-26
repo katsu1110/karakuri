@@ -1,5 +1,68 @@
 [
   {
+    "id": "W4414430346",
+    "doi": "https://doi.org/10.1177/09567976261461522",
+    "title_en": "A Single Dimension of Memory Strength Underlies Semantic and Phonological False Memories",
+    "title_ja": "意味的記憶と音韻的記憶の錯覚は、単一の記憶強度の次元で説明できる",
+    "authors": [
+      "Lyulei Zhang",
+      "Adam F Osth"
+    ],
+    "venue": "Psychological Science",
+    "published": "2026-08-25",
+    "topic": "Memory Processes and Influences",
+    "summary_ja": "意味的および音韻的な手がかりによって生じる偽りの記憶（偽記憶）が、異なる記憶プロセスに由来するものか、それとも単一のプロセスで説明できるのかを調べた。実験の結果、一見異なる反応パターンを示すものの、データ分析や数理モデルからは単一の記憶強度の次元と厳しさの異なる判断基準で説明できることがわかった。ただし、本研究はオーストラリアの大学生227名を対象とした実験室での結果に基づいているため、より多様な集団や実際の日常記憶一般にどこまで当てはまるかは慎重な検討が必要である。",
+    "why_ja": "この知見は、目撃証言の聴取や学習方法の設計において、情報の意味的・音韻的な類似性がどのように人間の記憶違いを引き起こすかを正しく理解するのに役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-08-26"
+  },
+  {
+    "id": "W7138938898",
+    "doi": "https://doi.org/10.1073/pnas.2614164123",
+    "title_en": "Loss of neuronal population organization links pathology to behavior in a model of Alzheimer’s disease",
+    "title_ja": "アルツハイマー病初期の行動異常と神経ネットワークの崩壊の関係",
+    "authors": [
+      "Douglas A. Ruff",
+      "Drew E G Sheets",
+      "Ramanujan Srinath",
+      "Giovanne B. Diniz",
+      "Devon J. Griggs",
+      "Danielle Beckman",
+      "Sean Ott",
+      "Kayla Schwartz",
+      "Carissa T. Erices",
+      "S. A. Muller",
+      "Jeffrey H Kordower",
+      "JH Morrison",
+      "Marlene R. Cohen"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-08-25",
+    "topic": "Memory and Neural Mechanisms",
+    "summary_ja": "本研究は、マカクザキンのアルツハイマー病モデルを用いて、病理進行に伴う行動の変化と大規模な神経集団活動の関係を縦断的に調査した。その結果、単一ニューロンの基本機能が維持されている一方で、視覚野と頭頂葉における神経集団の協調的活動が進行性に低下し、行動の組織化が損なわれることがわかった。ただし、本研究は動物モデル（マカクザキン）を用いた実験であり、ヒトの臨床現場や多様な病態において同様の因果関係がそのまま当てはまるかは慎重な検証が必要である。",
+    "why_ja": "この知見は、認知症初期における行動や思考の散漫さに対する新たな治療アプローチや、神経活動の協調性を標的とした介入方法を開発する際に役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-08-26"
+  },
+  {
+    "id": "W7204076173",
+    "doi": "https://doi.org/10.1037/pspi0000526",
+    "title_en": "Insights into growth mindsets over time: People with growth versus fixed mindsets grow increasingly negative in their reactions to others’ repeated failures.",
+    "title_ja": "成長マインドセットを持つ人は、他者の度重なる失敗に対してより否定的な反応を示す",
+    "authors": [
+      "Samantha Zaw",
+      "Laura Wallace",
+      "Ed O’Brien"
+    ],
+    "venue": "Journal of Personality and Social Psychology",
+    "published": "2026-08-24",
+    "topic": "Education, Achievement, and Giftedness",
+    "summary_ja": "他者の繰り返す失敗に対する評価者のマインドセット（成長型vs固定型）の影響と、時間経過に伴う感情的反応の変化を3つの研究で調べた。その結果、成長マインドセットを持つ人は、他者が失敗を繰り返すにつれて相手をより強く非難するようになり、感情的反応が急激に否定的になることがわかった。ただし、本研究は特定の実験環境に基づくものであり、実際の職場や教育現場における多様な文脈や長期的影響についてはさらなる検証が必要である。",
+    "why_ja": "この知見は、教育やマネジメントの現場で「失敗からの学習」を促す際、単に成長マインドセットを持つだけでは不十分であり、度重なる失敗に対する過度な非難を防ぐ仕組みづくりの重要性を考える際に役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-08-26"
+  },
+  {
     "id": "W4412182866",
     "doi": "https://doi.org/10.1073/pnas.2613593123",
     "title_en": "Calbindin stratifies midbrain dopaminergic neurons governing distinct aspects of locomotion",
