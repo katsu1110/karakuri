@@ -1,5 +1,104 @@
 [
   {
+    "id": "W4411231837",
+    "doi": "https://doi.org/10.1177/17456916261445341",
+    "title_en": "Theoretical and Methodological Insights From Five Transcribed and Annotated Daylong Audio Recordings of Young Children’s Language Environments",
+    "title_ja": "幼児の1日全体を記録した音声データの分析手法と知見",
+    "authors": [
+      "Jessica L. Montag",
+      "Zeynep B. Marasli",
+      "Katherine M. Koch"
+    ],
+    "venue": "Perspectives on Psychological Science",
+    "published": "2026-08-26",
+    "topic": "Phonetics and Phonology Research",
+    "summary_ja": "幼児の言語環境を正確に測定するため、1日分の網羅的な音声データを文字起こしして注釈を付ける手法とワークフローを調査した。その結果、大規模な音声データの分析を通じて幼児の言語環境に関する4つの重要な洞察が得られることがわかった。ただし、本研究は限られた事例に基づく方法論の提示であり、多様な文化や大規模なサンプルへの一般化にはさらなる検証が必要である。",
+    "why_ja": "この知見は、子供の言語習得を支える家庭環境の調査や、育児支援の新しい観察手法を設計する際に役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-08-28"
+  },
+  {
+    "id": "W7163967009",
+    "doi": "https://doi.org/10.1177/09567976261471424",
+    "title_en": "What Survivors Remembered: Cognitive and Experiential Themes in Trauma Narratives From the Deadliest Mass Shooting in Modern American History",
+    "title_ja": "米国の銃乱射事件生存者のトラウマ記憶：4つの認知的・体験的テーマ",
+    "authors": [
+      "William Ridgway",
+      "Kevin D. Mohawk",
+      "Rhiannon N. Soriano Smith",
+      "Renato M. Liboro",
+      "Charles A. Morgan",
+      "Stephen D. Benning",
+      "Colleen M. Parks"
+    ],
+    "venue": "Psychological Science",
+    "published": "2026-08-26",
+    "topic": "Posttraumatic Stress Disorder Research",
+    "summary_ja": "本研究では、史上最悪の銃乱射事件の生存者42名を対象に、事件直後に書かれたトラウマ記憶の記述における認知的・体験的パターンを調べた。その結果、文脈的記憶、身体的負傷、英雄的行動、死の直面という4つの主要なテーマが抽出され、鮮明な感覚印象や時間的歪みなどが確認された。ただし、自由想起ではなく誘導による想起である点や、修正可能な自己報告式であること、さらに女性の割合が偏って高いサンプルである点に注意が必要である。",
+    "why_ja": "この知見は、大規模災害や事件の生存者が抱えるトラウマ記憶の構造を理解し、より効果的な心理的支援やトラウマケアの方法を開発する際に役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-08-28"
+  },
+  {
+    "id": "W7204229209",
+    "doi": "https://doi.org/10.1093/pnasnexus/pgag291",
+    "title_en": "The global structure of classroom social networks predicts academic and psycho-social adjustment",
+    "title_ja": "教室内の人間関係ネットワークが学習成果や幸福度に与える影響",
+    "authors": [
+      "Claudia Neuendorf",
+      "Naoki Masuda",
+      "Kou Murayama"
+    ],
+    "venue": "PNAS Nexus",
+    "published": "2026-08-26",
+    "topic": "Mental Health Research Topics",
+    "summary_ja": "3万5千人以上の生徒データを使い、教室全体の社会的人間関係の構造が学業成績や心理社会的適応をどこまで予測できるかを機械学習により調べた。その結果、人間関係の構造は学業成績の分散の最大2%、ウェルビーイングの分散の最大18%を予測できることがわかった。ただし、この予測力は学校のトラックや社会経済的地位などの統制下で行われており、指導方法などの環境特性の予測には大きく寄与せず、ネットワークの種類や指標によって結果が大きく異なる点に注意が必要である。",
+    "why_ja": "この知見は、学校現場において生徒同士の人間関係の構造を把握し、いじめ防止や孤立解消に向けた効果的な介入プログラムを設計する際に役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-08-28"
+  },
+  {
+    "id": "W7204272149",
+    "doi": "https://doi.org/10.1073/pnas.2603685123",
+    "title_en": "Large-scale brain network reinstatement supports recognition memory",
+    "title_ja": "大規模脳ネットワークの再活性化が記憶の想起を支える",
+    "authors": [
+      "Jintao Sheng",
+      "Junle Li",
+      "Xiangli Zeng",
+      "Jinhui Wang"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-08-26",
+    "topic": "Face Recognition and Perception",
+    "summary_ja": "過去の記憶を思い出す際に、大規模な脳ネットワーク全体で神経活動のパターンがどのように再活性化されるのかを調べた。その結果、高次視覚系や背側注意システムなどのネットワーク間結合が、記憶の認識精度と強く関連していることがわかった。ただし、本研究は特定の自然画像データセットを用いた解析に基づいており、すべての種類の記憶や多様な状況へ直接一般化できるかは今後の検証が必要である。",
+    "why_ja": "この知見は、人間の記憶メカニズムの解明だけでなく、効果的な学習方法や記憶障害に対する新しいリハビリテーションアプローチの設計に役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-08-28"
+  },
+  {
+    "id": "W7204191831",
+    "doi": "https://doi.org/10.1073/pnas.2532908123",
+    "title_en": "Interactive representations of power and status signals in learning social hierarchies",
+    "title_ja": "社会的地位と権力が意思決定に与える影響の脳内メカニズム",
+    "authors": [
+      "Chunliang Feng",
+      "Feilong Liu",
+      "Binjie Yang",
+      "Edmund Derrington",
+      "Yuejia Luo",
+      "Chen Qu",
+      "Jean‐Claude Dreher"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-08-25",
+    "topic": "Action Observation and Synchronization",
+    "summary_ja": "他者の「地位」と「権力」に関する情報がどのように学習され、リスクを伴う意思決定に影響を与えるかを、機能的磁気共鳴画像法（fMRI）と計算論モデルを用いて調べた。その結果、地位の推定には内側前頭前皮質が、権力の推定には扁桃体がそれぞれ相関しつつも、両者のシグナルは互いに影響し合って意思決定を修飾することがわかった。ただし、本研究は実験的に作られた状況下での短期的な学習を対象としており、実際の複雑な社会環境における長期的な影響についてはさらなる検証が必要である。",
+    "why_ja": "この知見は、職場や組織の中で他者の肩書や権限が私たちの判断やアドバイスの受け入れ方にどのように影響しているのかを理解する手がかりになります。",
+    "guest_slug": null,
+    "reviewed_at": "2026-08-28"
+  },
+  {
     "id": "W4414430346",
     "doi": "https://doi.org/10.1177/09567976261461522",
     "title_en": "A Single Dimension of Memory Strength Underlies Semantic and Phonological False Memories",
