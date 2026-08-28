@@ -1,5 +1,78 @@
 [
   {
+    "id": "W4409919389",
+    "doi": "https://doi.org/10.1037/xge0001976",
+    "title_en": "Developmental trajectories of vigilance in childhood and adolescence: Disentangling underlying mechanisms through behavioral modeling.",
+    "title_ja": "子どもの注意・警戒機能の発達：行動モデリングによる解明",
+    "authors": [
+      "Rafael Román-Caballero",
+      "Laura Trujillo",
+      "Luis Cásedas",
+      "Paulina del Carmen Martín-Sánchez",
+      "Elisa Martín‐Arévalo",
+      "Juan Lupiáñez"
+    ],
+    "venue": "Journal of Experimental Psychology General",
+    "published": "2026-08-27",
+    "topic": "Complex Systems and Decision Making",
+    "summary_ja": "本研究では、行動モデリングを用いて子どもから青年期における持続的注意（警戒機能）の発達軌跡と背後にあるメカニズムを調査した。その結果、反応速度やその変動性は思春期後期にかけて向上して安定する一方、実行警戒には独自の2相性の発達パターンが存在することが明らかになった。ただし、本研究は特定の実験課題と限られたサンプルに基づくものであり、実際の複雑な環境下への一般化には慎重な解釈が求められる。",
+    "why_ja": "この知見は、子どもの発達段階に応じた無理のない学習環境の設計や、注意力の特性に合わせた効果的な教育・支援アプローチを検討する際に役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-08-28"
+  },
+  {
+    "id": "W4416107505",
+    "doi": "https://doi.org/10.1016/j.cognition.2026.106692",
+    "title_en": "The cognitive architecture of degraded speech intelligibility",
+    "title_ja": "聞き取りにくい音声の理解を支える認知能力の正体",
+    "authors": [
+      "Joseph Rovetti",
+      "Ingrid S. Johnsrude",
+      "Stephen C. Van Hedger"
+    ],
+    "venue": "Cognition",
+    "published": "2026-08-27",
+    "topic": "Stuttering Research and Treatment",
+    "summary_ja": "日常の様々な要因で聞き取りづらくなった音声の理解を、どのような基礎的な認知プロセスが支えているのかをオンライン実験で調べた。その結果、ワーキングメモリだけでなく流動性推論能力も音声理解を予測し、特に流動性推論が最も重要な予測因子であることがわかった。ただし、本研究は健康な成人89名を対象とした相関分析に基づくものであり、因果関係の断定や他の集団への一般化には限界がある。",
+    "why_ja": "この知見は、騒音下での聞き取りや音声コミュニケーションの困難さを改善するトレーニングや、音声認識支援技術を設計する際に役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-08-28"
+  },
+  {
+    "id": "W7112975209",
+    "doi": "https://doi.org/10.1037/xge0001978",
+    "title_en": "Task similarity increases difficulty in maintaining but not in switching between tasks.",
+    "title_ja": "課題の似通いは、切り替えよりも維持を難しくする",
+    "authors": [
+      "Marlene Poncet"
+    ],
+    "venue": "Journal of Experimental Psychology General",
+    "published": "2026-08-27",
+    "topic": "Neural and Behavioral Psychology Studies",
+    "summary_ja": "タスクスイッチング課題を用いて、課題間の類似性が遂行に与える影響を4つの実験から調べた。その結果、課題が似ているほど、次の課題への切り替え時ではなく、現在の課題を維持する際に困難が増すことがわかった。ただし、本研究は特定の実験パラダイムに基づくものであり、日常の多様な環境における一般化には限界がある。",
+    "why_ja": "この知見は、類似した作業を連続して行う際になぜミスや認知の混乱が起きやすいのかを理解し、効率的な業務マニュアルや学習カリキュラムを設計する際に役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-08-28"
+  },
+  {
+    "id": "W7204493346",
+    "doi": "https://doi.org/10.1177/01461672261472937",
+    "title_en": "The Lay Belief That There is Virtue in Duty and Duty in Virtue: A Novel Lens for Viewing Moral Judgment",
+    "title_ja": "道徳的判断における「徳」と「義務」の両面評価の重要性",
+    "authors": [
+      "Hajin Kim",
+      "Julian Jake Zlatev",
+      "Dale T. Miller"
+    ],
+    "venue": "Personality and Social Psychology Bulletin",
+    "published": "2026-08-26",
+    "topic": "Psychology of Moral and Emotional Judgment",
+    "summary_ja": "本研究では、道徳的行為に対する賞賛と非難の両方を測定する「2価の評価」が、人間の道徳的行動の予測や複雑な社会現象の理解にどう役立つかを調べた。その結果、行為を行うことの評価と行わないことの評価は体系的には関連せず、両面を評価することでマスク着用行動や献血減少といった既存の道徳的パズルや実際の投票行動を高精度に予測できることがわかった。ただし、本研究の知見は主に米国における調査や特定の状況下に基づくものであり、文化的な文脈や集団による違いについてはさらなる検証が必要である。",
+    "why_ja": "この知見は、人々の意外な行動や意見の対立の背景にある道徳観の構造を理解し、効果的な社会施策やコミュニケーションをデザインする際に役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-08-28"
+  },
+  {
     "id": "W4411231837",
     "doi": "https://doi.org/10.1177/17456916261445341",
     "title_en": "Theoretical and Methodological Insights From Five Transcribed and Annotated Daylong Audio Recordings of Young Children’s Language Environments",
