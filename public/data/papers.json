@@ -1,5 +1,75 @@
 [
   {
+    "id": "W7204578720",
+    "doi": "https://doi.org/10.1177/09567976261471405",
+    "title_en": "Action Framing Modulates the Pavlovian Bias in Go and No-Go Learning",
+    "title_ja": "行動の「意味づけ」がパブロフ的バイアスに与える影響",
+    "authors": [
+      "Zhang Chen",
+      "Senne Braem"
+    ],
+    "venue": "Psychological Science",
+    "published": "2026-08-28",
+    "topic": "Motor Control and Adaptation",
+    "summary_ja": "報酬や罰に関する手掛かりが人間の学習や行動選択にどのような影響を与えるかを調べた。実験の結果、報酬は「接近」、罰は「回避」というように従来の枠組みで行動を捉えた場合には典型的なバイアスが確認されたが、その意味づけを反転させるとバイアスが消失または減衰することがわかった。本研究は成人サンプルを対象とした実験室環境における行動分析と計算モデリングに基づいており、結果の一般化には文化や対象層の広がりを含めたさらなる検証が必要である。",
+    "why_ja": "この知見は、仕事や教育の現場でルールやタスクを指示する際、言葉のフレーミング（意味づけ）を工夫することで、無意識の認知バイアスや行動の偏りを効果的に防ぎ、柔軟な学習や意思決定を促す場面で役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-08-29"
+  },
+  {
+    "id": "W7204600371",
+    "doi": "https://doi.org/10.1177/17456916261460771",
+    "title_en": "Coming of Age With Generative Artificial Intelligence: The High Stakes of Automating Adolescent Development",
+    "title_ja": "生成AIが思春期の心の発達に与える光と影",
+    "authors": [
+      "Anne J. Maheux",
+      "Chelly Maes"
+    ],
+    "venue": "Perspectives on Psychological Science",
+    "published": "2026-08-28",
+    "topic": "Digital Mental Health Interventions",
+    "summary_ja": "本論文では、生成AIチャットボットの利用が思春期の心理社会的発達にどのような影響を与えるかを学際的視点から検討した。その結果、AIは社会的交流の練習や感情の調整を助ける一方で、社会的孤立のリスクや人間関係の歪みなど、発達上の重要な経験を阻害する恐れがあることがわかった。ただし、現時点では概念的な考察が中心であり、多様な集団を対象とした長期的な実証研究やさらなるデータの蓄積が必要である。",
+    "why_ja": "この知見は、子どもや若者が日常的に生成AIを利用する際のリスクを把握し、健全な発達を支えるためのガイドラインや教育方針を考える際に役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-08-29"
+  },
+  {
+    "id": "W7170231163",
+    "doi": "https://doi.org/10.1037/xge0001986",
+    "title_en": "Attentional engagement enhances encoding-based discrimination in aging.",
+    "title_ja": "高齢者の記憶力を支える「注意」の力：類似刺激の識別と年齢差",
+    "authors": [
+      "Tarek Amer",
+      "Jordana S. Wynn"
+    ],
+    "venue": "Journal of Experimental Psychology General",
+    "published": "2026-08-27",
+    "topic": "Neural and Behavioral Psychology Studies",
+    "summary_ja": "本研究では、目標指向型の注意が、類似した情報を記憶から区別する高齢者の能力低下をどのように和らげるかを調べた。その結果、意識的に注意を向けた刺激に対しては、高齢者でも若年者と同等の精度で類似アイテムを区別できることがわかった。ただし、本研究は特定の知覚課題と視線計測を用いた結果であり、すべての記憶場面や実社会の複雑な状況にそのまま一般化できるかはさらなる検証が必要である。",
+    "why_ja": "この知見は、高齢期の物忘れを防ぐ際、単に覚えようとするのではなく「意識的に注意を向ける」工夫が記憶の精度を高める実用的なヒントになる。",
+    "guest_slug": null,
+    "reviewed_at": "2026-08-29"
+  },
+  {
+    "id": "W7204450622",
+    "doi": "https://doi.org/10.1037/xge0001979",
+    "title_en": "Verbal recoding underlies visual ambiguity resolution, even in a nonlinguistic context.",
+    "title_ja": "非言語的な視覚情報でも言語化を介して解釈される",
+    "authors": [
+      "Angelle Antoun",
+      "Jacqueline Zhang",
+      "Fei Xu",
+      "Benjamin Wilson"
+    ],
+    "venue": "Journal of Experimental Psychology General",
+    "published": "2026-08-27",
+    "topic": "Categorization, perception, and language",
+    "summary_ja": "非言語的な刺激の提示順序がカテゴリー分けに影響を与える現象において、言語システムが関与しているかを調べた。音韻的な言語干渉課題を行ったところ、配列の効果が大幅に減少したことがわかった。ただし、本研究は特定の実験課題と参加者に基づく結果であり、すべての視覚認知や日常のあらゆる状況にそのまま当てはまるとは限らない。",
+    "why_ja": "この知見は、私たちが普段の生活で目にする視覚情報やデザインを直感的に理解する際にも、無意識の言語化が大きな役割を果たしていることを理解するのに役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-08-29"
+  },
+  {
     "id": "W4409919389",
     "doi": "https://doi.org/10.1037/xge0001976",
     "title_en": "Developmental trajectories of vigilance in childhood and adolescence: Disentangling underlying mechanisms through behavioral modeling.",
