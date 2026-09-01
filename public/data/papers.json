@@ -1,5 +1,118 @@
 [
   {
+    "id": "W4415223692",
+    "doi": "https://doi.org/10.1016/j.cognition.2026.106695",
+    "title_en": "The impact of visual imagery absence on fine-grained memory for object colour and size: an aphantasia study",
+    "title_ja": "アファンタジアにおける色の記憶と視覚イメージの役割",
+    "authors": [
+      "Xiangqi Luo",
+      "Minhong Zhu",
+      "CUI Zhenjiang",
+      "Joanne Taylor",
+      "Huafeng Tang",
+      "Zhiyun Dai",
+      "Xuliang Zhang",
+      "Yuxin Liu",
+      "Dorothy Z. Gao",
+      "Serena Yu-Xi Shi",
+      "Zaizhu Han"
+    ],
+    "venue": "Cognition",
+    "published": "2026-09-01",
+    "topic": "Color perception and design",
+    "summary_ja": "意図的に頭の中で映像を描けないアファンタジアの人々において、視覚イメージの欠如が物の色やサイズの細かい記憶にどのような影響を与えるかを調べた。色彩記憶の実験では、アファンタジア群は対照群よりも色の想起エラーが大きいことが判明した一方で、サイズ記憶の実験では両群間に差は見られなかった。本研究は特定の色彩記憶課題における影響を示したものの、被験者数が限られており、すべての視覚的特徴や集団に一般化できるかは慎重な検討が必要である。",
+    "why_ja": "この知見は、目に見えない情報を思い出す仕組みを理解し、個人差に応じた学習法やデザインを設計する際に役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-09-01"
+  },
+  {
+    "id": "W4323316297",
+    "doi": "https://doi.org/10.1037/rev0000646",
+    "title_en": "Modular serial-parallel network for hierarchical facial representations.",
+    "title_ja": "顔認知における全体的・分析的処理を統合する新モデル",
+    "authors": [
+      "Mario Fifić",
+      "Daniel R. Little",
+      "Cheng-Ta"
+    ],
+    "venue": "Psychological Review",
+    "published": "2026-08-31",
+    "topic": "Face Recognition and Perception",
+    "summary_ja": "顔情報の階層的な処理と高次認知プロセスを統合するため、著者らは「モジュラー直列-並列ネットワーク（MSPN）」という新しい計算論的フレームワークを提案した。顔分類タスクを用いた検証において、MSPNは他のモデルと比較して選択反応時間分布を非常に高い精度で説明できることがわかった。ただし、本研究は計算モデルの構築と提示が主であり、実際の人間を対象とした実験的検証やサンプルの限定性については今後の応用研究で確かめる必要がある。",
+    "why_ja": "この知見は、AIによる顔認識システムの精度向上や、人間の複雑な顔の見分け方・記憶メカニズムを解明する手がかりとして役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-09-01"
+  },
+  {
+    "id": "W4417116802",
+    "doi": "https://doi.org/10.1073/pnas.2536560123",
+    "title_en": "Asymmetrical modulation of fear expression via GABA B receptors in the mouse medial habenula",
+    "title_ja": "マウスの内側手綱核における恐怖記憶の左右非対称な制御",
+    "authors": [
+      "Cihan Önal",
+      "Peter Koppensteiner",
+      "Mary Muhia",
+      "Elodie Le Monnier",
+      "Ryuichi Shigemoto"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-08-31",
+    "topic": "Hemispheric Asymmetry in Neuroscience",
+    "summary_ja": "マウスの脳内における内側手綱核から脚間核への神経回路において、恐怖反応の調節に関する左右の機能的非対称性を調べた。その結果、左側の神経回路特有のGABA B受容体を介したシグナル伝達が、手綱核における恐怖記憶の想起に主要な役割を果たしていることがわかった。ただし、本研究はマウスを用いた実験に基づくものであり、内臓の左右位の変異など発生学的な条件による影響も受けるため、そのままヒトの感情制御に直接当てはめて一般化することはできない。",
+    "why_ja": "この知見は、トラウマ記憶や恐怖反応に関連する不安障害などの精神疾患において、脳の左右差に着目した新しい治療法や創薬ターゲットの検討に役立つ可能性がある。",
+    "guest_slug": null,
+    "reviewed_at": "2026-09-01"
+  },
+  {
+    "id": "W7117129122",
+    "doi": "https://doi.org/10.1073/pnas.2608875123",
+    "title_en": "Functional fractionation of large-scale brain networks in the human subcortex",
+    "title_ja": "ヒト脳の皮質下における大規模ネットワークの機能的細分化の解明",
+    "authors": [
+      "Jian Li",
+      "Alexander S. Atalay",
+      "Mark Olchanyi",
+      "Morgan K. Cambareri",
+      "Satrajit S. Ghosh",
+      "Andreas Horn",
+      "L. H. Lewis",
+      "Emery N. Brown",
+      "Bruce Fischl",
+      "Hannah C. Kinney",
+      "Brian L. Edlow"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-08-31",
+    "topic": "Functional Brain Connectivity Studies",
+    "summary_ja": "本研究では、fMRIの信号強度や空間的重複の課題を克服し、ヒト脳の皮質下領域における大規模脳ネットワークの機能的構造を明らかにすることを目的とした。その結果、皮質下において15の重複・相関するサブネットワークを同定し、これらが健常者の間で極めて再現性が高く、重度外傷性脳損傷患者の意識レベルを予測できることがわかった。ただし、本知見は現時点では脳の構造的・機能的基盤に関する基礎的・臨床的な可能性を示すものであり、実際の治療法への応用にはさらなる検証が必要である。",
+    "why_ja": "この知見は、意識障害などの神経精神疾患の病態解明や、新たなニューロモデュレーション治療の開発に応用できる。",
+    "guest_slug": null,
+    "reviewed_at": "2026-09-01"
+  },
+  {
+    "id": "W7126131625",
+    "doi": "https://doi.org/10.1073/pnas.2603126123",
+    "title_en": "Affect labeling down-regulates amygdala only in a dominant native language",
+    "title_ja": "感情に名前をつける「情動ラベリング」の効果は母語でのみ生じる",
+    "authors": [
+      "Tatiana Davydova",
+      "Lidón Marín-Marín",
+      "Anastasia Cherednichenko",
+      "Alexander Fengler",
+      "Jesús Adrián‐Ventura",
+      "María‐Ángeles Palomar‐García",
+      "Marc-Lluís Vives",
+      "Víctor Costumero"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-08-31",
+    "topic": "Memory and Neural Mechanisms",
+    "summary_ja": "バイリンガルを対象に、感情を言語化（ラベリング）することが脳の扁桃体の活動を低下させるメカニズムにおいて、言語の優位性が果たす役割を調べた。その結果、言語能力が偏ったバイリンガルでは優位な母語でのみ扁桃体の活動が低下した一方、バランス型バイリンガルではどちらの言語でも低下が見られなかった。ただし、本研究は特定の言語ペアを持つバイリンガルを対象とした実験室での神経科学的測定にとどまり、日常の多様な感情調整場面へそのまま一般化できるかは限定的である。",
+    "why_ja": "この知見は、多言語話者がストレスや感情をコントロールする際、どの言語で言語化するかによってその心理的・神経科学的な効果が異なることを理解するのに役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-09-01"
+  },
+  {
     "id": "W7204578720",
     "doi": "https://doi.org/10.1177/09567976261471405",
     "title_en": "Action Framing Modulates the Pavlovian Bias in Go and No-Go Learning",
