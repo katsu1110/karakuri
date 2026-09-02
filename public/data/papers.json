@@ -1,5 +1,27 @@
 [
   {
+    "id": "W7204884921",
+    "doi": "https://doi.org/10.1073/pnas.2536750123",
+    "title_en": "Comparative atlas of PVN oxytocin and vasopressin systems reveals sex-conserved input–output wiring",
+    "title_ja": "オキシトシンとバソプレシン神経回路の構造と性差の有無を解明",
+    "authors": [
+      "Sara N. Freda",
+      "Yasmeen F. Lowe",
+      "Michael F. Priest",
+      "Deanna Badong",
+      "Yuejun Liu",
+      "Lei Xiao",
+      "Yevgenia Kozorovitskiy"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-09-01",
+    "topic": "Neuroendocrine regulation and behavior",
+    "summary_ja": "マウスの視床下部におけるオキシトシンとバソプレシンを産生する神経回路の入力と出力の構造、およびそこに性差があるかを調べました。その結果、両者の神経への入力元は似ていますが、軸索の出力先はオキシトシン神経の方が広範であり、いずれの回路にも性差は認められないことがわかりました。本研究はあくまでマウスを用いた神経解剖学的観察に基づくものであり、ヒトの複雑な行動や因果関係を直接証明するものではありません。",
+    "why_ja": "この知見は、社会的行動やストレス応答に関わる脳内メカニズムの基礎理解を深め、将来的な精神疾患の治療法開発や生物学的な性差に関する議論の土台として役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-09-02"
+  },
+  {
     "id": "W4415223692",
     "doi": "https://doi.org/10.1016/j.cognition.2026.106695",
     "title_en": "The impact of visual imagery absence on fine-grained memory for object colour and size: an aphantasia study",
