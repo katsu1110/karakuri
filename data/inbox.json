@@ -1198,5 +1198,33 @@
     "confidence": "high",
     "drafted_at": "2026-09-01",
     "published_at": "2026-09-01"
+  },
+  {
+    "id": "W7204884921",
+    "doi": "https://doi.org/10.1073/pnas.2536750123",
+    "title_en": "Comparative atlas of PVN oxytocin and vasopressin systems reveals sex-conserved input–output wiring",
+    "authors": [
+      "Sara N. Freda",
+      "Yasmeen F. Lowe",
+      "Michael F. Priest",
+      "Deanna Badong",
+      "Yuejun Liu",
+      "Lei Xiao",
+      "Yevgenia Kozorovitskiy"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-09-01",
+    "topic": "Neuroendocrine regulation and behavior",
+    "oa_status": "closed",
+    "abstract_en": "Oxytocin and vasopressin are pleiotropic, structurally similar neuropeptides with well-established roles in the regulation of social behavior and homeostatic functions. Both neuropeptides support sexually dimorphic behaviors, ranging from lactation and uterine contractions for oxytocin to male-typical territorial aggression for vasopressin. Whether oxytocin and vasopressin circuits share similar input–output architecture has not been examined. Similarly, it remains unknown whether sex differences exist within the oxytocin and vasopressin central circuits. To close these gaps, we generated quantitative anterograde projection and retrograde input maps for the paraventricular hypothalamic oxytocin and vasopressin systems in mice. We observed that oxytocinergic and vasopressinergic neurons retain similar synaptic input architecture, with largely shared hypothalamic area inputs and some divergence across thalamic and pallidal afferents. In contrast, axonal projection patterns showed substantial differences between oxytocin and vasopressin neurons, with the former more densely innervating a broad range of forebrain and hindbrain regions. Comparisons across sex revealed no significant differences in synaptic inputs and outputs, for either the oxytocin or vasopressin systems. On average, brain regions that provided synaptic inputs to the paraventricular nucleus (PVN) oxytocin or vasopressin neurons tended to be balanced, in that they also received projection outputs from the respective brain area. Together, our data represent a comparative study of PVN oxytocin and vasopressin input–output architecture, highlighting a prominent recurrent organizational motif in both systems and their broadly sex-conserved organization at the macroscale level.",
+    "title_ja": "オキシトシンとバソプレシン神経回路の構造と性差の有無を解明",
+    "summary_ja": "マウスの視床下部におけるオキシトシンとバソプレシンを産生する神経回路の入力と出力の構造、およびそこに性差があるかを調べました。その結果、両者の神経への入力元は似ていますが、軸索の出力先はオキシトシン神経の方が広範であり、いずれの回路にも性差は認められないことがわかりました。本研究はあくまでマウスを用いた神経解剖学的観察に基づくものであり、ヒトの複雑な行動や因果関係を直接証明するものではありません。",
+    "why_ja": "この知見は、社会的行動やストレス応答に関わる脳内メカニズムの基礎理解を深め、将来的な精神疾患の治療法開発や生物学的な性差に関する議論の土台として役立ちます。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-09-02",
+    "confidence": "high",
+    "drafted_at": "2026-09-02",
+    "published_at": "2026-09-02"
   }
 ]
