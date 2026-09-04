@@ -1,5 +1,106 @@
 [
   {
+    "id": "W7167514596",
+    "doi": "https://doi.org/10.1037/pspp0000611",
+    "title_en": "How will I know if you really like me? Assessing the role of appearance, behavior, and reciprocity for metaliking accuracy in initial social encounters.",
+    "title_ja": "初対面で「相手が自分を好きか」正確に察知できる要因とは",
+    "authors": [
+      "Jana Bruns",
+      "Eva Bleckmann",
+      "Lisa Maria Niemeyer",
+      "Mitja D Back",
+      "Steffen Nestler"
+    ],
+    "venue": "Journal of Personality and Social Psychology",
+    "published": "2026-09-03",
+    "topic": "Evolutionary Psychology and Human Behavior",
+    "summary_ja": "初対面の状況において、人々が他者からの好意（メタ好意）を正確に読み取るプロセスで、外見や行動、相手の態度、および互恵性ヒューリスティックが果たす役割を調べた。その結果、人々は他者から全体的に好かれているかは推測できるものの、特定の個人からどう思われているかまではほとんど把握できず、好意の正確性には「相手も自分を好きはずだという思い込み（互恵性）」が大きく影響していることがわかった。ただし、本研究のサンプルは平均年齢約23歳の大学生等144名（女性が約68%）に限定されており、結果の一般化には注意が必要である。",
+    "why_ja": "この知見は、初対面の人間関係やコミュニケーションにおいて、自分に対する相手の好意を過信せず、思い込みに頼りすぎない円滑な関係構築に役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-09-04"
+  },
+  {
+    "id": "W7207524819",
+    "doi": "https://doi.org/10.1016/j.cognition.2026.106697",
+    "title_en": "Does disfluency affect social judgments and decisions? Evidence from spontaneous speech",
+    "title_ja": "「えー」「あの」の言い淀みは社会的評価を下げるのか？",
+    "authors": [
+      "Jonathan Him Nok Lee",
+      "Anna Papafragou"
+    ],
+    "venue": "Cognition",
+    "published": "2026-09-03",
+    "topic": "Phonetics and Phonology Research",
+    "summary_ja": "自然な発話における言い淀み（フィラー）が話し手の社会的評価に与える影響を検証した。話し手全体の有能さや信頼感には影響しないものの、特定の会話場面では信頼性の低下や将来の交流回避につながることがわかった。ただし、実験は特定の音声刺激と限定的な文脈に基づいており、文化的背景や状況による影響の限界についてはさらなる検証が必要である。",
+    "why_ja": "この知見は、プレゼンや面接などの対人コミュニケーションにおいて、言葉につまることが必ずしも致命的な悪印象を与えない一方で、特定の場面での印象管理に注意すべき場面を理解するのに役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-09-04"
+  },
+  {
+    "id": "W7207529949",
+    "doi": "https://doi.org/10.1177/01461672261478729",
+    "title_en": "The Impact of Regulatory Goals on the Disclosure of Self-presentational Vulnerabilities",
+    "title_ja": "自己の弱みをあえて明かす心理：予防焦点と親密な関係がもたらす効果",
+    "authors": [
+      "Sohyun Bae",
+      "Natalie T. Faust",
+      "Sharon Ng"
+    ],
+    "venue": "Personality and Social Psychology Bulletin",
+    "published": "2026-09-03",
+    "topic": "Behavioral Health and Interventions",
+    "summary_ja": "偽造品の使用やダイエット薬の服用といった自己の脆弱性を、どのような人がどのような状況で開示するのかを8つの研究を通じて調べた。その結果、促進焦点の個人と比較して、予防焦点の個人は、親密な他者に対してのみ自身の弱みをより積極的に開示する傾向があることがわかった。ただし、本研究のサンプルや文化的背景には限界があるため、すべての集団や関係性にそのまま一般化できるとは限らない。",
+    "why_ja": "この知見は、人間関係において自分の弱みや失敗をどの程度共有すべきか、信頼関係を深めるためのコミュニケーション戦略を考える際に役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-09-04"
+  },
+  {
+    "id": "W7207630045",
+    "doi": "https://doi.org/10.1177/01461672261478731",
+    "title_en": "Diverging Effects of Deliberation: How Perceived Thoughtfulness About Political Issues Affects Character Judgments",
+    "title_ja": "政治的意見の熟考が道徳的評価に与える影響",
+    "authors": [
+      "Zachary N. Grey",
+      "Paul Bloom",
+      "Jason E. Plaks",
+      "Yoel Inbar"
+    ],
+    "venue": "Personality and Social Psychology Bulletin",
+    "published": "2026-09-03",
+    "topic": "Psychology of Moral and Emotional Judgment",
+    "summary_ja": "政治的意見が一致または対立する相手について、熟考しているという知覚が道徳的性格の評価にどう影響するかを3つの研究（N=896）で調べた。意見が一致する場合は熟考の効果が見られなかった一方、意見が対立する場合は熟考によって相手への評価がより肯定的になることがわかった。ただし、本研究は特定の文化圏やサンプルに基づいているため、他者への評価プロセス全体を一般化するにはさらなる検証が必要である。",
+    "why_ja": "この知見は、政治的意見が異なる相手と対話や議論をする際、熟考している姿勢を示すことが関係改善や摩擦の軽減に役立つ場面で活用できる。",
+    "guest_slug": null,
+    "reviewed_at": "2026-09-04"
+  },
+  {
+    "id": "W7207744611",
+    "doi": "https://doi.org/10.1177/17456916261466950",
+    "title_en": "Ten Concerns About Volitional Personality-Change Interventions—and How to Address Them",
+    "title_ja": "意図的な性格変化介入における10の懸念と今後の課題",
+    "authors": [
+      "Peter Haehner",
+      "Eva Asselmann",
+      "Saskia Baumgardt",
+      "Lena Brueggmann",
+      "Jaap J. A. Denissen",
+      "Claudia Harzer",
+      "Christina M. Juchem",
+      "Michael Dominik Krämer",
+      "Niclas Kuper",
+      "Lara Puhlmann",
+      "Johannes Zimmermann",
+      "Wiebke Bleidorn"
+    ],
+    "venue": "Perspectives on Psychological Science",
+    "published": "2026-09-03",
+    "topic": "Personality Traits and Psychology",
+    "summary_ja": "本研究では、近年関心が高まっている意図的な性格変化を促す介入手法について、その方法論的・倫理的・実用的な10の懸念事項を検討した。介入には生活の質や自己満足感を向上させる可能性が示されている一方で、その効果やリスク、社会的影響については慎重な検証が必要であることがわかった。本論文は既存の心理学研究に基づく理論的考察であり、具体的な介入手法の限界や長期的な影響については今後の実証研究が不可欠である。",
+    "why_ja": "自己改善を目指して新たな心理学的介入を試みる際に、その効果だけでなく潜在的なリスクや倫理的課題を批判的に見極めるために役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-09-04"
+  },
+  {
     "id": "W7204884921",
     "doi": "https://doi.org/10.1073/pnas.2536750123",
     "title_en": "Comparative atlas of PVN oxytocin and vasopressin systems reveals sex-conserved input–output wiring",
