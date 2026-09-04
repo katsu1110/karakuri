@@ -1,5 +1,65 @@
 [
   {
+    "slug": "fresh-start-nine-enders-alter",
+    "title": "29歳・39歳で人生を見直したくなるのはなぜか",
+    "date": "2026-09-04",
+    "lead": "29歳、39歳、49歳。キリのいい年齢が近づくと、なぜか「このままでいいのか」と立ち止まって考えてしまう。そんな経験はないでしょうか。 ニューヨーク大学のアダム・オルター（Adam L. Alter）らが『米国科学アカデミー紀要（PNAS）…",
+    "researcher_name_ja": "アダム・オルター",
+    "researcher_name_en": "Adam L. Alter",
+    "researcher_affiliation": "New York University Stern School of Business",
+    "sources": [
+      {
+        "label": "Alter, A. L., & Hershfield, H. E. (2014). People search for meaning when they approach a new decade in chronological age. Proceedings of the National Academy of Sciences.",
+        "url": "https://doi.org/10.1073/pnas.1415086111"
+      }
+    ],
+    "episode_ref": {
+      "title": "You 2.0: How to Get Out of a Rut",
+      "url": "https://www.hiddenbrain.org/podcast/you-2-0-how-to-break-out-of-a-rut/"
+    },
+    "note_url": ""
+  },
+  {
+    "slug": "patience-schnitker",
+    "title": "「忍耐力」は生まれつきのものではなく、測って育てられる能力なのか",
+    "date": "2026-09-04",
+    "lead": "忍耐力（patience）は、いらだちや困難に直面しても「穏やかに待ち続ける力」です。では、それは単にじっと我慢することと同じなのでしょうか。ベイラー大学のサラ・シュニトカー（Sarah A. Schnitker）氏は、忍耐を「待てる能力」…",
+    "researcher_name_ja": "サラ・シュニトカー",
+    "researcher_name_en": "Sarah A. Schnitker",
+    "researcher_affiliation": "Baylor University",
+    "sources": [
+      {
+        "label": "Schnitker, S. A. (2012). An examination of patience and well-being. The Journal of Positive Psychology, 7(4), 263–280.",
+        "url": "https://doi.org/10.1080/17439760.2012.697185"
+      }
+    ],
+    "episode_ref": {
+      "title": "You 2.0: The Practice of Patience",
+      "url": "https://www.hiddenbrain.org/podcast/you-2-0-the-practice-of-patience/"
+    },
+    "note_url": ""
+  },
+  {
+    "slug": "spiraling-walton",
+    "title": "「ここに居ていい」と確信できるだけで、学業と健康の差は縮まるのか",
+    "date": "2026-09-04",
+    "lead": "新しい学校や職場に入ったとき、「ここで自分はうまくやっていけるのだろうか」「周りに受け入れてもらえるのだろうか」という不安を感じたことはありませんか。 スタンフォード大学のグレッグ・ウォルトン（Gregory M. Walton）とジェフリ…",
+    "researcher_name_ja": "グレッグ・ウォルトン",
+    "researcher_name_en": "Gregory M. Walton",
+    "researcher_affiliation": "Stanford University",
+    "sources": [
+      {
+        "label": "Walton, G. M., & Cohen, G. L. (2011). A Brief Social-Belonging Intervention Improves Academic and Health Outcomes of Minority Students. Science, 331(6023), 1447–1451.",
+        "url": "https://doi.org/10.1126/science.1198364"
+      }
+    ],
+    "episode_ref": {
+      "title": "You 2.0: Stop Spiraling!",
+      "url": "https://www.hiddenbrain.org/podcast/you-2-0-stop-spiraling/"
+    },
+    "note_url": ""
+  },
+  {
     "slug": "sticky-frames-ledgerwood",
     "title": "一度ネガティブに捉えた物事は、なぜ考えを変えにくいのか",
     "date": "2026-08-19",

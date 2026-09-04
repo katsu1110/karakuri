@@ -83,4 +83,42 @@
     },
     "added": "2026-08-19"
   }
+  ,
+  {
+    "slug": "adam-alter",
+    "name_en": "Adam L. Alter",
+    "name_ja": "アダム・オルター",
+    "openalex_author_id": "A5011692977",
+    "affiliation": "New York University Stern School of Business",
+    "episode": {
+      "title": "You 2.0: How to Get Out of a Rut",
+      "url": "https://www.hiddenbrain.org/podcast/you-2-0-how-to-break-out-of-a-rut/"
+    },
+    "added": "2026-09-04"
+  }
+  ,
+  {
+    "slug": "sarah-schnitker",
+    "name_en": "Sarah A. Schnitker",
+    "name_ja": "サラ・シュニトカー",
+    "openalex_author_id": "A5020343012",
+    "affiliation": "Baylor University",
+    "episode": {
+      "title": "You 2.0: The Practice of Patience",
+      "url": "https://www.hiddenbrain.org/podcast/you-2-0-the-practice-of-patience/"
+    },
+    "added": "2026-09-04"
+  },
+  {
+    "slug": "greg-walton",
+    "name_en": "Gregory M. Walton",
+    "name_ja": "グレッグ・ウォルトン",
+    "openalex_author_id": "A5078983867",
+    "affiliation": "Stanford University",
+    "episode": {
+      "title": "You 2.0: Stop Spiraling!",
+      "url": "https://www.hiddenbrain.org/podcast/you-2-0-stop-spiraling/"
+    },
+    "added": "2026-09-04"
+  }
 ]
