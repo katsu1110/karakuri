@@ -1,5 +1,108 @@
 [
   {
+    "id": "W3004397392",
+    "doi": "https://doi.org/10.1073/pnas.2532413123",
+    "title_en": "Retinotopic remapping of the visual system in deaf adults",
+    "title_ja": "ろう者の視覚野：周辺視野が広がり中心視野が狭まる脳の再編成",
+    "authors": [
+      "Alexandra T. Levine",
+      "Kate Yuen",
+      "André Gouws",
+      "Alex R. Wade",
+      "Antony B. Morland",
+      "Charlotte Codina",
+      "David Buckley",
+      "Heidi A. Baseler"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-09-04",
+    "topic": "Multisensory perception and integration",
+    "summary_ja": "早期ろう者と聴者の脳における視覚マップを比較し、周辺の視覚情報処理に使う神経資源の配分変化を調べた。その結果、ろう者では外側膝状体や一次視覚野において周辺視野の表現が拡大する一方で、中心視野の表現が縮小していることがわかった。ただし、本研究は早期ろう者と聴者の脳構造の相違点を示したものであり、この神経再編成がどのような発達プロセスや生活経験によって引き起こされるのかの因果関係までは断定できない。",
+    "why_ja": "この知見は、感覚障害を持つ人の脳が環境に適応してどのように機能を最適化するかを理解し、効果的な視覚支援やアクセシビリティのデザインを考える際に役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-09-05"
+  },
+  {
+    "id": "W7140964526",
+    "doi": "https://doi.org/10.1016/j.cognition.2026.106701",
+    "title_en": "The cost of “what might have been”: false memories for counterfactual actions",
+    "title_ja": "選ばなかった行動の記憶：実行しなかった選択肢が偽の記憶を生むメカニズム",
+    "authors": [
+      "Silvia Seghezzi",
+      "Maia Juliet Armstrong",
+      "Patrick Haggard"
+    ],
+    "venue": "Cognition",
+    "published": "2026-09-04",
+    "topic": "Action Observation and Synchronization",
+    "summary_ja": "本研究では、行動の選択において「選ばれなかった代替案」が人間の記憶にどのような痕跡を残すのかを調べた。実験の結果、人は実行しなかったものの実行可能だった選択肢の状況に対して、実際には見ていないにもかかわらず「見たことがある」と誤認しやすいことがわかった。ただし、本研究は行動課題を用いた実験室での短期的な記憶を対象としており、日常の複雑な意思決定や長期的な記憶において同様の効果がどの程度生じるかは慎重に検討する必要がある。",
+    "why_ja": "この知見は、過去の選択を振り返る際に「もし別の道を選んでいたかもしれない」という想像が記憶を歪め、後悔や自己評価に影響を与える仕組みを理解するのに役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-09-05"
+  },
+  {
+    "id": "W7208712665",
+    "doi": "https://doi.org/10.1093/pnasnexus/pgag299",
+    "title_en": "Self-reported aggressiveness does not follow facial masculinization in diverse South Asian populations",
+    "title_ja": "顔の男性らしさと攻撃性に関連はなし：南アジア16集団での検証",
+    "authors": [
+      "Karel Kleisner",
+      "Zuzana Štěrbová",
+      "Vojtěch Fiala",
+      "Eliška Podgorná",
+      "Abhishikta Ghosh Roy",
+      "Banita Behera",
+      "Deepika Rani",
+      "Kewal Krishan",
+      "Stanzin Namga",
+      "Sanzida Khatun",
+      "Abdul Raheem Jesmil",
+      "Abdul Hameed",
+      "Viktor Černý"
+    ],
+    "venue": "PNAS Nexus",
+    "published": "2026-09-04",
+    "topic": "Evolutionary Psychology and Human Behavior",
+    "summary_ja": "南アジアの多様な文化・地理的背景を持つ16の民族グループを対象に、顔の男性的な特徴（性的二型）と自己申告による攻撃性に関連があるかを調べた。分析の結果、個人レベルでも集団レベルでも、顔の形態的な男性らしさと自己申告された攻撃性の間には一貫した関連は見出されなかった。本研究は自己申告による心理データや特定の南アジア集団に基づいており、すべての文化圏や実際の攻撃行動にそのまま一般化できるとは限らない。",
+    "why_ja": "顔立ちだけでその人の攻撃性や性格を推し測ろうとする先入観やステレオタイプを見直し、外見にとらわれない公正な人間理解に役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-09-05"
+  },
+  {
+    "id": "W7207526587",
+    "doi": "https://doi.org/10.1037/pspp0000614",
+    "title_en": "The family environment in late childhood and early adolescence as a predictor of narcissism in emerging adulthood: Findings from a 17-year longitudinal study of Mexican-origin youth.",
+    "title_ja": "子どもの頃の家庭環境は成人期のナルシシズムにどう影響するか",
+    "authors": [
+      "Winkie Ma",
+      "Emorie D Beck",
+      "Richard W. Robins"
+    ],
+    "venue": "Journal of Personality and Social Psychology",
+    "published": "2026-09-03",
+    "topic": "Personality Traits and Psychology",
+    "summary_ja": "子どもから青年期にかけての家庭環境が、成人期のナルシシズムの異なる側面にどう影響するかを17年間の縦断調査で調べた。その結果、温かい家庭環境は誇大性や優越感を予測し、敵対的な家庭環境は搾取性や脆弱性を予測することがわかった。ただし、初期のナルシシズムを考慮すると関連性が弱まる点や、メキシコ系青年のサンプルに限定されている点には注意が必要である。",
+    "why_ja": "子育てにおける親子関係のあり方が、子どもの将来の性格特性を形成するプロセスを深く理解するヒントになる。",
+    "guest_slug": null,
+    "reviewed_at": "2026-09-05"
+  },
+  {
+    "id": "W7207768215",
+    "doi": "https://doi.org/10.1177/17456916261474830",
+    "title_en": "“WEIRDly Exceptional”: Has Cultural Psychology Reproduced What It Sought to Critique?",
+    "title_ja": "WEIRDフレームワークは西洋中心主義を温存しているか？",
+    "authors": [
+      "Karim Bettache"
+    ],
+    "venue": "Perspectives on Psychological Science",
+    "published": "2026-09-03",
+    "topic": "Social Representations and Identity",
+    "summary_ja": "本論文では、心理学で広く使われるWEIRD（西洋の・教育水準の高い・工業化した・豊かで・民主的な）という枠組みが、意図せず新たな西洋中心主義を生み出している問題を検証した。著者は、この頭字語が持つ含意や比較構造、歴史的背景の捉え方に起因して、西洋が依然として人間心理の基準点として扱われ続けていると論じている。本稿は概念的・理論的論考であり、実データに基づく検証や特定のサンプルを対象としたものではない。",
+    "why_ja": "この知見は、心理学や社会科学の研究・報道に接する際に、無意識の「西洋基準」や偏った人間観に気づき、より多様な視点を持つための批判的思考力を養うのに役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-09-05"
+  },
+  {
     "id": "W7167514596",
     "doi": "https://doi.org/10.1037/pspp0000611",
     "title_en": "How will I know if you really like me? Assessing the role of appearance, behavior, and reciprocity for metaliking accuracy in initial social encounters.",
