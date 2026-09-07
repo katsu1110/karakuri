@@ -6,6 +6,16 @@ import { marked } from 'marked';
 const ARTICLES_DIR = path.resolve('content/articles');
 const PUBLIC_ARTICLES_DIR = path.resolve('public/articles');
 const PUBLIC_ARTICLES_JSON = path.resolve('public/data/articles.json');
+const SITE_URL = 'https://karakuri-gamma.vercel.app';
+
+function escHtml(value) {
+  return String(value ?? '')
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
+}
 
 // Frontmatter date may parse as a JS Date (YAML `2026-08-16` → UTC midnight).
 // String(Date) yields "Sun Aug 16 2026 …" — always emit YYYY-MM-DD instead.
@@ -36,6 +46,13 @@ function main() {
   if (!fs.existsSync(PUBLIC_ARTICLES_DIR)) {
     fs.mkdirSync(PUBLIC_ARTICLES_DIR, { recursive: true });
   }
+  // Static article pages link /css/style.css (verbatim-copied to dist).
+  // They bypass Vite's CSS bundling, so sync the single source of truth here.
+  const publicCssDir = path.resolve('public/css');
+  if (!fs.existsSync(publicCssDir)) {
+    fs.mkdirSync(publicCssDir, { recursive: true });
+  }
+  fs.copyFileSync(path.resolve('src/style.css'), path.join(publicCssDir, 'style.css'));
 
   if (!fs.existsSync(ARTICLES_DIR)) {
     fs.mkdirSync(ARTICLES_DIR, { recursive: true });
@@ -90,24 +107,88 @@ function main() {
     if (frontmatter.episode_ref && frontmatter.episode_ref.title && frontmatter.episode_ref.url) {
       const epTitle = frontmatter.episode_ref.title;
       const epUrl = frontmatter.episode_ref.url;
-      const attributionHtml = `\n<blockquote class="attribution-box">このテーマを知ったきっかけ: Hidden Brain「<a href="${epUrl}" target="_blank" rel="noopener noreferrer">${epTitle}</a>」（<a href="${epUrl}" target="_blank" rel="noopener noreferrer">${epUrl}</a>）。本記事は同番組の翻訳・要約ではなく、番組に出演した研究者の公開論文にもとづく筆者独自の解説です。</blockquote>`;
+      const attributionHtml = `\n<blockquote class="attribution-box">このテーマを知ったきっかけ: Hidden Brain「<a href="${escHtml(epUrl)}" target="_blank" rel="noopener noreferrer">${escHtml(epTitle)}</a>」（<a href="${escHtml(epUrl)}" target="_blank" rel="noopener noreferrer">${escHtml(epUrl)}</a>）。本記事は同番組の翻訳・要約ではなく、番組に出演した研究者の公開論文にもとづく筆者独自の解説です。</blockquote>`;
       htmlBody += attributionHtml;
     }
 
     // Sources section HTML appended at the bottom
     let sourcesHtml = '<section class="article-sources"><h3>参考文献・一次資料</h3><ul>';
     for (const src of frontmatter.sources) {
-      sourcesHtml += `<li><a href="${src.url}" target="_blank" rel="noopener noreferrer">${src.label}</a></li>`;
+      sourcesHtml += `<li><a href="${escHtml(src.url)}" target="_blank" rel="noopener noreferrer">${escHtml(src.label)}</a></li>`;
     }
     sourcesHtml += '</ul></section>';
     htmlBody += sourcesHtml;
 
-    const outPath = path.join(PUBLIC_ARTICLES_DIR, `${slug}.html`);
-    fs.writeFileSync(outPath, htmlBody, 'utf-8');
-    console.log(`Generated public/articles/${slug}.html`);
-
     const plainText = stripMarkdown(content);
     const lead = plainText.length > 120 ? plainText.slice(0, 120) + '…' : plainText;
+
+    // Standalone static page: a full HTML document so crawlers index the
+    // article text without executing JavaScript. Canonical URL is
+    // /articles/<slug>.html (also the sitemap + index link target).
+    const docTitle = `${frontmatter.title || slug} — KARAKURI`;
+    const pageUrl = `${SITE_URL}/articles/${encodeURIComponent(slug)}.html`;
+    const researcherLine = [
+      frontmatter.researcher?.name_ja || '',
+      frontmatter.researcher?.name_en ? `(${frontmatter.researcher.name_en})` : '',
+      frontmatter.researcher?.affiliation ? `(${frontmatter.researcher.affiliation})` : '',
+    ]
+      .filter(Boolean)
+      .join(' ');
+    const doc = `<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <link rel="icon" href="/favicon.png" type="image/png" sizes="32x32" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+  <title>${escHtml(docTitle)}</title>
+  <meta name="description" content="${escHtml(lead)}" />
+  <link rel="canonical" href="${escHtml(pageUrl)}" />
+  <meta property="og:type" content="article" />
+  <meta property="og:site_name" content="KARAKURI（からくり）" />
+  <meta property="og:title" content="${escHtml(String(frontmatter.title || slug))}" />
+  <meta property="og:description" content="${escHtml(lead)}" />
+  <meta property="og:url" content="${escHtml(pageUrl)}" />
+  <meta property="og:image" content="${SITE_URL}/og-image.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <link rel="stylesheet" href="/css/style.css" />
+</head>
+<body>
+  <header>
+    <div class="header-container">
+      <div class="brand">
+        <h1><a href="/">KARAKURI</a></h1>
+        <p>行動科学・社会心理学の査読論文を日本語で独自解説</p>
+      </div>
+      <nav>
+        <a href="/">← トップへ戻る</a> |
+        <a href="/policy.html">出典・引用方針・免責</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <article id="article-detail" class="article-detail">
+      <h1>${escHtml(String(frontmatter.title || slug))}</h1>
+      <div class="detail-meta">
+        <span>公開日: ${escHtml(formatDate(frontmatter.date))}</span>${researcherLine ? ` |\n        <span>対象研究者: ${escHtml(researcherLine)}</span>` : ''}
+      </div>
+      <div class="article-content" id="article-body">
+${htmlBody}
+      </div>
+    </article>
+  </main>
+
+  <footer>
+    <p>&copy; KARAKURI | <a href="/policy.html">出典・引用方針・免責事項</a></p>
+  </footer>
+</body>
+</html>
+`;
+    const outPath = path.join(PUBLIC_ARTICLES_DIR, `${slug}.html`);
+    fs.writeFileSync(outPath, doc, 'utf-8');
+    console.log(`Generated public/articles/${slug}.html`);
 
     publishedArticles.push({
       slug,

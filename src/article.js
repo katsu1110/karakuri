@@ -31,9 +31,33 @@ async function loadArticleDetail() {
     }
 
     const html = await contentRes.text();
+    // Static pages are full HTML documents (crawler-indexable). Extract
+    // just the article body for injection into the viewer shell.
+    const doc = new DOMParser().parseFromString(html, 'text/html');
+    const bodyEl = doc.querySelector('#article-body');
+    const bodyHtml = bodyEl ? bodyEl.innerHTML : html;
+    const staticUrl = `/articles/${encodeURIComponent(slug)}.html`;
+
+    // Point crawlers at the canonical static page (dedupes the ?slug= viewer).
+    let canonical = document.querySelector('link[rel="canonical"]');
+    if (!canonical) {
+      canonical = document.createElement('link');
+      canonical.rel = 'canonical';
+      document.head.appendChild(canonical);
+    }
+    canonical.href = staticUrl;
 
     if (meta) {
       document.title = `${esc(meta.title)} — KARAKURI`;
+      if (meta.lead) {
+        let desc = document.querySelector('meta[name="description"]');
+        if (!desc) {
+          desc = document.createElement('meta');
+          desc.name = 'description';
+          document.head.appendChild(desc);
+        }
+        desc.content = meta.lead;
+      }
       const metaHeader = `
         <h1>${esc(meta.title)}</h1>
         <div class="detail-meta">
@@ -43,9 +67,9 @@ async function loadArticleDetail() {
           }${meta.researcher_affiliation ? ` (${esc(meta.researcher_affiliation)})` : ''}</span>
         </div>
       `;
-      container.innerHTML = metaHeader + `<div class="article-content">${html}</div>`;
+      container.innerHTML = metaHeader + `<div class="article-content">${bodyHtml}</div>`;
     } else {
-      container.innerHTML = `<div class="article-content">${html}</div>`;
+      container.innerHTML = `<div class="article-content">${bodyHtml}</div>`;
     }
   } catch (err) {
     console.error('Failed to load article:', err);

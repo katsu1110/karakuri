@@ -38,7 +38,7 @@ const urls = [
   { loc: `${SITE_URL}/`, priority: '1.0' },
   { loc: `${SITE_URL}/policy.html`, priority: '0.3' },
   ...articles.map((a) => ({
-    loc: `${SITE_URL}/article.html?slug=${encodeURIComponent(a.slug)}`,
+    loc: `${SITE_URL}/articles/${encodeURIComponent(a.slug)}.html`,
     lastmod: a.date || undefined,
     priority: '0.8',
   })),

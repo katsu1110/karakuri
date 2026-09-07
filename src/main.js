@@ -58,7 +58,7 @@ async function loadArticles() {
         <div class="meta">${esc(art.date)} · 研究者: ${esc(art.researcher_name_ja)}${
           art.researcher_name_en ? ` (${esc(art.researcher_name_en)})` : ''
         }${art.researcher_affiliation ? ` — ${esc(art.researcher_affiliation)}` : ''}</div>
-        <h3><a href="/article.html?slug=${encodeURIComponent(art.slug)}">${esc(art.title)}</a></h3>
+        <h3><a href="/articles/${encodeURIComponent(art.slug)}.html">${esc(art.title)}</a></h3>
         <p class="lead">${esc(art.lead)}</p>
       </article>
     `
