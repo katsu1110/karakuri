@@ -1,5 +1,22 @@
 [
   {
+    "id": "W4409890105",
+    "doi": "https://doi.org/10.1016/j.cognition.2026.106702",
+    "title_en": "It's about time: Specific and unspecific effects of episodic future thinking on farsighted decisions",
+    "title_ja": "未来の想像が衝動買いを防ぐ？遠隔視野効果のメカニズム",
+    "authors": [
+      "Heidrun Schultz",
+      "Roland G. Benoit"
+    ],
+    "venue": "Cognition",
+    "published": "2026-09-07",
+    "topic": "Psychological and Temporal Perspectives Research",
+    "summary_ja": "未来の出来事を想像することが報酬の遅延割引に与える影響のメカニズムを調べた。未来の想像と報酬の受け取り時期が一致すると遠隔的選択が促される一方、時期がずれると効果が消失したり逆に衝動的になったりすることがわかった。ただし、本研究は合計84人の小規模なサンプルに基づく実験室での検討であり、実際の複雑な意思決定への一般化には限界がある。",
+    "why_ja": "この知見は、将来の貯蓄やキャリア形成の計画を立てる際、目標時点を具体的にイメージすることで先送りを防ぐ実用的なテクニックに応用できます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-09-08"
+  },
+  {
     "id": "W3004397392",
     "doi": "https://doi.org/10.1073/pnas.2532413123",
     "title_en": "Retinotopic remapping of the visual system in deaf adults",
