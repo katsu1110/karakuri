@@ -1490,5 +1490,28 @@
     "confidence": "high",
     "drafted_at": "2026-09-05",
     "published_at": "2026-09-05"
+  },
+  {
+    "id": "W4409890105",
+    "doi": "https://doi.org/10.1016/j.cognition.2026.106702",
+    "title_en": "It's about time: Specific and unspecific effects of episodic future thinking on farsighted decisions",
+    "authors": [
+      "Heidrun Schultz",
+      "Roland G. Benoit"
+    ],
+    "venue": "Cognition",
+    "published": "2026-09-07",
+    "topic": "Psychological and Temporal Perspectives Research",
+    "oa_status": "hybrid",
+    "abstract_en": "Humans tend to discount the value of delayed rewards. As a consequence, they forego larger long-term benefits (e.g., €29 in 91 days) in favor of smaller short-term gains (e.g., €20 now). Episodic future thinking (EFT) attenuates such delay discounting. That is, people are more likely to choose a larger but delayed reward after imagining an episode at the future time point (e.g., a café visit in 91 days). We here elucidate the underlying mechanism by examining the temporal specificity of this effect. Does EFT foster farsighted decisions in general by shifting the mental focus towards the future, or does it specifically influence decisions in favor of the imagined time point? In two experiments (n=84 total) we systematically varied the concordance between the imagined time point and the delay at which the larger reward could be received. When these time points matched, we replicated the beneficial effect of EFT (Experiments 1 and 2). Critically, when the imagined time point matched the sooner of two delayed choice options, the effect was reversed: Choices became more impulsive (Experiment 1). When the imagined delay was double the delay of the larger option, the effect was not significant and numerically lower than when the delays matched (Experiment 2). Notably, more vivid imaginations were associated with more farsighted choices at longer delays, irrespective of whether the imagined time point matched the delayed choice. Together, the data demonstrate that both temporally specific and unspecific mechanisms contribute to the impact of EFT on delay discounting.",
+    "title_ja": "未来の想像が衝動買いを防ぐ？遠隔視野効果のメカニズム",
+    "summary_ja": "未来の出来事を想像することが報酬の遅延割引に与える影響のメカニズムを調べた。未来の想像と報酬の受け取り時期が一致すると遠隔的選択が促される一方、時期がずれると効果が消失したり逆に衝動的になったりすることがわかった。ただし、本研究は合計84人の小規模なサンプルに基づく実験室での検討であり、実際の複雑な意思決定への一般化には限界がある。",
+    "why_ja": "この知見は、将来の貯蓄やキャリア形成の計画を立てる際、目標時点を具体的にイメージすることで先送りを防ぐ実用的なテクニックに応用できます。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-09-08",
+    "confidence": "high",
+    "drafted_at": "2026-09-08",
+    "published_at": "2026-09-08"
   }
 ]
