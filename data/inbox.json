@@ -1658,5 +1658,50 @@
     "confidence": "high",
     "drafted_at": "2026-09-09",
     "published_at": "2026-09-09"
+  },
+  {
+    "id": "W7212029061",
+    "doi": "https://doi.org/10.1073/pnas.2622458123",
+    "title_en": "To sleep and dream: Unraveling narcolepsy",
+    "authors": [
+      "Jeffrey M. Friedman"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-09-09",
+    "topic": "Sleep and Wakefulness Research",
+    "oa_status": "hybrid",
+    "abstract_en": "In an extraordinary convergence, Emmanuel Mignot and Masashi Yanagisawa employed two entirely different approaches to establish the pathogenesis of narcolepsy, a devastating sleep disorder associated with overwhelming sleep attacks, cataplexy, episodes with sudden loss of muscle tone, and hallucinations resulting from dreaming while awake. Yanagisawa purified brain ligands for orphan G protein-coupled receptors identifying a peptide, orexin, and then used reverse genetics to show that a knockout of the neuropeptide caused narcolepsy in mice. Mignot used forward genetics to identify genetic defects in the orexin receptor 2 in a hereditable form of canine narcolepsy. Together, they showed that orexin signaling in the brain maintains wakefulness and that orexin deficiency causes narcolepsy. This has led to new, effective treatments to induce sleep or maintain wakefulness. Their discoveries have elucidated a novel neural and molecular mechanism that maintains arousal, suppresses sleep, and controls the onset of our dreams.",
+    "title_ja": "オレキシンの発見によるナルコレプシーの発症メカニズムの解明",
+    "summary_ja": "本研究は、強い眠気や脱力発作を特徴とする睡眠障害であるナルコレプシーの発症原因を解明することを目的とした。マウスと犬を用いた遺伝学的アプローチにより、脳内のオレキシンシグナル伝達の欠乏が覚醒を維持できなくさせ、ナルコレプシーを引き起こすことが明らかになった。ただし、本研究は動物モデルに基づく知見であり、ヒトを対象とした詳細な臨床的限界や個体差については今後のさらなる検証が必要である。",
+    "why_ja": "この知見は、睡眠障害に対する新しい治療薬の開発や、覚醒と睡眠をコントロールする神経メカニズムを理解するうえで役立つ。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-09-10",
+    "confidence": "high",
+    "drafted_at": "2026-09-10",
+    "published_at": "2026-09-10"
+  },
+  {
+    "id": "W7212030278",
+    "doi": "https://doi.org/10.1073/pnas.2600126123",
+    "title_en": "Plausible nonsense and deliberative reasoning: Benchmarking LLMs against human judgment",
+    "authors": [
+      "Francesco Veri",
+      "Gustavo Umbelino"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-09-09",
+    "topic": "Computational and Text Analysis Methods",
+    "oa_status": "hybrid",
+    "abstract_en": "Large Language Models (LLMs) are entering democratic contexts as instruments of governance, where the challenges at hand are ill-structured, marked by ambiguity and contestation. Ill-structured democratic problems demand more than factual precision; they call for intersubjective reasoning: context-sensitive judgments that others can understand and publicly accept. Using the Deliberative Reason Index (DRI), this study evaluates 60 LLMs against human deliberation across nine policy scenarios. Only four models consistently exceed the permutation-based null benchmark for alignment with human patterns of reason-giving. Most models fall short: their reason–preference structures rarely clear this threshold, even though their outputs can still appear coherent and persuasive. Yet outputs can appear reasonable even when this alignment is absent. The observed gap between surface plausibility and deliberative coherence urges caution: deploying LLMs in governance contexts requires prior assessment of their deliberative reasoning capacity, not just their surface outputs.",
+    "title_ja": "大規模言語モデルの民主的議論への適性：人間との一致度検証",
+    "summary_ja": "本研究は、複雑な政策シナリオにおいて大規模言語モデル（LLMs）が人間と同等の合意形成的な推論を行えるかを評価した。その結果、大半のモデルは表面的な説得力を持つ一方で、人間特有の理由付けパターンとは一致せず、基準をクリアしたのは60モデル中わずか4モデルであった。本研究の評価は特定の9つの政策シナリオと既存モデルに基づくものであり、実際の多様な政治・社会的文脈全体への一般化には限界がある。",
+    "why_ja": "この知見は、AIを行政や意思決定プロセスに導入する際、表面的な文章の流暢さだけでなく、その背後にある推論の妥当性を慎重に検証する必要がある場面で役立ちます。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-09-10",
+    "confidence": "high",
+    "drafted_at": "2026-09-10",
+    "published_at": "2026-09-10"
   }
 ]
