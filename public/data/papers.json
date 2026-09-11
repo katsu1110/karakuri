@@ -1,5 +1,24 @@
 [
   {
+    "id": "W7212140637",
+    "doi": "https://doi.org/10.1073/pnas.2600520123",
+    "title_en": "Differentiation of frontolimbic functional connectivity from birth to early adulthood links with adversity exposure and cognition",
+    "title_ja": "前頭葉と大脳辺縁系の脳回路の発達原理と環境の影響",
+    "authors": [
+      "Wonyoung Kim",
+      "Sarah Whittle",
+      "Andrew Zalesky",
+      "Ye Tian"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-09-10",
+    "topic": "Memory and Neural Mechanisms",
+    "summary_ja": "誕生から成人初期にかけての前頭葉と扁桃体・海馬を結ぶ神経回路の成熟プロセスと、環境や認知機能との関連を調べた。その結果、海馬との結合は幼児期に早く発達して安定するのに対し、扁桃体との結合は思春期にかけて分化が進み、さらにストレス経験や認知能力と結びついていることがわかった。本研究は大規模発達コホートに基づく観察研究であり、因果関係の特定やあらゆる集団への単純な一般化には限界がある。",
+    "why_ja": "子どものストレス経験や認知特性が脳の発達に与える影響を理解し、トラウマケアや教育環境の最適化を考える際に役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-09-11"
+  },
+  {
     "id": "W7212029061",
     "doi": "https://doi.org/10.1073/pnas.2622458123",
     "title_en": "To sleep and dream: Unraveling narcolepsy",
