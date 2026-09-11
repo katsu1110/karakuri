@@ -1703,5 +1703,30 @@
     "confidence": "high",
     "drafted_at": "2026-09-10",
     "published_at": "2026-09-10"
+  },
+  {
+    "id": "W7212140637",
+    "doi": "https://doi.org/10.1073/pnas.2600520123",
+    "title_en": "Differentiation of frontolimbic functional connectivity from birth to early adulthood links with adversity exposure and cognition",
+    "authors": [
+      "Wonyoung Kim",
+      "Sarah Whittle",
+      "Andrew Zalesky",
+      "Ye Tian"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-09-10",
+    "topic": "Memory and Neural Mechanisms",
+    "oa_status": "hybrid",
+    "abstract_en": "Frontolimbic circuits connecting the frontal cortex with the amygdala and the hippocampus are critical for emotion and learning. These connections undergo major changes throughout childhood and adolescence, yet the principles guiding their maturation remain unclear. Analyzing large developmental cohorts, we show that fronto-hippocampus connectivity develops rapidly in early childhood and stabilizes thereafter. In contrast, fronto-amygdala connectivity becomes progressively differentiated from fronto-hippocampus connectivity, with development most pronounced during adolescence. This entailed hippocampus and amygdala respectively becoming preferentially tethered to association-related regions and sensorimotor-related regions. Greater adversity exposure was associated with more differentiated fronto-amygdala connectivity for a given age. Higher cognitive ability was associated with less differentiated fronto-hippocampus connectivity. These findings suggest that frontolimbic connectivity development follows a principle of differentiation, with circuit-specific timing and sensitivity to stress and learning. This work provides a foundation for understanding typical and atypical frontolimbic circuitry development from birth to emerging adulthood.",
+    "title_ja": "前頭葉と大脳辺縁系の脳回路の発達原理と環境の影響",
+    "summary_ja": "誕生から成人初期にかけての前頭葉と扁桃体・海馬を結ぶ神経回路の成熟プロセスと、環境や認知機能との関連を調べた。その結果、海馬との結合は幼児期に早く発達して安定するのに対し、扁桃体との結合は思春期にかけて分化が進み、さらにストレス経験や認知能力と結びついていることがわかった。本研究は大規模発達コホートに基づく観察研究であり、因果関係の特定やあらゆる集団への単純な一般化には限界がある。",
+    "why_ja": "子どものストレス経験や認知特性が脳の発達に与える影響を理解し、トラウマケアや教育環境の最適化を考える際に役立つ。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-09-11",
+    "confidence": "high",
+    "drafted_at": "2026-09-11",
+    "published_at": "2026-09-11"
   }
 ]
