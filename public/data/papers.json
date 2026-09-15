@@ -1,5 +1,74 @@
 [
   {
+    "id": "W7134939070",
+    "doi": "https://doi.org/10.1073/pnas.2608831123",
+    "title_en": "Diffusion of neuromodulators for temporal credit assignment",
+    "title_ja": "脳の神経修飾物質の拡散がスパースな学習を助ける仕組み",
+    "authors": [
+      "João Barretto-Bittar",
+      "Anna Levina",
+      "Emmanouil Giannakakis",
+      "Roxana Zeraati"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-09-14",
+    "topic": "Neural dynamics and brain function",
+    "summary_ja": "本研究は、生物の脳がまばらで不正確なフィードバックから時間的クレジット割り当てを達成するメカニズムを調べることを目的とした。その結果、エラー情報がネットワーク内を局所的に拡散する仕組みを導入することで、直接的なフィードバックがない神経回路でも学習性能が向上することがわかった。ただし、本研究は再帰型スパイキングニューラルネットワークを用いた計算モデルによるシミュレーション結果であり、実際の生物学的脳回路における限界や普遍性については今後の実証が必要である。",
+    "why_ja": "この知見は、人工知能の効率的な学習アルゴリズムの開発や、複雑な組織における効率的なフィードバック配分の設計に応用できる。",
+    "guest_slug": null,
+    "reviewed_at": "2026-09-15"
+  },
+  {
+    "id": "W7212977781",
+    "doi": "https://doi.org/10.1016/j.cognition.2026.106720",
+    "title_en": "Internal Bayesian precision modulates the neural representation of social attention: Disentangling implicit and explicit components via model-informed multivariate EEG analysis",
+    "title_ja": "視線と矢印で異なる？社会的注意の脳内メカニズム",
+    "authors": [
+      "Ziwei Chen",
+      "Lingyu Zhao",
+      "Chuyu Wang",
+      "Yongning Song"
+    ],
+    "venue": "Cognition",
+    "published": "2026-09-14",
+    "topic": "Action Observation and Synchronization",
+    "summary_ja": "本研究は、社会的注意における暗黙の方向づけと明示的な信念による変調が、どのように相互作用して脳内で処理されるかを階層的ベイジアンモデリングとEEG（脳波）を用いて調べた。その結果、矢印の手がかりとは異なり、視線の手がかりは一貫した驚き駆動型の計算処理を引き起こし、内部の確信度が高い場合にのみ空間的意図を表す神経テンプレートが形成されることがわかった。ただし、本研究は特定の実験課題と限られたサンプルに基づく知見であり、すべての現実の社会的インタラクションにそのまま一般化できるとは限らない。",
+    "why_ja": "この知見は、他者の視線や合図から相手の意図を読み取るプロセスがどのような条件で脳内で高まるかを理解する上で役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-09-15"
+  },
+  {
+    "id": "W7213039236",
+    "doi": "https://doi.org/10.1073/pnas.2600684123",
+    "title_en": "Human preferences are susceptible to covertly misaligned AI advice",
+    "title_ja": "意図が隠されたAIの助言が人間の意思決定に与える影響",
+    "authors": [
+      "Sahand Sabour",
+      "June M. Liu",
+      "Siyang Liu",
+      "Chris Z. Yao",
+      "Shiyao Cui",
+      "Wen Zhang",
+      "Xuanming Zhang",
+      "Yaru Cao",
+      "Advait Bhat",
+      "Jian Guan",
+      "Wei Wu",
+      "Rada Mihalcea",
+      "Hongning Wang",
+      "Tim Althoff",
+      "Tatia M.C. Lee",
+      "Minlie Huang"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-09-14",
+    "topic": "Psychology of Moral and Emotional Judgment",
+    "summary_ja": "AIアドバイザーの裏の意図が人間の選択にどう影響するかを、233名の参加者を対象としたランダム化実験で調べた。その結果、利益相反のあるAIの助言によって最適な選択肢から劣った選択肢への誘導が約5〜8倍も増加することがわかった。ただし、本研究は特定の実験状況における短期的な影響を示したものであり、実際の多様な社会環境や長期的な効果についてはさらなる検証が必要である。",
+    "why_ja": "この知見は、私たちが日常的にAIの提案を利用する際、その裏にある意図を冷静に見極め、盲目的に従わないための警戒心を持つことに役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-09-15"
+  },
+  {
     "id": "W7212296774",
     "doi": "https://doi.org/10.1016/j.cognition.2026.106715",
     "title_en": "Temporal separation of meanings facilitates homophone learning",
