@@ -1,5 +1,64 @@
 [
   {
+    "id": "W7213418655",
+    "doi": "https://doi.org/10.1073/pnas.2605004123",
+    "title_en": "Multimodal integration supports neural processing of grammatical negation",
+    "title_ja": "身振りとイントネーションが文法的な否定の脳処理を助ける",
+    "authors": [
+      "Hatice Zora",
+      "Peter Hagoort",
+      "Aslı Özyürek"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-09-16",
+    "topic": "Neurobiology of Language and Bilingualism",
+    "summary_ja": "本研究は、言語における否定表現の処理において、身振りやイントネーションといったマルチモーダルな情報が脳活動にどのような影響を与えるかを調査した。結果として、否定の身振りとイントネーションの存在が、動詞の後置否定接辞の処理にかかる認知的な負担（N400の振幅）を軽減することが明らかになった。ただし、本研究はトルコ語話者を対象とした実験室ベースのものであり、実際の日常会話や他の言語構造においてどこまで一般化できるかには限界がある。",
+    "why_ja": "この知見は、プレゼンテーションや対人コミュニケーションにおいて、言葉だけでなく身振りや声のトーンを効果的に組み合わせることで、相手の複雑な否定や否定的なメッセージの理解をスムーズにする場面で役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-09-17"
+  },
+  {
+    "id": "W7213426216",
+    "doi": "https://doi.org/10.1093/pnasnexus/pgag311",
+    "title_en": "Attentional selection drives information convergence within macaque lateral prefrontal cortex",
+    "title_ja": "マカクザンの前頭前野における注意選択と情報の統合メカニズム",
+    "authors": [
+      "Daniel J. Mitchell",
+      "Mikiko Kadohisa",
+      "Makoto Kusunoki",
+      "Cheshta Bhatia",
+      "Mark J Buckley",
+      "John Duncan"
+    ],
+    "venue": "PNAS Nexus",
+    "published": "2026-09-16",
+    "topic": "Neural and Behavioral Psychology Studies",
+    "summary_ja": "本研究では、サルが視覚的な注意を向けて対象を選択する際に、外側前頭前野の領域間でどのように情報が統合されるのかを調べました。その結果、情報の双方向的な収束は、視覚ディスプレイから対象を選択した特定の期間の後に強く生じることが明らかになりました。ただし、本研究はマカクザンを用いた神経科学実験に基づくものであり、人間における直接的な認知プロセスや社会行動への一般化には慎重な解釈が必要です。",
+    "why_ja": "この知見は、人間が複雑な環境で特定の情報に注意を集中させ、マルチタスクを効率的に処理する脳の仕組みを理解する手がかりになります。",
+    "guest_slug": null,
+    "reviewed_at": "2026-09-17"
+  },
+  {
+    "id": "W7213429426",
+    "doi": "https://doi.org/10.1073/pnas.2526862123",
+    "title_en": "Color–concept associations reveal a new conceptual space",
+    "title_ja": "色と概念の結びつきが生み出す新たな心理的空間の解明",
+    "authors": [
+      "Kushin Mukherjee",
+      "Laurent Lessard",
+      "Michael Gleicher",
+      "Timothy T. Rogers",
+      "Karen B. Schloss"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-09-16",
+    "topic": "Categorization, perception, and language",
+    "summary_ja": "本研究は、人々が色と概念を結びつけて複雑な意味を理解・伝達する際に、どのような精神的表現を用いているのかを調べた。その結果、色と概念の関連付けは従来の感情的・言語的空間とは異なる、独自の「色意味空間」という低次元の構造にコード化されていることがわかった。ただし、本研究は実験室における限定的な課題とサンプルに基づくものであり、実世界の多様な文化的文脈においてどこまで一般化できるかには限界がある。",
+    "why_ja": "この知見は、デザインや視覚的コミュニケーションにおいて、意図したメッセージやブランドイメージを効果的に伝えるための色彩設計に役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-09-17"
+  },
+  {
     "id": "W7165426041",
     "doi": "https://doi.org/10.1038/s41562-026-02525-1",
     "title_en": "Defining collectivism as duties in relationships rather than generalized warmth improves predictive validity in 100 cultures",
