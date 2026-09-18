@@ -2210,5 +2210,78 @@
     "confidence": "high",
     "drafted_at": "2026-09-17",
     "published_at": "2026-09-17"
+  },
+  {
+    "id": "W7213455396",
+    "doi": "https://doi.org/10.1177/01461672261481234",
+    "title_en": "Approach–Avoidance Tendencies Across Societies: How Mobility and Competition Shape Human Motivation",
+    "authors": [
+      "Kuan‐Ju Huang",
+      "Yen‐Ling Chen",
+      "Yan Li",
+      "Xian Zhao"
+    ],
+    "venue": "Personality and Social Psychology Bulletin",
+    "published": "2026-09-17",
+    "topic": "Neural and Behavioral Psychology Studies",
+    "oa_status": "closed",
+    "abstract_en": "Approach and avoidance are two foundational systems that drive human behavior. Although these systems are generally considered to be shaped by neurobiological factors, approach and avoidance tendencies vary systematically across societies. However, there is currently no framework that explains these cross-societal variations. We propose a socioecological framework to explain how environments with varying levels of relational mobility and societal competition shape individuals’ sensitivity toward reward (i.e., approach) or punishment (i.e., avoidance). Using five studies involving individuals from China, Japan, Taiwan, and the United States ( N = 3,639), we found a complex pattern of approach and avoidance tendencies across societies. Specifically, Japanese participants are more avoidance-oriented than U.S. participants, while Chinese and Taiwanese participants are as or more approach-oriented than their U.S. counterparts. These variations were associated with the ecologies of relational mobility and societal competition. Together, these findings offer a novel mobility–competition framework for understanding societal differences in human motivation.",
+    "title_ja": "文化圏で異なる「接近・回避」の動機：流動性と競争の影響",
+    "summary_ja": "人間の行動を駆動する「接近（報酬への感度）」と「回避（罰への感度）」の傾向が、社会や文化によってどのように異なるかを調べました。その結果、日本人はアメリカ人よりも回避傾向が強い一方で、中国や台湾の人はアメリカ人と同等以上に接近傾向が高いことが明らかになりました。ただし、本研究は中国、日本、台湾、アメリカの4カ国のサンプルに基づくものであり、他の文化圏の社会すべてに同じ結果が当てはまるとは限りません。",
+    "why_ja": "この知見は、グローバルビジネスや異文化チームのマネジメントにおいて、国や地域ごとの動機づけの違いを理解し、適切なアプローチや報酬設計を行う際に役立ちます。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-09-18",
+    "confidence": "high",
+    "drafted_at": "2026-09-18",
+    "published_at": "2026-09-18"
+  },
+  {
+    "id": "W7213463083",
+    "doi": "https://doi.org/10.1093/pnasnexus/pgag314",
+    "title_en": "The seven virtues of samurai : Revisiting a classic through computational language analysis",
+    "authors": [
+      "Ryota Takano",
+      "Minoru Karasawa"
+    ],
+    "venue": "PNAS Nexus",
+    "published": "2026-09-17",
+    "topic": "Cultural Differences and Values",
+    "oa_status": "gold",
+    "abstract_en": "Abstract The longstanding dominance of values rooted in Western, Educated, Industrialized, Rich, and Democratic (WEIRD) societies has increasingly come under scrutiny across the social sciences. This has renewed interest in how value systems cultivated in less-WEIRD contexts are articulated and widely received by WEIRD audiences. Recent advances in natural language processing make it possible to examine how such values are articulated in classical texts, using psychologically grounded analytical frameworks. The present study focuses on Bushido: The Soul of Japan, a widely read classic written by Inazo Nitobe to introduce Japanese ethical ideals to Western audiences. Using Contextualized Construct Representation (CCR), a theory-driven computational approach to psychological text analysis, we examined how moral concerns are structured and expressed in Bushido relative to other Japanese culture-, Christianity-, and Bible-related texts. Results showed that Bushido exhibits a distinct and structured moral profile that corresponds to psychologically defined moral dimensions. Moreover, among Japanese culture-related texts, greater moral profile similarity to Bushido was associated with broader reception in Western contexts, as indexed by independent indicators of publication, translation, and scholarly attention. Analyses of virtue-level structure further identified Meiyo (名誉; honor) as the conceptual core of Bushido’s moral framework, a form of honor distinct from Western pride-based conceptions. Together, these findings suggest that Bushido conveys moral values rooted in Japanese cultural traditions in forms that are psychologically intelligible to Western readers, illustrating how less-WEIRD cultural values can be communicated across cultural boundaries without losing their distinctive meaning.",
+    "title_ja": "武士道の名誉と道徳構造：欧米に受容された文化的価値の分析",
+    "summary_ja": "新渡戸稲造の『武士道』における道徳的価値の構造と欧米での受容要因を、自然言語処理を用いて調査した。その結果、『武士道』は独自の明確な道徳プロファイルを持ち、その構造が似ている文化関連テキストほど欧米で広く受容されていることがわかった。ただし、本研究は古典テキストの言語分析に基づくものであり、現代の一般の人々の行動や因果関係を直接示すものではない。",
+    "why_ja": "この知見は、異なる文化圏の間で自国の伝統や価値観を効果的に伝え、異文化理解を促進するためのコミュニケーション戦略を考える際に役立ちます。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-09-18",
+    "confidence": "high",
+    "drafted_at": "2026-09-18",
+    "published_at": "2026-09-18"
+  },
+  {
+    "id": "W7213401120",
+    "doi": "https://doi.org/10.1016/j.cognition.2026.106704",
+    "title_en": "Social feedback informs generalisation of control beliefs",
+    "authors": [
+      "Jennifer C. Fielder",
+      "Essi Viding",
+      "Quentin J. M. Huys",
+      "Nikolaus Steinbeis"
+    ],
+    "venue": "Cognition",
+    "published": "2026-09-16",
+    "topic": "Psychology of Moral and Emotional Judgment",
+    "oa_status": "hybrid",
+    "abstract_en": "Perceived control in one context can affect behaviour in novel contexts. One potentially important variable determining generalisation is how perceived control in one context shapes beliefs about the self. Typically, learned helplessness studies do not control or manipulate beliefs about the self. Here, we test whether observing others' ability to exert control helps to inform inferences about whether the controllability is primarily due to one's own ability or a feature of the current environment, and thereby determines the degree of generalisation. In an initial study (N = 200) and pre-registered replication study (N = 436) we used comparative social feedback about performance in a novel task (the Wheel Stopping task) to assess how self- or environment-specific inferences shape control beliefs. Linear mixed effects models in both studies revealed that both task controllability and social feedback uniquely predicted participants' local control beliefs (trial-by-trial), after accounting for perceived task difficulty. Additionally, in Study 2, there was a significant decrease of internal locus of control in the group given low relative feedback in the low control condition, suggesting that in low control, social feedback impacts global control beliefs. Study 2 further revealed that task controllability and feedback were not related to changes in reported self- versus task-specific attribution of control. Social feedback generalised to influence behaviour in a second task in terms of the number of actions performed but not the time taken to escape or the proportion of those who learned to escaped. These results suggest that comparative social feedback shapes local control beliefs, global control beliefs in low control scenarios, and generalises to some aspects of behaviour in a second task, but does not change reported self- or task-attribution of control.",
+    "title_ja": "他者からの社会的フィードバックがコントロール感の汎化に与える影響",
+    "summary_ja": "他者の能力の観察や社会的フィードバックが、自身のコントロール感の形成や新しい状況への汎化にどのように影響するかを調べた。実験の結果、課題の制御可能性と社会的フィードバックの両方が、課題の難易度を考慮した上でも、参加者の局所的なコントロール感を独自に予測することがわかった。ただし、本研究は特定のタスクを用いた実験室環境で行われており、結果が日常の多様な状況や他の集団にも同様に当てはまるかは限定的である。",
+    "why_ja": "この知見は、職場や学校で他者との比較やフィードバックが個人の効力感やモチベーションに与える影響を理解し、適切な支援設計に役立つ。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-09-18",
+    "confidence": "high",
+    "drafted_at": "2026-09-18",
+    "published_at": "2026-09-18"
   }
 ]
