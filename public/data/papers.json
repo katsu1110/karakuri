@@ -1,5 +1,60 @@
 [
   {
+    "id": "W7213455396",
+    "doi": "https://doi.org/10.1177/01461672261481234",
+    "title_en": "Approach–Avoidance Tendencies Across Societies: How Mobility and Competition Shape Human Motivation",
+    "title_ja": "文化圏で異なる「接近・回避」の動機：流動性と競争の影響",
+    "authors": [
+      "Kuan‐Ju Huang",
+      "Yen‐Ling Chen",
+      "Yan Li",
+      "Xian Zhao"
+    ],
+    "venue": "Personality and Social Psychology Bulletin",
+    "published": "2026-09-17",
+    "topic": "Neural and Behavioral Psychology Studies",
+    "summary_ja": "人間の行動を駆動する「接近（報酬への感度）」と「回避（罰への感度）」の傾向が、社会や文化によってどのように異なるかを調べました。その結果、日本人はアメリカ人よりも回避傾向が強い一方で、中国や台湾の人はアメリカ人と同等以上に接近傾向が高いことが明らかになりました。ただし、本研究は中国、日本、台湾、アメリカの4カ国のサンプルに基づくものであり、他の文化圏の社会すべてに同じ結果が当てはまるとは限りません。",
+    "why_ja": "この知見は、グローバルビジネスや異文化チームのマネジメントにおいて、国や地域ごとの動機づけの違いを理解し、適切なアプローチや報酬設計を行う際に役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-09-18"
+  },
+  {
+    "id": "W7213463083",
+    "doi": "https://doi.org/10.1093/pnasnexus/pgag314",
+    "title_en": "The seven virtues of samurai : Revisiting a classic through computational language analysis",
+    "title_ja": "武士道の名誉と道徳構造：欧米に受容された文化的価値の分析",
+    "authors": [
+      "Ryota Takano",
+      "Minoru Karasawa"
+    ],
+    "venue": "PNAS Nexus",
+    "published": "2026-09-17",
+    "topic": "Cultural Differences and Values",
+    "summary_ja": "新渡戸稲造の『武士道』における道徳的価値の構造と欧米での受容要因を、自然言語処理を用いて調査した。その結果、『武士道』は独自の明確な道徳プロファイルを持ち、その構造が似ている文化関連テキストほど欧米で広く受容されていることがわかった。ただし、本研究は古典テキストの言語分析に基づくものであり、現代の一般の人々の行動や因果関係を直接示すものではない。",
+    "why_ja": "この知見は、異なる文化圏の間で自国の伝統や価値観を効果的に伝え、異文化理解を促進するためのコミュニケーション戦略を考える際に役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-09-18"
+  },
+  {
+    "id": "W7213401120",
+    "doi": "https://doi.org/10.1016/j.cognition.2026.106704",
+    "title_en": "Social feedback informs generalisation of control beliefs",
+    "title_ja": "他者からの社会的フィードバックがコントロール感の汎化に与える影響",
+    "authors": [
+      "Jennifer C. Fielder",
+      "Essi Viding",
+      "Quentin J. M. Huys",
+      "Nikolaus Steinbeis"
+    ],
+    "venue": "Cognition",
+    "published": "2026-09-16",
+    "topic": "Psychology of Moral and Emotional Judgment",
+    "summary_ja": "他者の能力の観察や社会的フィードバックが、自身のコントロール感の形成や新しい状況への汎化にどのように影響するかを調べた。実験の結果、課題の制御可能性と社会的フィードバックの両方が、課題の難易度を考慮した上でも、参加者の局所的なコントロール感を独自に予測することがわかった。ただし、本研究は特定のタスクを用いた実験室環境で行われており、結果が日常の多様な状況や他の集団にも同様に当てはまるかは限定的である。",
+    "why_ja": "この知見は、職場や学校で他者との比較やフィードバックが個人の効力感やモチベーションに与える影響を理解し、適切な支援設計に役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-09-18"
+  },
+  {
     "id": "W7213418655",
     "doi": "https://doi.org/10.1073/pnas.2605004123",
     "title_en": "Multimodal integration supports neural processing of grammatical negation",
