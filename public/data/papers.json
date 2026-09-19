@@ -1,5 +1,85 @@
 [
   {
+    "id": "W7112259269",
+    "doi": "https://doi.org/10.1037/pspp0000612",
+    "title_en": "Dynamic processes in narcissism and affect across Chinese and American individuals: A registered report.",
+    "title_ja": "ナルシシズムと感情の日々の変動：日米比較から見えた共通性と違い",
+    "authors": [
+      "Yuping Liu",
+      "Bingtao Zhou",
+      "Leon P. Wendt",
+      "Elizabeth A. Edershile",
+      "Bo Yang",
+      "Aidan G. C. Wright",
+      "Johannes Zimmermann",
+      "Christopher J. Hopwood"
+    ],
+    "venue": "Journal of Personality and Social Psychology",
+    "published": "2026-09-17",
+    "topic": "Personality Traits and Psychology",
+    "summary_ja": "中国とアメリカの参加者を対象に、日常生活におけるナルシシズムの表れ方と感情のダイナミクスの関係を調査した。その結果、誇大性はポジティブな感情と、脆弱性はネガティブな感情とそれぞれ関連し、これらのパターンは日米の文化圏でおおむね共通していることがわかった。ただし、本研究は自己報告式のデータや特定の2カ国（中国とアメリカ）のサンプルに基づいており、因果関係の断定や他文化への無条件な一般化には限界がある。",
+    "why_ja": "この知見は、SNS上での自己顕示や日々の気分の波に悩む現代人が、自身のパーソナリティと感情の揺れ動きを客観的に理解し、メンタルヘルスを管理する際に役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-09-19"
+  },
+  {
+    "id": "W7213447116",
+    "doi": "https://doi.org/10.1037/pspa0000495",
+    "title_en": "When and why are social categories overused relative to individuating information? A Bayesian approach to identifying biases in impression formation processes.",
+    "title_ja": "他者理解における社会的カテゴリーの過度な依存に関する検証",
+    "authors": [
+      "Thalia Vrantsidis",
+      "William A. Cunningham"
+    ],
+    "venue": "Journal of Personality and Social Psychology",
+    "published": "2026-09-17",
+    "topic": "Evolutionary Psychology and Human Behavior",
+    "summary_ja": "他者の印象を形成する際に、社会的カテゴリー情報が過剰に利用される条件やメカニズムをベイズモデルを用いて再検証した。6つの研究では、認知負荷や情報の整合性といった条件においてもカテゴリー情報の過剰使用やその傾向の変化は確認されなかった。ただし、特定の背景ゴールと処理資源の制限が重なった文脈においては、カテゴリーが過剰に使用されることが第7の研究で示されたが、結果の一般化には今後のさらなる検証が必要である。",
+    "why_ja": "この知見は、職場や面接などの限られた情報と時間の中で、無意識のステレオタイプに基づく偏った判断を避けるための環境デザインに役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-09-19"
+  },
+  {
+    "id": "W7213493176",
+    "doi": "https://doi.org/10.1016/j.cognition.2026.106721",
+    "title_en": "Cross-modal social attention differs across emotional categories: Evidence from biological motion and gaze cues",
+    "title_ja": "笑顔の生物学的運動が視覚・聴覚を跨ぐ注意を強める",
+    "authors": [
+      "Tian Yuan",
+      "Jingyi Zhang",
+      "Huiling Zhang",
+      "Bin Zhan",
+      "Li Kong",
+      "Antao Chen"
+    ],
+    "venue": "Cognition",
+    "published": "2026-09-17",
+    "topic": "Action Observation and Synchronization",
+    "summary_ja": "視覚的な社会的手がかり（生物学的運動や視線）に含まれる感情情報が、クロスモーダルな社会的注意にどう影響するかを調べた。その結果、喜びの感情を示す手がかりは、中立や悲しみのものに比べて、聴覚ターゲットに対する注意効果をより強く引き起こすことがわかった。ただし、この実験は特定の刺激を用いた心理学実験室での検証であり、実世界の多様な文脈やサンプル特性の偏りについては慎重な解釈が求められる。",
+    "why_ja": "この知見は、対面コミュニケーションやデザインにおいて、ポジティブな感情表現が他者の注意を素早く引きつける仕組みを理解するのに役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-09-19"
+  },
+  {
+    "id": "W7213504073",
+    "doi": "https://doi.org/10.1016/j.cognition.2026.106714",
+    "title_en": "The role of pitch in the vocal communication of intentions",
+    "title_ja": "批判か提案か：声のトーンが意図伝達に果たす役割の解明",
+    "authors": [
+      "Pauline Larrouy-Maestri",
+      "Hanna Ringer",
+      "David Poeppel",
+      "Daniela Sammler"
+    ],
+    "venue": "Cognition",
+    "published": "2026-09-17",
+    "topic": "Neuroscience and Music Perception",
+    "summary_ja": "本研究は、話し手の声のピッチ（高さや抑揚）のどのような特徴が、聞き手に「批判」や「提案」といった意図を伝える手がかりになっているのかを調べた。実験の結果、聞き手はピッチの細かい変化ではなく、全体の高さや大まかな輪郭、変化の鋭さに依存して意図を推論していることがわかった一方で、ピッチ情報の利用仕方には個人間やグループ間で大きな違いがあることも示された。本研究は実験室内の特定の音声刺激に基づいているため、実際の多様な会話環境や文脈における誤解の生じやすさについては、さらなる検証が必要である。",
+    "why_ja": "この知見は、ビジネスや日常会話において、言葉の内容だけでなく声のトーンがどのように誤解やすれ違いを生むのかを理解するのに役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-09-19"
+  },
+  {
     "id": "W7213455396",
     "doi": "https://doi.org/10.1177/01461672261481234",
     "title_en": "Approach–Avoidance Tendencies Across Societies: How Mobility and Competition Shape Human Motivation",
