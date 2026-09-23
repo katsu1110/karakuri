@@ -1,5 +1,56 @@
 [
   {
+    "id": "W7214008577",
+    "doi": "https://doi.org/10.1073/pnas.2611533123",
+    "title_en": "System-level synchronization and subtype-specific modules govern brain-wide serotonin axon innervation",
+    "title_ja": "マウス脳全体のセロトニン神経網の発達メカニズムを解明",
+    "authors": [
+      "A. Adams",
+      "Kenneth Lap‐Kei Wu",
+      "Zhongyu Li",
+      "Peiqi Li",
+      "Hangzhen Pan",
+      "黄祖奇",
+      "Sara Migliarini",
+      "Richard Dear",
+      "Bo Sun",
+      "Zora Chui-Kuen Chan",
+      "Jingwen Liang",
+      "Hongjie Li",
+      "Petra E. Vértes",
+      "Massimo Pasqualetti",
+      "Alina A. Isakova",
+      "Jing Ren"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-09-22",
+    "topic": "Neural dynamics and brain function",
+    "summary_ja": "セロトニン神経系が脳内でどのように発達し結合を形成するのか、その空間的・時間的および分子的な制御メカニズムを調べた。その結果、生後初期の脳全体での一斉同期と、神経サブタイプ固有の配線プログラムという2つの制御モードによって神経網が構築されることがわかった。本研究はマウスを用いた動物実験に基づいており、ヒトへの直接的な適用にはさらなる検証が必要である。",
+    "why_ja": "この知見は、気分障害や不安障害の治療薬のターゲットとなるセロトニン神経系の発達異常を理解し、将来的な創薬や精神疾患の病態解明に役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-09-23"
+  },
+  {
+    "id": "W7214014656",
+    "doi": "https://doi.org/10.1177/09567976261470401",
+    "title_en": "Better Together? Facial Expressions as a Mechanism Shaping Enjoyment During Shared Experience",
+    "title_ja": "一緒に笑うと本当に楽しい？共有体験が感情に与える影響",
+    "authors": [
+      "‪Argaman Bell Meir‬‏",
+      "Liron Amihai",
+      "Daniel Tolédano",
+      "Inbal Ravreby",
+      "Yaara Yeshurun"
+    ],
+    "venue": "Psychological Science",
+    "published": "2026-09-22",
+    "topic": "Humor Studies and Applications",
+    "summary_ja": "友人との共同体験が楽しさに与える影響と、その中で表情が果たす役割を調査しました。友人と一緒にいると笑顔の強さが増し、その笑顔が楽しさの度合いを部分的に説明するメカニズムであることがわかりました。ただし、本研究はイスラエルの18〜35歳の参加者を対象とした実験であり、視覚的接触の有無やユーモアの種類によって効果が異なる点に注意が必要です。",
+    "why_ja": "この知見は、オンライン通話やイベントでカメラをオンにしてお互いの表情を確認し合うことが、コミュニケーションの楽しさを高める工夫として役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-09-23"
+  },
+  {
     "id": "W7160900989",
     "doi": "https://doi.org/10.1037/rev0000639",
     "title_en": "Sequence learning as Bayesian filtering.",
