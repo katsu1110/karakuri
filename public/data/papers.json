@@ -1,5 +1,44 @@
 [
   {
+    "id": "W7214113001",
+    "doi": "https://doi.org/10.1177/09567976261479675",
+    "title_en": "Disillusionment With Meritocracy During the Transition to Adulthood: Longitudinal Change in Belief Systems and Depression in China",
+    "title_ja": "成人移行期における能力主義への失望と抑うつの関係",
+    "authors": [
+      "Fan Shuming",
+      "Oliver P. John",
+      "Filip De Fruyt"
+    ],
+    "venue": "Psychological Science",
+    "published": "2026-09-23",
+    "topic": "Cultural Differences and Values",
+    "summary_ja": "中国の青少年を対象に、思春期から青年期への移行に伴う能力主義（努力が成功を生むという信念）の変化と抑うつとの関連を縦断的に調べた。その結果、年齢とともに能力主義への信奉は低下し、特に大学進学群では構造的不平等の認識が高まるとともに抑うつがより急増することがわかった。ただし本研究は中国の参加者に基づく相関関係の検討に留まっており、因果関係や他文化圏への一般化には限界がある。",
+    "why_ja": "教育やキャリア形成の過程で社会の構造的格差に直面し、無力感を覚えた際のメンタルヘルス不調への対処を考えるヒントになる。",
+    "guest_slug": null,
+    "reviewed_at": "2026-09-24"
+  },
+  {
+    "id": "W7214115078",
+    "doi": "https://doi.org/10.1177/09567976261476962",
+    "title_en": "Effects of a Theory-Based Smartphone Intervention to Decrease Neuroticism in the General Public",
+    "title_ja": "スマホアプリによる介入で神経症的傾向は軽減できるか",
+    "authors": [
+      "Amanda Jo Wright",
+      "Peter Haehner",
+      "Rosalie Andrae",
+      "Till Lubczyk",
+      "Christopher  James Hopwood",
+      "Wiebke Bleidorn"
+    ],
+    "venue": "Psychological Science",
+    "published": "2026-09-23",
+    "topic": "Digital Mental Health Interventions",
+    "summary_ja": "ドイツ語圏の成人を対象に、理論に基づくスマートフォンアプリを用いた介入が神経症的傾向を低下させる効果があるかを調べた。6週間の介入により、自己評価で神経症的傾向の有意な低下がみられ、その効果は2ヶ月後の追跡調査まで持続した。ただし、ドイツ語圏のサンプルに基づく結果であり、効果の大きさや持続性は介入手法や測定方法によって異なる点が限定される。",
+    "why_ja": "この知見は、個人の性格特性とされる神経症的傾向を、デジタルツールを活用した日常的なアプローチで自ら改善・管理したいと考える場面で役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-09-24"
+  },
+  {
     "id": "W7214008577",
     "doi": "https://doi.org/10.1073/pnas.2611533123",
     "title_en": "System-level synchronization and subtype-specific modules govern brain-wide serotonin axon innervation",
