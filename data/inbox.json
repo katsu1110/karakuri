@@ -2623,5 +2623,56 @@
     "confidence": "high",
     "drafted_at": "2026-09-23",
     "published_at": "2026-09-23"
+  },
+  {
+    "id": "W7214113001",
+    "doi": "https://doi.org/10.1177/09567976261479675",
+    "title_en": "Disillusionment With Meritocracy During the Transition to Adulthood: Longitudinal Change in Belief Systems and Depression in China",
+    "authors": [
+      "Fan Shuming",
+      "Oliver P. John",
+      "Filip De Fruyt"
+    ],
+    "venue": "Psychological Science",
+    "published": "2026-09-23",
+    "topic": "Cultural Differences and Values",
+    "oa_status": "closed",
+    "abstract_en": "Meritocracy —the belief that individual effort rather than structural advantages drives success—has long shaped societal narratives but now faces growing skepticism. Using four waves of China Family Panel Studies, we examined changes in meritocratic and nonmeritocratic beliefs among 524 participants from early adolescence (ages 10–13 in 2012) to emerging adulthood (ages 18–21 in 2020) and assessed their concurrent associations with depression trajectories. Meritocratic beliefs declined significantly in both college ( d = −0.56) and noncollege ( d = −0.30) groups. Only college students increased in nonmeritocratic beliefs ( d = 0.72), and these changes were associated with steeper increases in depression. College students’ recognition of structural barriers to success is associated with heightened psychological costs, although causality cannot be inferred.",
+    "title_ja": "成人移行期における能力主義への失望と抑うつの関係",
+    "summary_ja": "中国の青少年を対象に、思春期から青年期への移行に伴う能力主義（努力が成功を生むという信念）の変化と抑うつとの関連を縦断的に調べた。その結果、年齢とともに能力主義への信奉は低下し、特に大学進学群では構造的不平等の認識が高まるとともに抑うつがより急増することがわかった。ただし本研究は中国の参加者に基づく相関関係の検討に留まっており、因果関係や他文化圏への一般化には限界がある。",
+    "why_ja": "教育やキャリア形成の過程で社会の構造的格差に直面し、無力感を覚えた際のメンタルヘルス不調への対処を考えるヒントになる。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-09-24",
+    "confidence": "high",
+    "drafted_at": "2026-09-24",
+    "published_at": "2026-09-24"
+  },
+  {
+    "id": "W7214115078",
+    "doi": "https://doi.org/10.1177/09567976261476962",
+    "title_en": "Effects of a Theory-Based Smartphone Intervention to Decrease Neuroticism in the General Public",
+    "authors": [
+      "Amanda Jo Wright",
+      "Peter Haehner",
+      "Rosalie Andrae",
+      "Till Lubczyk",
+      "Christopher  James Hopwood",
+      "Wiebke Bleidorn"
+    ],
+    "venue": "Psychological Science",
+    "published": "2026-09-23",
+    "topic": "Digital Mental Health Interventions",
+    "oa_status": "hybrid",
+    "abstract_en": "Many people wish to be less neurotic, and such decreases could have far-reaching benefits, but evidence on nonclinical interventions and change mechanisms is limited. Using a German-speaking, adult sample ( N = 446), we conducted a 6-week, smartphone-based randomized controlled intervention to test effects of theory-based strategies targeting different neuroticism levels and aspects. Across groups, there were significant self-report effects ( d effect = −0.22 to −0.37) that persisted through a 2-month follow-up ( d effect = −0.16 to −0.33), and follow-up peer-report effects for one of two measures ( d effect = −0.18 to −0.30). Treatment-group comparisons indicated that state-level strategies fostered larger immediate (albeit shorter-lasting) effects, whereas habit-level strategies led to smaller initial declines that strengthened over time. Behavior-focused strategies, for states and especially habits, yielded particularly strong effects across assessment methods, both independently and incrementally. Our findings demonstrate that neuroticism can be changed within 6 weeks and provide insight into effective mechanisms of change.",
+    "title_ja": "スマホアプリによる介入で神経症的傾向は軽減できるか",
+    "summary_ja": "ドイツ語圏の成人を対象に、理論に基づくスマートフォンアプリを用いた介入が神経症的傾向を低下させる効果があるかを調べた。6週間の介入により、自己評価で神経症的傾向の有意な低下がみられ、その効果は2ヶ月後の追跡調査まで持続した。ただし、ドイツ語圏のサンプルに基づく結果であり、効果の大きさや持続性は介入手法や測定方法によって異なる点が限定される。",
+    "why_ja": "この知見は、個人の性格特性とされる神経症的傾向を、デジタルツールを活用した日常的なアプローチで自ら改善・管理したいと考える場面で役立ちます。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-09-24",
+    "confidence": "high",
+    "drafted_at": "2026-09-24",
+    "published_at": "2026-09-24"
   }
 ]
