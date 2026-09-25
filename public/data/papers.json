@@ -1,5 +1,100 @@
 [
   {
+    "id": "W7214150011",
+    "doi": "https://doi.org/10.1177/17456916261468309",
+    "title_en": "The Responsibility–Power–Justice Nexus: A Framework for Reorienting Behavioral Science Toward Power and Justice",
+    "title_ja": "行動科学が抱える構造的限界と「責任・権力・正義」フレームワークの提案",
+    "authors": [
+      "Gulnaz Anjum",
+      "Mudassar Aziz"
+    ],
+    "venue": "Perspectives on Psychological Science",
+    "published": "2026-09-24",
+    "topic": "Behavioral Health and Interventions",
+    "summary_ja": "従来の行動科学が構造的不平等を無視して個人主義的な介入に終始している問題点について検討した。その結果、権力と正義を統合した「責任・権力・正義（RPJ）ネクサス」フレームワークを用いることで、構造的課題に対する新たなアプローチが可能になると論じられている。本論文は理論的枠組みの提案に留まっており、実際の介入データに基づく実証的な検証は含まれていない。",
+    "why_ja": "この知見は、個人の意識改革だけでなく社会構造的な公平性を考慮した効果的な政策や支援策を設計する際に役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-09-25"
+  },
+  {
+    "id": "W7214154943",
+    "doi": "https://doi.org/10.1177/17456916261473855",
+    "title_en": "The Developing Aesthetic Brain and Its Social Origins",
+    "title_ja": "文化的美的嗜好はどのように発達するのか：乳児期の社会性に基づく新理論",
+    "authors": [
+      "Tobias Großmann"
+    ],
+    "venue": "Perspectives on Psychological Science",
+    "published": "2026-09-24",
+    "topic": "Aesthetic Perception and Analysis",
+    "summary_ja": "生物学的な知覚基盤と社会的に調整される文化チューニングという2つのシステムから、美的嗜好の獲得メカニズムを理論的に検証した。乳児期の社会的なやり取りや養育者との脳波の同調が、成人における美的評価システムの基盤となることが示された。ただし、本研究は理論的枠組みの提案であり、今後の実証研究による検証が必要である。",
+    "why_ja": "この知見は、子どもが特定の音楽やアート、文化的な好みを身につける背景にある、初期の社会的な関わりの重要性を理解するのに役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-09-25"
+  },
+  {
+    "id": "W7214191749",
+    "doi": "https://doi.org/10.1073/pnas.2535242123",
+    "title_en": "Early catarrhine evolution in the light of semicircular canal and vestibule shape",
+    "title_ja": "化石霊長類の内耳形態から解明する狭鼻類の初期進化",
+    "authors": [
+      "Alessandro Urciuoli",
+      "Florian Bouchet",
+      "Clément Zanolli",
+      "Sergio Almécija",
+      "Julia Arias‐Martorell",
+      "Oriol Monclús‐Gonzalo",
+      "Salvador Moyà‐Solà",
+      "David M. Alba"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-09-24",
+    "topic": "Primate Behavior and Ecology",
+    "summary_ja": "初期狭鼻類の系統関係を解明するため、絶滅した霊長類の半規管や前庭の形状を幾何学的形態測定学を用いて分析した。その結果、サアダニウスは原始的な内耳の形態を維持している一方で、プリオピテクス類などは現生種に似た派生形質を部分的に共有していることが明らかになった。ただし、本研究は化石標本の形態分析に基づくものであり、すべての絶滅種の生態や完全な系統樹を断定するにはさらなる化石証拠が必要である。",
+    "why_ja": "この知見は、ヒトを含む霊長類が進化の過程でどのように身体的特徴を獲得してきたのかを正確に理解する手がかりとなる。",
+    "guest_slug": null,
+    "reviewed_at": "2026-09-25"
+  },
+  {
+    "id": "W7125885309",
+    "doi": "https://doi.org/10.1016/j.cognition.2026.106728",
+    "title_en": "Contours drive the tilt aftereffect in naturalistic images",
+    "title_ja": "複雑な視覚世界では、テクスチャよりも「輪郭」が向きの錯覚を支配する",
+    "authors": [
+      "Seohee Han",
+      "James  T. Lochbichler",
+      "Dirk B. Walther"
+    ],
+    "venue": "Cognition",
+    "published": "2026-09-23",
+    "topic": "Visual perception and processing mechanisms",
+    "summary_ja": "自然画像の中で方向の手がかりが対立した際、視覚システムがどちらを優先して傾きの適応（残効）を起こすかを6つの実験で調べました。その結果、細かな陰影やテクスチャのエネルギーよりも、明確な輪郭の構造が知覚の適応や方向判断を強力に支配することが明らかになりました。ただし、本研究は限定的な画像を用いた実験室での知覚テストに基づくものであり、より動的で複雑な実世界の環境一般にそのまま拡張できるかは慎重な検証が必要です。",
+    "why_ja": "この知見は、視覚デザインや情報ディスプレイにおいて、ユーザーが物体の向きや構造を直感的に正しく認識しやすいレイアウトを設計する際に役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-09-25"
+  },
+  {
+    "id": "W7172199099",
+    "doi": "https://doi.org/10.1177/01461672261481957",
+    "title_en": "Is Authenticity Perceptible? Accuracy in Judgments of State Authenticity From Expressive Behavior",
+    "title_ja": "他人の「自分らしさ」は正確に見抜けるのか？",
+    "authors": [
+      "Vanessa De Castro",
+      "Serena Chen",
+      "Joseph Manuel Andrew Ocampo",
+      "Amie M. Gordon",
+      "Emily A. Impett",
+      "Max Weisbuch"
+    ],
+    "venue": "Personality and Social Psychology Bulletin",
+    "published": "2026-09-23",
+    "topic": "Memory Processes and Influences",
+    "summary_ja": "他者が感じている「自分らしさ（オーセンティシティ）」を周囲がどの程度正確に察知できるのかを、5つの研究を通じて検証しました。その結果、親しいパートナー間では犠牲や悩みの共有時に自分らしさを正確に見抜ける一方で、関係の対立場面では正確な把握が難しくなることが示されました。ただし、本研究は特定の文脈における恋愛関係のカップル等を対象としたものであり、対立の深刻さや状況要因によって知覚の正確さが変動する点に注意が必要です。",
+    "why_ja": "パートナーや他者とのコミュニケーションにおいて、相手が本当に自分らしく振る舞えているかを察し、適切な関係性を築くためのヒントになります。",
+    "guest_slug": null,
+    "reviewed_at": "2026-09-25"
+  },
+  {
     "id": "W7214113001",
     "doi": "https://doi.org/10.1177/09567976261479675",
     "title_en": "Disillusionment With Meritocracy During the Transition to Adulthood: Longitudinal Change in Belief Systems and Depression in China",
