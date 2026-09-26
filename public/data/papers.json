@@ -1,5 +1,57 @@
 [
   {
+    "id": "W7214399989",
+    "doi": "https://doi.org/10.1073/pnas.2603674123",
+    "title_en": "Dynamic attribute activation explains gaze biases in choice",
+    "title_ja": "視線が選択を左右する：注目した情報が好みを形作る仕組み",
+    "authors": [
+      "Xiaozhi Taro Yang",
+      "Sudeep Bhatia"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-09-25",
+    "topic": "Neural and Behavioral Psychology Studies",
+    "summary_ja": "視覚的注意がどのように選択への選好を高めるのか、そのメカニズムと限界条件をアイトラッキングと発話プロトコルを用いて調べた。その結果、注視は対象の属性を活性化させることで好みを形成し、特に好ましい選択の文脈では主に肯定的属性が活性化されることがわかった。ただし、本研究は特定の実験的文脈や行動目標に基づくものであり、結果がすべての日常的な選択状況や多様な集団にそのまま一般化できるかは限られている。",
+    "why_ja": "この知見は、プレゼンやWebデザインにおいて、ユーザーの視線を誘導することがどのように購買や意思決定に影響を与えるかを理解するのに役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-09-26"
+  },
+  {
+    "id": "W7214205020",
+    "doi": "https://doi.org/10.1037/rev0000645",
+    "title_en": "Dynamics of variability and bias in working memory.",
+    "title_ja": "視覚的ワーキングメモリの精度低下：記憶負荷と保持期間の相互作用",
+    "authors": [
+      "Ivan Tomić",
+      "Sebastian Schneegans",
+      "Paul M. Bays"
+    ],
+    "venue": "Psychological Review",
+    "published": "2026-09-24",
+    "topic": "Neural and Behavioral Psychology Studies",
+    "summary_ja": "視覚的ワーキングメモリの性能に記憶負荷と保持期間がどのように影響するかを、6つの新規実験と既存データの再分析を通じて調べた。その結果、記憶項目の増加と保持時間の長期化によって想起のばらつきが増大し、特に高負荷時において保持期間の影響がより顕著になることがわかった。ただし、本研究は主に視覚的課題を統制された実験室環境で検討したものであり、日常の多様な認知課題や多様な集団一般へどこまで直接一般化できるかには限界がある。",
+    "why_ja": "この知見は、人間の脳が一度に大量の情報を長期間保持する際の限界やエラーの発生メカニズムを理解し、学習や情報提示のデザインを最適化する場面で役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-09-26"
+  },
+  {
+    "id": "W7214229529",
+    "doi": "https://doi.org/10.1037/xge0001965",
+    "title_en": "Scaling vision to the body: Height predicts visual experience and perceptual performance.",
+    "title_ja": "身長が視覚体験と知覚能力に与える影響の解明",
+    "authors": [
+      "Michelle R. Greene",
+      "Benjamin Balas"
+    ],
+    "venue": "Journal of Experimental Psychology General",
+    "published": "2026-09-24",
+    "topic": "Aesthetic Perception and Analysis",
+    "summary_ja": "本研究では、個人の身長という身体的特徴が日常の視覚環境（視覚的食事）や知覚パフォーマンスにどのように影響するかを、大規模な一人称視点ビデオと行動実験を用いて調査した。その結果、身長によって顔や手が視界に入る位置が異なり、知覚の正確性も自身の視点や身長の高さにモジュレートされることが明らかになった。ただし、本研究のサンプルや特定の状況における限界については抄録内で詳細に言及されておらず、一般化にはさらなる検証が必要である。",
+    "why_ja": "この知見は、人間の知覚や注意の向け方が画一的ではなく個人の体格や視点に依存して形作られることを理解し、人間工学やデザイン、教育現場での見やすい環境づくりに役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-09-26"
+  },
+  {
     "id": "W7214150011",
     "doi": "https://doi.org/10.1177/17456916261468309",
     "title_en": "The Responsibility–Power–Justice Nexus: A Framework for Reorienting Behavioral Science Toward Power and Justice",
