@@ -2869,5 +2869,28 @@
     "confidence": "high",
     "drafted_at": "2026-09-26",
     "published_at": "2026-09-26"
+  },
+  {
+    "id": "W7214489139",
+    "doi": "https://doi.org/10.1016/j.cognition.2026.106730",
+    "title_en": "Semantic generation masks value directed remembering in memory but not metamemory: Evidence from truth-telling and lie fabrication",
+    "authors": [
+      "Samet Kaya",
+      "Miri Besken"
+    ],
+    "venue": "Cognition",
+    "published": "2026-09-26",
+    "topic": "Memory Processes and Influences",
+    "oa_status": "hybrid",
+    "abstract_en": "Value-directed remembering (VDR) is typically robust, with people recalling high- over low-value information. The current study examined whether this selectivity survives when value must compete with a demanding conceptual manipulation requiring retrieval and manipulation of information from semantic memory: generating truthful answers versus fabricating lies in response to general-knowledge questions. Across five experiments, participants generated truthful answers or fabricated lies in response to general-knowledge questions tagged as low (1 point) or high value (10 points), provided item-by-item judgments of learning (JOLs), and received a free recall task; Experiments 1-4 used mixed (within-subject) lists, and Experiment 5 used pure (between-subjects) lists. Lie fabrication reliably reduced JOLs yet boosted free recall when mixed with truth-telling; in a pure-list design, lying and truth-telling produced equivalent recall while JOLs still favored truth. Crucially, value increased JOLs but never improved recall in any experiment. A single-paper meta-analysis of JOLs confirmed significant effects of both encoding condition and value, showing that participants can use value in their memory predictions even while fabricating lies. In contrast, the meta-analysis of recall showed a reliable benefit of lie fabrication over truth overall but no effect of high over low value. Thus, the conceptual demands of the encoding task eliminated value-based memory advantages. Taken together, these findings suggest that value cues reliably influence metacognitive judgments but do not necessarily translate into improved memory when encoding involves a concurrent resource-intensive conceptual task These results align with an effortful encoding view, where value guides selective memory only when sufficient cognitive resources remain available, and demanding conceptual tasks can deplete resources, causing value cues to be overlooked.",
+    "title_ja": "嘘の作話や意味生成の負荷が記憶の価値に基づく選択的再生を阻害するメカニズム",
+    "summary_ja": "本研究は、情報の価値（高・低）を記憶する際、意味的記憶の操作（真実の回答または嘘の作話）という負荷の高い課題が混ざると、価値に基づく記憶の優先的保持が維持されるかを調べた。5つの実験の結果、嘘の作話を行うとメタ記憶の予測（JOLs）は低下する一方で、自由再生率は真実と同等以上に高まることが分かったが、情報の「価値」による記憶成績の向上効果はすべての実験で消失した。ただし、本研究のサンプルや実験は特定の知識質問と実験室内の操作に限定されており、実際の社会的場面における多様な嘘や長期的な記憶保持へそのまま一般化できるかは慎重に判断する必要がある。",
+    "why_ja": "この知見は、マルチタスクや複雑な思考を伴う状況において、重要情報（高価値な情報）を意識して記憶しようとしても認知資源の枯渇により記憶に残りづらくなる点を理解し、効率的な学習や情報管理の環境設計に役立つ。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-09-28",
+    "confidence": "high",
+    "drafted_at": "2026-09-28",
+    "published_at": "2026-09-28"
   }
 ]
