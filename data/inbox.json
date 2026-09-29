@@ -2892,5 +2892,52 @@
     "confidence": "high",
     "drafted_at": "2026-09-28",
     "published_at": "2026-09-28"
+  },
+  {
+    "id": "W7214648820",
+    "doi": "https://doi.org/10.1073/pnas.2613077123",
+    "title_en": "Longitudinal adaptations in neural and behavioral systems following hearing restoration using cochlear implants",
+    "authors": [
+      "Shimin Mo",
+      "Claude Alain",
+      "Andrew Dimitrijevic"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-09-28",
+    "topic": "Hearing Loss and Rehabilitation",
+    "oa_status": "hybrid",
+    "abstract_en": "Cochlear implants (CIs) restore hearing in people with severe-to-profound hearing loss, but how behavioral and neural adaptations unfold after implantation remains unclear, particularly during continuous speech processing. Most longitudinal studies of postimplant plasticity have used simple auditory stimuli, limiting insight into continuous-speech processing in complex environments. We followed 19 newly implanted adult CI users at activation and at 3, 6, and 12 mo after activation. At each session, participants completed speech recognition testing in quiet and noise, a spatial triple-digit test, hearing-related quality-of-life measures, and electroencephalography during an ecologically valid continuous-speech selective-attention task with competing distractors. Neural analyses focused on temporal response functions to task-relevant and task-irrelevant speech envelopes and changes in scalp field topography. Speech recognition improved over time, and spatial-separation benefits emerged by 6 mo. Neural tracking of task-relevant speech was stronger and emerged earlier than tracking of task-irrelevant speech, and scalp topographies changed significantly across sessions. Stronger task-relevant neural tracking was associated with better speech recognition, better spatial listening, and higher quality of life. The largest behavioral and neural gains occurred early after activation and plateaued by approximately 6 mo. These findings provide a functionally relevant account of postimplant adaptation and establish longitudinal continuous-speech neural tracking as a useful framework for studying rehabilitation after sensory restoration.",
+    "title_ja": "人工内耳の装用後、脳と聴覚機能はどのように適応するのか",
+    "summary_ja": "重度難聴者が人工内耳を装用した後、日常の連続的な音声処理において行動や脳の反応が1年間でどのように変化するかを縦断的に調べた。音声認識や空間聴取能力は時間とともに向上し、特に術後6ヶ月以内に大きな改善が見られてその後プラトーに達することがわかった。ただし、本研究の対象は19人の成人人工内耳使用者であり、結果の一般化にはさらなる検証が必要である。",
+    "why_ja": "この知見は、聴覚障害を持つ人が人工内耳によるリハビリテーションの効果を期待できる時期や、音声聞き取り能力の改善プロセスを理解する際に役立つ。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-09-29",
+    "confidence": "high",
+    "drafted_at": "2026-09-29",
+    "published_at": "2026-09-29"
+  },
+  {
+    "id": "W7214676627",
+    "doi": "https://doi.org/10.1177/17456916261474857",
+    "title_en": "Inclusion That Excludes: Rethinking the Ecological Model for Mental Disability Through Defensive Dynamics, Institutional Power, and Capital Asymmetries",
+    "authors": [
+      "Miriam Belluzzo",
+      "Giorgia Tiscini"
+    ],
+    "venue": "Perspectives on Psychological Science",
+    "published": "2026-09-28",
+    "topic": "Autism Spectrum Disorder Research",
+    "oa_status": "closed",
+    "abstract_en": "This article offers a critical reworking of ecological and social-ecological models as applied to intellectual and developmental disabilities, autism, and severe mental illness. Drawing on a qualitative synthesis of 18 studies, we show that ecological frameworks are predominantly used as descriptive mapping devices, that power and inequalities enter analyses in partial and fragmented ways, and that intersystemic connections often generate formally inclusive yet experientially exclusionary arrangements. To address these limitations, we propose an Integrated Ecological Model for Mental Disability, which retains Bronfenbrenner’s multilevel architecture but introduces four structural extensions: asymmetry of reciprocity in the microsystem, the defensive mesosystem, capital-modulated exosystemic permeability, and the performative and normalizing exosystem. These concepts integrate Bourdieu’s theory of capital and field, Foucault’s genealogy of dispositifs , 1 and group psychoanalysis, and they are grounded in recurrent patterns observed across school transitions, family-service relations, residential services, and autism employment programs. The framework has implications for research designs that move beyond barriers and facilitators for multilevel clinical and educational interventions, and for normative debates on relational justice and psychopolitical validity in mental-disability policy.",
+    "title_ja": "精神障害の生態学的モデルを再考する：形式的な包摂がもたらす排除のメカニズム",
+    "summary_ja": "本研究は、知的障害や自閉症などの精神的障害に対する従来の生態学的モデルが、どのように不十分な形で権力関係や格差を扱っているかを質的統合によって調べた。その結果、従来の枠組みは形式的には包摂的でありながら実際には排除を生み出す構造になっており、これを克服するための4つの構造的拡張を含む「統合生態学的モデル」が提案された。ただし、本研究は18件の既存研究に基づく質的合成であり、実際の介入効果や特定の集団への適用範囲については慎重な検証が必要である。",
+    "why_ja": "この知見は、福祉や教育の現場で「良かれと思って作られた支援制度」が実際には当事者を孤立させていないかを点検し、真に公正な支援のあり方を設計する際に役立ちます。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-09-29",
+    "confidence": "high",
+    "drafted_at": "2026-09-29",
+    "published_at": "2026-09-29"
   }
 ]
