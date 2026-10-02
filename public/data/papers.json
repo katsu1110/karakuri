@@ -1,5 +1,58 @@
 [
   {
+    "id": "W7215029441",
+    "doi": "https://doi.org/10.1038/s41562-026-02585-3",
+    "title_en": "Selfish and prosocial individuals both distort their actions’ impact, but selfish distortions can be more contagious",
+    "title_ja": "利己的な人は自分の行動の影響を歪めやすく、その態度は周囲に伝染する",
+    "authors": [
+      "Marius C. Vollberg",
+      "Jörg Gross"
+    ],
+    "venue": "Nature Human Behaviour",
+    "published": "2026-10-01",
+    "topic": "Psychology of Moral and Emotional Judgment",
+    "summary_ja": "行動が他者に与える影響が曖昧な状況において、人々がどのように自己正当化や解釈の歪みを行うかを9つのオンライン実験（約8,700人の米国成人）で調べました。その結果、利己的な人は自分の選択肢の社会的利益を過大評価し、選択しなかった方との差を過小評価する傾向があり、さらにこうした利己的な態度の歪みは周囲に伝染して他者まで利己的にさせることがわかりました。ただし、参加者は主に米国居住者に偏っており、すべての文化圏や状況にそのまま当てはまるとは限りません。",
+    "why_ja": "この知見は、SNSや職場などで意見が対立した際、なぜ人々が自分に都合の良い解釈をして歩み寄れなくなるのかを理解し、社会的対立を防ぐアプローチを考える際に役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-10-02"
+  },
+  {
+    "id": "W7215059720",
+    "doi": "https://doi.org/10.1016/j.tics.2026.09.004",
+    "title_en": "Childhood maltreatment and the developing brain: toward individualized models of psychiatric risk",
+    "title_ja": "小児期の虐待が脳発達に与える多様な影響：個別化医療に向けた新アプローチ",
+    "authors": [
+      "Haley R Wang",
+      "Carrie E. Bearden",
+      "Tiffany Cheing Ho"
+    ],
+    "venue": "Trends in Cognitive Sciences",
+    "published": "2026-10-01",
+    "topic": "Child Abuse and Trauma",
+    "summary_ja": "本論文では、小児期の虐待が虐待の種類や時期、遺伝的要因によって脳発達にどのように異なる影響を与えるのか、その多様性を捉える手法について検討した。従来の研究手法では捉えきれなかった複雑な個人差を分析するために、規範モデリングや多変量解析、多遺伝子リスクスコアといった新しい枠組みが有用であることが示された。ただし、現時点では理論的な提案や手法の可能性を示した段階であり、臨床現場での実用化に向けてはさらなる検証が必要である。",
+    "why_ja": "この知見は、トラウマ体験を持つ子ども一人ひとりの脳発達や精神疾患リスクを正確に評価し、個別化された支援や治療法を開発する際に役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-10-02"
+  },
+  {
+    "id": "W7215127679",
+    "doi": "https://doi.org/10.1038/s41562-026-02573-7",
+    "title_en": "Intrinsic rewards guide visual resource allocation via reinforcement learning",
+    "title_ja": "内発的報酬が視覚的注意の配分と認知パフォーマンスに与える影響",
+    "authors": [
+      "Ivan Tomić",
+      "Rodrigo Raimundo",
+      "Paul M. Bays"
+    ],
+    "venue": "Nature Human Behaviour",
+    "published": "2026-10-01",
+    "topic": "Neural and Behavioral Psychology Studies",
+    "summary_ja": "本研究では、判断に対する自信という内発的インセンティブが、人間の視覚情報処理の優先順位付けにどのように影響するかを視覚推定実験により調べた。その結果、不確実性や誤差が低い刺激の処理が優先される一方、正確に推定できていない刺激の処理はさらに損なわれることがわかった。ただし、本研究は実験室内の視覚課題に基づくものであり、日常の複雑な環境や多様な集団一般にそのままどこまで適用できるかには限界がある。",
+    "why_ja": "この知見は、自身の「できたという実感」や自信が無意識のうちに情報の受け取り方を偏らせ、学習や判断の効率を上げもしければ逆効果にも生む仕組みを理解するのに役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-10-02"
+  },
+  {
     "id": "W7214711313",
     "doi": "https://doi.org/10.1177/01461672261485365",
     "title_en": "Grateful for What and Whom? How Gratitude List Content Varies and Is Associated With Affective Responses",
