@@ -3134,5 +3134,56 @@
     "confidence": "high",
     "drafted_at": "2026-10-02",
     "published_at": "2026-10-02"
+  },
+  {
+    "id": "W7215060904",
+    "doi": "https://doi.org/10.1016/j.cognition.2026.106733",
+    "title_en": "AI is not as conscious as humans: Essentialism in mental state attributions to artificial systems",
+    "authors": [
+      "Louis Longin",
+      "Jurgis Karpus",
+      "Nadine Meertens",
+      "Bahador Bahrami",
+      "Ophelia D. Deroy"
+    ],
+    "venue": "Cognition",
+    "published": "2026-10-01",
+    "topic": "Psychology of Moral and Emotional Judgment",
+    "oa_status": "hybrid",
+    "abstract_en": "Artificial systems increasingly behave in ways that resemble humans. But is that sufficient to make us see them as conscious, or as having related mental states? We contrast two broad possibilities. People may rely on a single general principle: the more appropriately an agent responds to its environment, the more conscious it is, whether human or artificial. We call this a functionalist attribution. Alternatively, people may reserve consciousness for certain kinds of beings: even an artificial system that behaves just as responsively as a human is judged less conscious. This is an essentialist attribution. A further question is whether this pattern is unique to consciousness or extends to closely related constructs such as awareness. In two pre-registered sets of studies (five experiments, N = 1092), UK participants read scenarios describing human or artificial agents whose responsiveness to spatial, social, and temporal features of the environment varied, and rated the agents' consciousness and awareness, either separately or in conjunction. Attributions of consciousness followed an essentialist logic: at similar levels of responsiveness, participants consistently attributed greater consciousness to humans. Attributions of awareness followed a functionalist pattern: for both humans and artificial agents, awareness increased steadily with responsiveness, although humans were rated more aware at the highest levels. These findings suggest that people use different inferential rules for different mental concepts. Consciousness is treated as depending on what an agent is; awareness largely on what an agent does.",
+    "title_ja": "人間とAIの意識は別物？私たちはAIの本質を見ていない",
+    "summary_ja": "本研究では、人間とAIの環境への適応的反応（機能主義）と、存在そのものに基づく認識（本質主義）のどちらが心の属性の推論に影響するかを調べた。その結果、意識の有無については人間により高い値を atribu する本質主義的な傾向が見られた一方、状況への気づき（アウェアネス）については反応の度合いに応じる機能主義的なパターンが確認された。ただし、本研究の参加者はイギリス人に限定されており、文化差や対象の偏りが結果に影響している可能性がある。",
+    "why_ja": "この知見は、AIがどれほど人間のように振る舞っても、人々がそれを「本物の意識を持つ存在」として簡単に受け入れない理由を理解するのに役立ちます。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-10-03",
+    "confidence": "high",
+    "drafted_at": "2026-10-03",
+    "published_at": "2026-10-03"
+  },
+  {
+    "id": "W7215119289",
+    "doi": "https://doi.org/10.1016/j.cognition.2026.106735",
+    "title_en": "Shared processing in familiar and unfamiliar face matching",
+    "authors": [
+      "David White",
+      "Monique Piggott",
+      "Grace Wissmann",
+      "A. Mike Burton"
+    ],
+    "venue": "Cognition",
+    "published": "2026-10-01",
+    "topic": "Face Recognition and Perception",
+    "oa_status": "hybrid",
+    "abstract_en": "Large performance benefits in face processing for familiar compared to unfamiliar faces are often interpreted as reflecting qualitative changes in processing. However, directly testing this claim has proven difficult because of variation in tasks, stimuli and performance scales used to measure unfamiliar and familiar face recognition. Here we introduce a new method to compare familiar and unfamiliar face identity processing abilities, using the same task, and the same faces across experimental conditions. Familiarity was manipulated naturally, based on participants' viewing history for one of two popular TV shows, such that characters from one show were familiar, and the other unfamiliar. Prior exposure to characters led to improved identity matching performance for actors on that show, confirming effective manipulation of familiarity, but our method avoided floor and ceiling effects which have made previous research hard to interpret. Across two experiments, we report strong and reliable associations between viewers' accuracy on familiar and unfamiliar face matching. We conclude that despite the considerable accuracy differences typically observed between tests of familiar and unfamiliar faces, they appear to share underlying processes. We discuss these results in terms of the debate about the degree to which quantitative or qualitative differences best characterise the relationship between familiar and unfamiliar face processing.",
+    "title_ja": "馴染みのある顔と見知らぬ顔の照合：共通する認知メカニズムの解明",
+    "summary_ja": "テレビ番組の視聴履歴を利用して親近感を自然に操作する新しい手法を用い、馴染みのある顔と見知らぬ顔の同一人物照合能力の関係を調べた。実験の結果、馴染みのある顔の照合精度は向上したが、親近感のある顔とない顔の正解率の間には強く信頼できる相関関係が認められた。したがって、両者の間には大きな精度差があるものの、その背景にある処理プロセスは共通していることが示唆されるが、本研究は特定のテレビ番組のキャラクターを用いた実験室ベースの知見に基づいている。",
+    "why_ja": "この知見は、防犯カメラの映像など見知らぬ顔の照合精度を高める訓練法を開発する際や、目撃証言の信頼性を評価する場面で役立ちます。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-10-03",
+    "confidence": "high",
+    "drafted_at": "2026-10-03",
+    "published_at": "2026-10-03"
   }
 ]
