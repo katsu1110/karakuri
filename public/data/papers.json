@@ -1,5 +1,44 @@
 [
   {
+    "id": "W7215060904",
+    "doi": "https://doi.org/10.1016/j.cognition.2026.106733",
+    "title_en": "AI is not as conscious as humans: Essentialism in mental state attributions to artificial systems",
+    "title_ja": "人間とAIの意識は別物？私たちはAIの本質を見ていない",
+    "authors": [
+      "Louis Longin",
+      "Jurgis Karpus",
+      "Nadine Meertens",
+      "Bahador Bahrami",
+      "Ophelia D. Deroy"
+    ],
+    "venue": "Cognition",
+    "published": "2026-10-01",
+    "topic": "Psychology of Moral and Emotional Judgment",
+    "summary_ja": "本研究では、人間とAIの環境への適応的反応（機能主義）と、存在そのものに基づく認識（本質主義）のどちらが心の属性の推論に影響するかを調べた。その結果、意識の有無については人間により高い値を atribu する本質主義的な傾向が見られた一方、状況への気づき（アウェアネス）については反応の度合いに応じる機能主義的なパターンが確認された。ただし、本研究の参加者はイギリス人に限定されており、文化差や対象の偏りが結果に影響している可能性がある。",
+    "why_ja": "この知見は、AIがどれほど人間のように振る舞っても、人々がそれを「本物の意識を持つ存在」として簡単に受け入れない理由を理解するのに役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-10-03"
+  },
+  {
+    "id": "W7215119289",
+    "doi": "https://doi.org/10.1016/j.cognition.2026.106735",
+    "title_en": "Shared processing in familiar and unfamiliar face matching",
+    "title_ja": "馴染みのある顔と見知らぬ顔の照合：共通する認知メカニズムの解明",
+    "authors": [
+      "David White",
+      "Monique Piggott",
+      "Grace Wissmann",
+      "A. Mike Burton"
+    ],
+    "venue": "Cognition",
+    "published": "2026-10-01",
+    "topic": "Face Recognition and Perception",
+    "summary_ja": "テレビ番組の視聴履歴を利用して親近感を自然に操作する新しい手法を用い、馴染みのある顔と見知らぬ顔の同一人物照合能力の関係を調べた。実験の結果、馴染みのある顔の照合精度は向上したが、親近感のある顔とない顔の正解率の間には強く信頼できる相関関係が認められた。したがって、両者の間には大きな精度差があるものの、その背景にある処理プロセスは共通していることが示唆されるが、本研究は特定のテレビ番組のキャラクターを用いた実験室ベースの知見に基づいている。",
+    "why_ja": "この知見は、防犯カメラの映像など見知らぬ顔の照合精度を高める訓練法を開発する際や、目撃証言の信頼性を評価する場面で役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-10-03"
+  },
+  {
     "id": "W7215029441",
     "doi": "https://doi.org/10.1038/s41562-026-02585-3",
     "title_en": "Selfish and prosocial individuals both distort their actions’ impact, but selfish distortions can be more contagious",
