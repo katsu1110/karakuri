@@ -1,5 +1,32 @@
 [
   {
+    "id": "W7220402212",
+    "doi": "https://doi.org/10.1073/pnas.2609260123",
+    "title_en": "Brain weight across the adult lifespan in great apes",
+    "title_ja": "類人猿の脳の重さは加齢によって減少しない：ヒト特有の老化現象の解明",
+    "authors": [
+      "Branka Hrvoj-Mihic",
+      "Cheryl D. Stimpson",
+      "Mary Ann Cree",
+      "Madison E Hillegas",
+      "Bridget A. Wicinski",
+      "Todd M. Preuss",
+      "Patrick R. Hof",
+      "Mary Ann Raghanti",
+      "Melissa K. Edler",
+      "Elaine E. Guevara",
+      "William Donald Hopkins",
+      "Chet C. Sherwood"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-10-05",
+    "topic": "Primate Behavior and Ecology",
+    "summary_ja": "ヒトの高齢期に見られる脳の重量減少が、霊長類共通の老化プロセスなのか、それともヒト特有の脆弱性なのかを解明するため、成体期から高齢期までの類人猿の脳重量の変化を調べた。その結果、チンパンジー、ボノボ、ゴリラ、オランウータンなどの類人猿では、高齢期に至っても脳の重量に有意な減少は見られなかった。ただし、本研究は限られた種やサンプルに基づくものであり、すべての霊長類の個体群や詳細な神経病理学的変化までを一般化するには限界がある。",
+    "why_ja": "この知見は、アルツハイマー病などの脳の萎縮や認知症が、なぜヒトにおいて顕著に現れるのかという進化的な謎を解き明かし、ヒト特有の脳の老化メカニズムや疾患に対する理解を深めるために役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-10-06"
+  },
+  {
     "id": "W7215060904",
     "doi": "https://doi.org/10.1016/j.cognition.2026.106733",
     "title_en": "AI is not as conscious as humans: Essentialism in mental state attributions to artificial systems",
