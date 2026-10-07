@@ -1,5 +1,31 @@
 [
   {
+    "id": "W7220735248",
+    "doi": "https://doi.org/10.1073/pnas.2621225123",
+    "title_en": "Maternal ranging strategies facilitate offspring social play at energetic cost in the most solitary ape",
+    "title_ja": "孤立性のオランウータン母子が払う、子どもの遊び場づくりの代償",
+    "authors": [
+      "Odd T. Jacobson",
+      "Alison M. Ashbury",
+      "Brendan J. Barrett",
+      "Margaret C. Crofoot",
+      "Paulina Kukofka",
+      "Julia A. Kunz",
+      "Sri Suci Utami Atmoko",
+      "Caroline Schuppli",
+      "Erin R. Vogel",
+      "Carel P. van Schaik",
+      "Maria A. van Noordwijk"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-10-06",
+    "topic": "Primate Behavior and Ecology",
+    "summary_ja": "単独行動が基本であるボルネオオランウータンの母親が、子どもの遊びの機会を確保するために自身の移動範囲を意図的に調整しているかを調べた。その結果、母親たちは同年代の子を持つ近隣の母子と活動域を重ね合わせ、子ども同士の遊びを促進している一方で、移動距離の増加や採食時間の減少というエネルギー的コストを負っていることがわかった。ただし、本研究は野生のボルネオオランウータン31組の長期観察データに基づいたものであり、他の種や人間社会へ直接一般化できるとは限らない点に注意が必要である。",
+    "why_ja": "子どもの社会性を育むために、親が自身のエネルギーやリソースを犠牲にして環境を調整するという、動物から人間まで通底する育児の知られざるコストや戦略を理解するヒントになる。",
+    "guest_slug": null,
+    "reviewed_at": "2026-10-07"
+  },
+  {
     "id": "W7220402212",
     "doi": "https://doi.org/10.1073/pnas.2609260123",
     "title_en": "Brain weight across the adult lifespan in great apes",
