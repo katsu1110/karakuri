@@ -1,5 +1,40 @@
 [
   {
+    "id": "W7134938390",
+    "doi": "https://doi.org/10.1073/pnas.2602161123",
+    "title_en": "Efficient and robust control with spikes that constrain free energy",
+    "title_ja": "脳の自由エネルギー原理に基づくスパイク神経制御モデルの構築",
+    "authors": [
+      "André Luiz Urbano",
+      "Pablo Lanillos",
+      "Sander Keemink"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-10-08",
+    "topic": "Embodied and Extended Cognition",
+    "summary_ja": "動物の脳が持つ効率性と頑健性を再現するため、自由エネルギーを制約する神経スパイクを用いた新しい制御フレームワークを調査した。その結果、このネットワークは非常に少ない活動量（スパイク）で効率的に作動し、内外の様々なノイズや外乱に対しても高い耐性を持つことが分かった。ただし、本研究は理論的・数理的なモデル提案にとどまっており、実際の生体実験による検証や多様な実世界タスクでの汎用性については今後の検討が必要である。",
+    "why_ja": "この知見は、脳の効率的な情報処理を模倣した省電力で頑健なAIやロボット制御アルゴリズム（ニューロモーフィックハードウェア）を開発する際に役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-10-09"
+  },
+  {
+    "id": "W7165020601",
+    "doi": "https://doi.org/10.1177/17456916261471413",
+    "title_en": "Moving on From Simple Operationalism: Anchoring Theoretical Constructs in Rich Relational Models",
+    "title_ja": "心理学における測定の限界と「関係的定義」への転換",
+    "authors": [
+      "Peter D. Kvam",
+      "Abhay Alaukik"
+    ],
+    "venue": "Perspectives on Psychological Science",
+    "published": "2026-10-07",
+    "topic": "Psychometric Methodologies and Testing",
+    "summary_ja": "心理学において理論的構成概念を測定するために伝統的に使われてきた操作主義的定義の限界と、現代のモデリング手法との矛盾を調べた。観察可能なデータに基づく従来の操作主義よりも、多層生成モデル内で潜在変数として構成概念を捉える「関係的定義」を用いる方が、信頼性や妥当性などの測定特性が向上することがわかった。本研究は理論的・概念的な提言にとどまっており、実際のデータを用いた実証的な検証や特定のサンプルにおける限界については今後の適用例の蓄積が必要である。",
+    "why_ja": "この知見は、心理学的データやアンケート結果を分析・解釈する際に、表面的な数値だけでなく背後にある構造や測定誤差を考慮した高度なモデルを活用する上で役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-10-09"
+  },
+  {
     "id": "W7220850892",
     "doi": "https://doi.org/10.1177/09567976261487962",
     "title_en": "Face-Matching Lineups: A Method to Control Mistaken Identifications in Video Evidence",
