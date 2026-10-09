@@ -3333,5 +3333,78 @@
     "confidence": "high",
     "drafted_at": "2026-10-08",
     "published_at": "2026-10-08"
+  },
+  {
+    "id": "W7134938390",
+    "doi": "https://doi.org/10.1073/pnas.2602161123",
+    "title_en": "Efficient and robust control with spikes that constrain free energy",
+    "authors": [
+      "André Luiz Urbano",
+      "Pablo Lanillos",
+      "Sander Keemink"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-10-08",
+    "topic": "Embodied and Extended Cognition",
+    "oa_status": "hybrid",
+    "abstract_en": "Animal brains exhibit remarkable efficiency in perception and action, while being robust to both external and internal perturbations. The means by which brains accomplish this remains, for now, poorly understood, hindering our understanding of animal and human cognition, as well as our own implementation of efficient algorithms for control of dynamical systems. A potential candidate for a robust mechanism of state estimation and action computation is the free energy principle, but existing implementations of this principle have largely relied on conventional, biologically implausible approaches without spikes. We propose an efficient and robust spiking control framework with realistic biological characteristics. The resulting networks function as free energy constrainers, in which neurons only fire if they reduce the free energy of their internal representation. The networks offer efficient operation through highly sparse activity while matching performance with other similar spiking frameworks, and have high resilience against both external (e.g., sensory noise or collisions) and internal perturbations (e.g., synaptic noise and delays or neuron silencing) that such a network would be faced with when deployed by either an organism or an engineer. Overall, our work provides a mathematical account for spiking control through constraining free energy, providing both better insight into how brain networks might leverage their spiking substrate and a route for implementing efficient control algorithms in neuromorphic hardware.",
+    "title_ja": "脳の自由エネルギー原理に基づくスパイク神経制御モデルの構築",
+    "summary_ja": "動物の脳が持つ効率性と頑健性を再現するため、自由エネルギーを制約する神経スパイクを用いた新しい制御フレームワークを調査した。その結果、このネットワークは非常に少ない活動量（スパイク）で効率的に作動し、内外の様々なノイズや外乱に対しても高い耐性を持つことが分かった。ただし、本研究は理論的・数理的なモデル提案にとどまっており、実際の生体実験による検証や多様な実世界タスクでの汎用性については今後の検討が必要である。",
+    "why_ja": "この知見は、脳の効率的な情報処理を模倣した省電力で頑健なAIやロボット制御アルゴリズム（ニューロモーフィックハードウェア）を開発する際に役立つ。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-10-09",
+    "confidence": "high",
+    "drafted_at": "2026-10-09",
+    "published_at": "2026-10-09"
+  },
+  {
+    "id": "W7215965154",
+    "doi": "https://doi.org/10.1016/j.cognition.2026.106736",
+    "title_en": "Postural configurations as micro-ecological constraints: How embodied arrangements shape the emergence of bodily-visual communication",
+    "authors": [
+      "Marek Placiński",
+      "Jonas Nölle",
+      "Marta Sibierska",
+      "Bartłomiej Kiljanek",
+      "Klaudia Karkowska",
+      "Przemysław Żywiczyński"
+    ],
+    "venue": "Cognition",
+    "published": "2026-10-08",
+    "topic": "Embodied and Extended Cognition",
+    "oa_status": "hybrid",
+    "abstract_en": "Analysis and files for the paper entitled \"The body as a communicative niche: How bodily affordances shape the emergence of pantomime and gesture\"",
+    "title_ja": "身体の姿勢や配置が身振り手振りによるコミュニケーションの誕生に与える影響",
+    "summary_ja": "本研究は、身体の姿勢や配置といった微小生態学的な制約が、パントマイムやジェスチャーなどの身体的・視覚的コミュニケーションの発生をどのように形作るのかを調べた。抄録のタイトル情報のみが提供されており、具体的な実験結果や結論の詳細は記述されていない。そのため、本抄録の記述だけではどのような結果が得られたのか、またどのような条件や限界があるのかについて判断することはできない。",
+    "why_ja": "この知見は、人間の非言語コミュニケーションやジェスチャーがどのような身体的・環境的条件から進化・発生したのかを理解するのに役立つ。",
+    "guest_slug": null,
+    "status": "draft",
+    "fetched_at": "2026-10-09",
+    "confidence": "low",
+    "drafted_at": "2026-10-09"
+  },
+  {
+    "id": "W7165020601",
+    "doi": "https://doi.org/10.1177/17456916261471413",
+    "title_en": "Moving on From Simple Operationalism: Anchoring Theoretical Constructs in Rich Relational Models",
+    "authors": [
+      "Peter D. Kvam",
+      "Abhay Alaukik"
+    ],
+    "venue": "Perspectives on Psychological Science",
+    "published": "2026-10-07",
+    "topic": "Psychometric Methodologies and Testing",
+    "oa_status": "gold",
+    "abstract_en": "Operational definitions have long been a core approach to measuring and relating observed data to theoretical constructs in psychological science. However, many contemporary modeling approaches conflict with the tacit assumptions of operationalism as it is implemented in psychology. Counterintuitively, these departures imbue model-based definitions of constructs with superior measurement properties, such as improved reliability and validity, when compared with their operationalizations based directly on observables. Instead of relying on operational definitions of constructs, we instead suggest that psychology should adopt relational definitions or relational operationalizations, representing constructs as latent variables in a multilevel generative model of behavior, self-report, or neuroimaging data. These model-based metrics can better reflect measurement error at multiple levels, account for the interactions between measurement devices (tasks, scales) and measurement objects (participants, processes), provide a holistic account of latent constructs and how they manifest across different measurements, facilitate convergence or discrimination tests among different tasks seeking to measure the same construct, and improve scientific communication by clarifying core psychological concepts. Relational definitions of important constructs should naturally emerge as researchers apply models more regularly, and these definitions and models will improve as researchers discover mathematical approaches that are suited to describing psychological processes.",
+    "title_ja": "心理学における測定の限界と「関係的定義」への転換",
+    "summary_ja": "心理学において理論的構成概念を測定するために伝統的に使われてきた操作主義的定義の限界と、現代のモデリング手法との矛盾を調べた。観察可能なデータに基づく従来の操作主義よりも、多層生成モデル内で潜在変数として構成概念を捉える「関係的定義」を用いる方が、信頼性や妥当性などの測定特性が向上することがわかった。本研究は理論的・概念的な提言にとどまっており、実際のデータを用いた実証的な検証や特定のサンプルにおける限界については今後の適用例の蓄積が必要である。",
+    "why_ja": "この知見は、心理学的データやアンケート結果を分析・解釈する際に、表面的な数値だけでなく背後にある構造や測定誤差を考慮した高度なモデルを活用する上で役立ちます。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-10-09",
+    "confidence": "high",
+    "drafted_at": "2026-10-09",
+    "published_at": "2026-10-09"
   }
 ]
