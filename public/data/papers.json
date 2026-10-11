@@ -1,5 +1,38 @@
 [
   {
+    "id": "W4416032971",
+    "doi": "https://doi.org/10.1016/j.cognition.2026.106731",
+    "title_en": "Aversive learning retroactively modulates neutral episodic memories structured by prior knowledge of predictive sequences",
+    "title_ja": "恐怖学習が過去の中立的な記憶を遡って強化する仕組み",
+    "authors": [
+      "Błażej M. Bączkowski",
+      "Arno Villringer"
+    ],
+    "venue": "Cognition",
+    "published": "2026-10-09",
+    "topic": "Memory and Neural Mechanisms",
+    "summary_ja": "先行知識によって構造化された予測可能な配列の中において、その後の恐怖学習が過去にコード化された中立的なエピソード記憶を遡って強化するかどうかを調べた。その結果、脅威を予測するカテゴリで終わる配列では、配列の最初のエピソードに対する再認記憶が選択的に向上することがわかった。ただし、この実験は若年成人を対象とした統制された状況下で行われたものであり、他の年齢層や実社会の複雑な環境において同様の効果がどこまで一般化できるかは慎重な検証が必要である。",
+    "why_ja": "この知見は、過去の何気ない出来事や中立的な経験が、その後のショッキングな出来事との関連付けによって後から鮮明に思い出されるメカニズムを理解し、トラウマ記憶や危機管理の仕組みを考える際に役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-10-11"
+  },
+  {
+    "id": "W7221067362",
+    "doi": "https://doi.org/10.1073/pnas.2628598123",
+    "title_en": "Understanding consciousness (biological and artificial) as a society of self-schemas",
+    "title_ja": "意識や自己とは何か？脳内モデルから解き明かす新理論",
+    "authors": [
+      "Michael S. A. Graziano"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-10-09",
+    "topic": "Philosophy and Theoretical Science",
+    "summary_ja": "脳が自身の認知機能をどのようにモデル化してモニタリングしているかについて理論的な検討を行った。その結果、私たちの内省的な意識や自己の感覚は、実際の神経活動そのものではなく、脳内にある複数の「自己スキーマ」の相互作用から生み出されていることが示された。ただし、本研究は論説・提唱であり、実際の神経科学的データによる実証や具体的な限定条件の検証は今後の課題として残されている。",
+    "why_ja": "この知見は、AI（人工知能）に人間のような意識や主観的体験を実装する際のデザイン原則を考える上で役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-10-11"
+  },
+  {
     "id": "W7134938390",
     "doi": "https://doi.org/10.1073/pnas.2602161123",
     "title_en": "Efficient and robust control with spikes that constrain free energy",
