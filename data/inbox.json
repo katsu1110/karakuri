@@ -3406,5 +3406,50 @@
     "confidence": "high",
     "drafted_at": "2026-10-09",
     "published_at": "2026-10-09"
+  },
+  {
+    "id": "W4416032971",
+    "doi": "https://doi.org/10.1016/j.cognition.2026.106731",
+    "title_en": "Aversive learning retroactively modulates neutral episodic memories structured by prior knowledge of predictive sequences",
+    "authors": [
+      "Błażej M. Bączkowski",
+      "Arno Villringer"
+    ],
+    "venue": "Cognition",
+    "published": "2026-10-09",
+    "topic": "Memory and Neural Mechanisms",
+    "oa_status": "hybrid",
+    "abstract_en": "Linking memories of temporally separated neutral and threatening experiences can support later recognition of early warning signals. Yet it remains unclear what cognitive processes might allow the seemingly inconsequential neutral events - encoded in safe contexts and thus prone to forgetting - to nevertheless be preserved in memory well enough to inform future threat predictions. Here, we tested whether Pavlovian threat conditioning retroactively strengthens long-term episodic memory for previously encoded neutral events by leveraging prior knowledge of their predictive relations. Young adults first learned to anticipate the order of semantic categories in two deterministic sequences (A → B → C and D → E → F) through repeated presentation of images depicting category exemplars. They then incidentally encoded trial-unique exemplars from each category during sequence viewing. In a next phase, exemplars from the third-position categories were repeated such that one (C) predicted mild electric shocks, whereas the other (F) was never reinforced, creating a category-level threat association through conditioning. After 24 h, recognition memory for exemplars of categories encoded before conditioning depended on sequence and position: when a sequence ended with a shock-predictive category, memory favored the starting category (A) over the following category (B) - an effect absent in the control categories (D and E). These results suggest that aversive learning can retroactively reshape episodic memories of neutral events when they are scaffolded by prior sequence knowledge, bridging temporal gaps and thereby potentially promoting early threat anticipation.",
+    "title_ja": "恐怖学習が過去の中立的な記憶を遡って強化する仕組み",
+    "summary_ja": "先行知識によって構造化された予測可能な配列の中において、その後の恐怖学習が過去にコード化された中立的なエピソード記憶を遡って強化するかどうかを調べた。その結果、脅威を予測するカテゴリで終わる配列では、配列の最初のエピソードに対する再認記憶が選択的に向上することがわかった。ただし、この実験は若年成人を対象とした統制された状況下で行われたものであり、他の年齢層や実社会の複雑な環境において同様の効果がどこまで一般化できるかは慎重な検証が必要である。",
+    "why_ja": "この知見は、過去の何気ない出来事や中立的な経験が、その後のショッキングな出来事との関連付けによって後から鮮明に思い出されるメカニズムを理解し、トラウマ記憶や危機管理の仕組みを考える際に役立ちます。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-10-11",
+    "confidence": "high",
+    "drafted_at": "2026-10-11",
+    "published_at": "2026-10-11"
+  },
+  {
+    "id": "W7221067362",
+    "doi": "https://doi.org/10.1073/pnas.2628598123",
+    "title_en": "Understanding consciousness (biological and artificial) as a society of self-schemas",
+    "authors": [
+      "Michael S. A. Graziano"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-10-09",
+    "topic": "Philosophy and Theoretical Science",
+    "oa_status": "hybrid",
+    "abstract_en": "This article argues that human cognition is more than the performance of functions such as memory, decision-making, and attention. The brain also builds schematic models of those cognitive functions and uses those models to monitor, predict, and partially control them. When you introspect, your understanding of who you are and what is happening inside of you is derived from those schematic, sometimes inaccurate, but generally useful models, rather than from the actual cognitive functions that are represented by those models. The proposal expands the previously proposed attention schema theory to a more general schema theory, in which the mind as we know it introspectively is a society of interacting self-schemas. The article focuses on five self-schemas including the attention schema (which is proposed to give us our intuitions about a conscious mind that takes possession of items in a vivid manner), a decision schema (which generates simplified, sometimes confabulated accounts of the decision-making process and gives us our intuitive understanding of agency and will), emotion schemas (which create complex interpretations of the physiological state of the body and provide us with our understanding of emotional experience), the body schema (which provides our understanding of who we are as physical beings), and personas (which give us our understanding of our emotional, social, and moral character, and act as a framework to guide our behavior). The article includes a discussion of how consciousness in a machine requires a similar suite of self-schemas used for similar functional purposes and may already be partially present.",
+    "title_ja": "意識や自己とは何か？脳内モデルから解き明かす新理論",
+    "summary_ja": "脳が自身の認知機能をどのようにモデル化してモニタリングしているかについて理論的な検討を行った。その結果、私たちの内省的な意識や自己の感覚は、実際の神経活動そのものではなく、脳内にある複数の「自己スキーマ」の相互作用から生み出されていることが示された。ただし、本研究は論説・提唱であり、実際の神経科学的データによる実証や具体的な限定条件の検証は今後の課題として残されている。",
+    "why_ja": "この知見は、AI（人工知能）に人間のような意識や主観的体験を実装する際のデザイン原則を考える上で役立ちます。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-10-11",
+    "confidence": "high",
+    "drafted_at": "2026-10-11",
+    "published_at": "2026-10-11"
   }
 ]
