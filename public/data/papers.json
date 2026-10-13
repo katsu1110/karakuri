@@ -1,5 +1,26 @@
 [
   {
+    "id": "W7221522656",
+    "doi": "https://doi.org/10.1073/pnas.2610400123",
+    "title_en": "Heterochronicity shapes brain network formation",
+    "title_ja": "脳の発達タイミングのずれが神経ネットワークの形成を決定する",
+    "authors": [
+      "Francesco Poli",
+      "Stuart Oldham",
+      "Alexa L. S. Mousley",
+      "Edward Thomas Bullmore",
+      "Petra E. Vértes",
+      "Duncan Edward Astle"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-10-12",
+    "topic": "Functional Brain Connectivity Studies",
+    "summary_ja": "脳の異なる領域で結合形成の時期が異なる非一様な発達スケジュール（異時性）が、脳ネットワークの形成にどのように影響するかを生成ネットワークモデルを用いて調べた。その結果、時間的プログラムを考慮してトポロジーとトポグラフィを統合したモデルにより、実際の成人脳の空間的レイアウトや個人差をより正確に再現できることがわかった。ただし、本研究は成人コホートの拡散MRIデータに基づいたシミュレーションであり、発達過程の因果関係を直接証明するものではない。",
+    "why_ja": "この知見は、脳の発達障害や神経疾患における個人差のメカニズムを理解し、将来的な早期診断や支援アプローチの精度を向上させる場面で役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-10-13"
+  },
+  {
     "id": "W4416032971",
     "doi": "https://doi.org/10.1016/j.cognition.2026.106731",
     "title_en": "Aversive learning retroactively modulates neutral episodic memories structured by prior knowledge of predictive sequences",
