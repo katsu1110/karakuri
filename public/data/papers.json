@@ -1,5 +1,79 @@
 [
   {
+    "id": "W7111615724",
+    "doi": "https://doi.org/10.1016/j.cognition.2026.106743",
+    "title_en": "Word segmentation abilities across the adult lifespan: Evidence from younger and older adult bilinguals",
+    "title_ja": "成人の単語切り出し能力は年齢に関わらず安定している",
+    "authors": [
+      "Patricia Fuente-García",
+      "Julián Villegas",
+      "Adam Zawiszewski",
+      "Irene de la Cruz-Pavía"
+    ],
+    "venue": "Cognition",
+    "published": "2026-10-13",
+    "topic": "Neurobiology of Language and Bilingualism",
+    "summary_ja": "成人の生涯における単語の切り出し能力に年齢差があるか、またバイリンガルの言語経験が音声情報の利用にどう影響するかを調べた。年齢による切り出し能力の差は見られなかったが、言語の熟達度や切り替え頻度がパフォーマンスに影響を与えることがわかった。ただし、本研究は特定の言語対を話すバイリンガル集団を対象とした結果であり、すべての言語環境にそのまま一般化できるわけではない。",
+    "why_ja": "外国語学習や多言語環境において、年齢よりも言語の熟達度や使用状況が音声理解の鍵になることを理解するのに役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-10-14"
+  },
+  {
+    "id": "W7221688013",
+    "doi": "https://doi.org/10.1016/j.cognition.2026.106742",
+    "title_en": "Apathy is associated with lower perceptual curiosity",
+    "title_ja": "無気力な人は新しいものへの興味や探究心が低いことが判明",
+    "authors": [
+      "Leon Tay",
+      "Patrick Cooper",
+      "Emily Colton",
+      "Jocelyn Halim",
+      "Stefan Bode",
+      "Trevor T.‐J. Chong"
+    ],
+    "venue": "Cognition",
+    "published": "2026-10-13",
+    "topic": "Psychological and Educational Research Studies",
+    "summary_ja": "本研究では、個人の持続的な無気力傾向が、新奇な視覚情報に対する知覚的好奇心とどのように関連しているかをオンライン調査（381名）で検証した。その結果、無気力傾向が高い人ほど新規のオブジェクトに対する閲覧時間が短く、知覚的好奇心のスコアが低いことが示された。ただし、本研究はオンラインの参加者を対象とした相関研究であり、因果関係の断定や臨床集団全般への一般化には限界がある。",
+    "why_ja": "この知見は、無気力な人が新しい経験を避けるメカニズムを理解し、モチベーション向上を支援するアプローチを設計する際に役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-10-14"
+  },
+  {
+    "id": "W7221703028",
+    "doi": "https://doi.org/10.1177/09567976261483544",
+    "title_en": "Artists Can Design Memory, and AI Can Predict It",
+    "title_ja": "芸術家はアートで記憶を操作でき、AIはそれを正確に予測できる",
+    "authors": [
+      "Trent M. Davis",
+      "Yifei Chen",
+      "Wilma Alice Bainbridge"
+    ],
+    "venue": "Psychological Science",
+    "published": "2026-10-13",
+    "topic": "Aesthetic Perception and Analysis",
+    "summary_ja": "芸術家が意図的に記憶に残る、あるいは忘れられるアートを制作できるか、そしてその記憶効果を人間やAIが予測できるかを検証した。実験の結果、芸術家は意図通りに記憶への残りやすさをコントロールできたが、記憶しやすくすることの方が忘れやすくすることよりも容易であった。ただし、本研究のサンプルは米国の成人に限定されており、記憶の予測においてはAIモデルが人間を常に上回る結果となった。",
+    "why_ja": "この知見は、広告や教育資料のデザインにおいて、人々の記憶に残りやすい視覚表現を効果的に設計する場面で役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-10-14"
+  },
+  {
+    "id": "W7219162582",
+    "doi": "https://doi.org/10.1016/j.cognition.2026.106739",
+    "title_en": "Further predictors of iconicity",
+    "title_ja": "音声と意味の似た「アイコン的単語」の新たな特徴を解明",
+    "authors": [
+      "David M. Sidhu"
+    ],
+    "venue": "Cognition",
+    "published": "2026-10-12",
+    "topic": "Categorization, perception, and language",
+    "summary_ja": "本研究では、英語の単語における「アイコン性（形と意味の類似性）」の新たな予測要因を調査した。その結果、アイコン性の高い単語は使用頻度が低い一方でよく知られており、より具体的かつ多義的で、感情豊かな傾向があることがわかった。ただし、本研究は英語の単語特性に基づいた分析であり、他の言語や実際のコミュニケーションにおける因果関係についてはさらなる検証が必要である。",
+    "why_ja": "この知見は、言語学習やマーケティングにおいて、より印象に残りやすく感情を動かす単語を選ぶ際のヒントとして役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-10-14"
+  },
+  {
     "id": "W7221522656",
     "doi": "https://doi.org/10.1073/pnas.2610400123",
     "title_en": "Heterochronicity shapes brain network formation",
