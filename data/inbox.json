@@ -3478,5 +3478,103 @@
     "confidence": "high",
     "drafted_at": "2026-10-13",
     "published_at": "2026-10-13"
+  },
+  {
+    "id": "W7111615724",
+    "doi": "https://doi.org/10.1016/j.cognition.2026.106743",
+    "title_en": "Word segmentation abilities across the adult lifespan: Evidence from younger and older adult bilinguals",
+    "authors": [
+      "Patricia Fuente-García",
+      "Julián Villegas",
+      "Adam Zawiszewski",
+      "Irene de la Cruz-Pavía"
+    ],
+    "venue": "Cognition",
+    "published": "2026-10-13",
+    "topic": "Neurobiology of Language and Bilingualism",
+    "oa_status": "hybrid",
+    "abstract_en": "Humans break down continuous speech into meaningful units by integrating multiple cues whose importance and relative weight change throughout development. We investigate whether segmentation abilities differ between younger and older adults while exploring how age of acquisition, proficiency, language use, and frequency of language switch determine Basque-Spanish younger and older bilinguals' use of lexico-semantic, morphosyntactic, and phonological information in L2 word segmentation. Younger and older L1Spanish-L2Basque bilinguals ( n = 158) varying across the four dimensions of interest and a control group of L1Basque bilinguals ( n = 63) were tested on a phoneme localization task in Basque. Age did not affect word segmentation in either group. Proficiency modulated performance of the L2Basque bilinguals, with the greatest accuracy gains in sentences containing all sources of information, followed by sentences containing only morphosyntactic and phonological cues, then sentences comprising only phonological information. Frequency of language switch and fluid intelligence were associated with better overall performance, though their contribution to explaining the variance was very small. Finally, natives benefited more than non-natives from lexico-semantic cues, and from morphosyntactic and phonological cues for word-initial targets. These findings suggest the stability of segmentation abilities across the adult lifespan, and evidence how different bilingual factors shape multiple cue use in L2 segmentation.",
+    "title_ja": "成人の単語切り出し能力は年齢に関わらず安定している",
+    "summary_ja": "成人の生涯における単語の切り出し能力に年齢差があるか、またバイリンガルの言語経験が音声情報の利用にどう影響するかを調べた。年齢による切り出し能力の差は見られなかったが、言語の熟達度や切り替え頻度がパフォーマンスに影響を与えることがわかった。ただし、本研究は特定の言語対を話すバイリンガル集団を対象とした結果であり、すべての言語環境にそのまま一般化できるわけではない。",
+    "why_ja": "外国語学習や多言語環境において、年齢よりも言語の熟達度や使用状況が音声理解の鍵になることを理解するのに役立つ。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-10-14",
+    "confidence": "high",
+    "drafted_at": "2026-10-14",
+    "published_at": "2026-10-14"
+  },
+  {
+    "id": "W7221688013",
+    "doi": "https://doi.org/10.1016/j.cognition.2026.106742",
+    "title_en": "Apathy is associated with lower perceptual curiosity",
+    "authors": [
+      "Leon Tay",
+      "Patrick Cooper",
+      "Emily Colton",
+      "Jocelyn Halim",
+      "Stefan Bode",
+      "Trevor T.‐J. Chong"
+    ],
+    "venue": "Cognition",
+    "published": "2026-10-13",
+    "topic": "Psychological and Educational Research Studies",
+    "oa_status": "hybrid",
+    "abstract_en": "The hallmark of apathy is diminished goal-directed behaviour, yet its relationship to curiosity – the intrinsic drive to explore novel information – remains untested. Here, we examined whether trait apathy is associated with diminished perceptual curiosity. We presented online observers ( N = 381) with images of either familiar, everyday objects; or novel, AI-generated objects, which appeared entirely realistic, but do not in fact exist. Observers used their mouse to interact with each stimulus before rating its familiarity, interest, and appeal, and then completed validated measures of trait apathy and perceptual curiosity. Our data yielded three convergent findings. First, trait apathy was associated with differences in how novel and familiar objects were subjectively rated – specifically, as trait apathy increased, observers rated novel objects as more familiar, and familiar objects as more interesting. Second, trait apathy was associated with changes in objective behaviour, such that, as trait apathy increased, observers spent less time viewing novel objects. Finally, scores on trait measures of apathy and curiosity were negatively correlated, such that those who reported higher levels of trait apathy had lower levels of perceptual curiosity. Emotional apathy in particular had the most consistent relationship across both task-based and trait measures of perceptual curiosity. Together, these findings demonstrate that lower perceptual curiosity is a key feature of the apathetic trait, and propose the existence of a previously unrecognised mechanism that links apathy to reduced engagement with perceptual novelty. These results have broad implications for current frameworks of motivation and curiosity in both healthy individuals and clinical populations.",
+    "title_ja": "無気力な人は新しいものへの興味や探究心が低いことが判明",
+    "summary_ja": "本研究では、個人の持続的な無気力傾向が、新奇な視覚情報に対する知覚的好奇心とどのように関連しているかをオンライン調査（381名）で検証した。その結果、無気力傾向が高い人ほど新規のオブジェクトに対する閲覧時間が短く、知覚的好奇心のスコアが低いことが示された。ただし、本研究はオンラインの参加者を対象とした相関研究であり、因果関係の断定や臨床集団全般への一般化には限界がある。",
+    "why_ja": "この知見は、無気力な人が新しい経験を避けるメカニズムを理解し、モチベーション向上を支援するアプローチを設計する際に役立ちます。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-10-14",
+    "confidence": "high",
+    "drafted_at": "2026-10-14",
+    "published_at": "2026-10-14"
+  },
+  {
+    "id": "W7221703028",
+    "doi": "https://doi.org/10.1177/09567976261483544",
+    "title_en": "Artists Can Design Memory, and AI Can Predict It",
+    "authors": [
+      "Trent M. Davis",
+      "Yifei Chen",
+      "Wilma Alice Bainbridge"
+    ],
+    "venue": "Psychological Science",
+    "published": "2026-10-13",
+    "topic": "Aesthetic Perception and Analysis",
+    "oa_status": "closed",
+    "abstract_en": "Can artists deliberately design artworks to be remembered—or forgotten? Across three experiments, we tested whether visual-memory outcomes can be shaped through artistic design and how they are predicted by artists, laypeople, and artificial intelligence. We launched a nationwide art contest in which artists submitted works intended to be memorable or forgettable. Using recognition tasks with adults based in the United States (119 from Amazon Mechanical Turk, 892 from Prolific, and 62 visitors from a Chicago gallery), we found that artists achieved their intended memory outcomes. However, their success was asymmetric: Memorability was more readily increased than reduced. A neural network, ResMem, consistently outperformed human observers and artists in predicting which artworks would be remembered. Data-driven analyses identified psychologically interpretable features that explained nearly half the variance in memory and aligned with ResMem’s predictions, but not with human judgments. Together, findings suggest that visual memorability can be engineered by humans, though asymmetrically, and is better captured by computational models.",
+    "title_ja": "芸術家はアートで記憶を操作でき、AIはそれを正確に予測できる",
+    "summary_ja": "芸術家が意図的に記憶に残る、あるいは忘れられるアートを制作できるか、そしてその記憶効果を人間やAIが予測できるかを検証した。実験の結果、芸術家は意図通りに記憶への残りやすさをコントロールできたが、記憶しやすくすることの方が忘れやすくすることよりも容易であった。ただし、本研究のサンプルは米国の成人に限定されており、記憶の予測においてはAIモデルが人間を常に上回る結果となった。",
+    "why_ja": "この知見は、広告や教育資料のデザインにおいて、人々の記憶に残りやすい視覚表現を効果的に設計する場面で役立つ。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-10-14",
+    "confidence": "high",
+    "drafted_at": "2026-10-14",
+    "published_at": "2026-10-14"
+  },
+  {
+    "id": "W7219162582",
+    "doi": "https://doi.org/10.1016/j.cognition.2026.106739",
+    "title_en": "Further predictors of iconicity",
+    "authors": [
+      "David M. Sidhu"
+    ],
+    "venue": "Cognition",
+    "published": "2026-10-12",
+    "topic": "Categorization, perception, and language",
+    "oa_status": "hybrid",
+    "abstract_en": "Iconicity refers to a perceived resemblance between the form of a signal and its meaning (e.g., \"meow\" resembling the sound of a cat). Iconicity has been operationalized by having participants rate words in terms of their iconicity. This has enabled researchers to examine the lexical and semantic properties of words high and low in iconicity, for example finding that iconic words tend to be rich in sensory experience and semantically unique. In the present study I examined a suite of novel predictors that have not been examined in English iconicity. I discovered that while iconic words are low in frequency they are generally well known. They also tend to have more specific meanings, though this was moderated by concreteness and part of speech. Iconic words are also more polysemous and emotional. With one exception, there was no evidence that iconic words were more systematic. Together these results extend previous work, and reinforce the finding that iconicity must be understood through a lens of word use and of words as depictions.",
+    "title_ja": "音声と意味の似た「アイコン的単語」の新たな特徴を解明",
+    "summary_ja": "本研究では、英語の単語における「アイコン性（形と意味の類似性）」の新たな予測要因を調査した。その結果、アイコン性の高い単語は使用頻度が低い一方でよく知られており、より具体的かつ多義的で、感情豊かな傾向があることがわかった。ただし、本研究は英語の単語特性に基づいた分析であり、他の言語や実際のコミュニケーションにおける因果関係についてはさらなる検証が必要である。",
+    "why_ja": "この知見は、言語学習やマーケティングにおいて、より印象に残りやすく感情を動かす単語を選ぶ際のヒントとして役立ちます。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-10-14",
+    "confidence": "high",
+    "drafted_at": "2026-10-14",
+    "published_at": "2026-10-14"
   }
 ]
