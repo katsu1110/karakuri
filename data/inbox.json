@@ -3576,5 +3576,75 @@
     "confidence": "high",
     "drafted_at": "2026-10-14",
     "published_at": "2026-10-14"
+  },
+  {
+    "id": "W7221809111",
+    "doi": "https://doi.org/10.1016/j.cognition.2026.106745",
+    "title_en": "When textures meet: Relational evaluations explain overall pleasantness beyond component pleasantness",
+    "authors": [
+      "Takumi Yokosaka"
+    ],
+    "venue": "Cognition",
+    "published": "2026-10-14",
+    "topic": "Tactile and Sensory Interactions",
+    "oa_status": "hybrid",
+    "abstract_en": "In everyday touch, the hand often contacts multiple surfaces simultaneously. Yet little is known about how pleasantness is formed when texture pairs are explored at the same time. Previous research has shown that tactile signals presented to adjacent fingers can be integrated through averaging or assimilation processes. These accounts primarily address the integration of stimulus attributes and do not consider whether relations between textures may also contribute to evaluative judgments. The present study examined this possibility by obtaining ratings on five relational dimensions (similarity, contrast, harmony, emergence, and modulation) and testing whether these ratings helped explain the overall pleasantness of texture pairs beyond the mean pleasantness of the component textures. Across three experiments, participants evaluated the pleasantness of texture pairs, judged relational qualities between textures, and rated the tactile attributes of individual textures. The results showed that overall pleasantness could not be fully explained by the average pleasantness of the component textures. Instead, ratings on these relational dimensions—particularly similarity and contrast—provided additional explanatory power for overall pleasantness. Together, these findings suggest that the texture combination itself contributes to pleasantness in paired touch beyond the pleasantness of the component textures alone.",
+    "title_ja": "複数の質感を同時に触る心地よさは、素材の関係性で決まる",
+    "summary_ja": "本研究は、2つのテクスチャを同時に触れた際、全体的な心地よさがどのように形成されるかを調べました。その結果、個別の素材の心地よさの平均値だけではなく、素材同士の類似性や対照性といった関係性の評価が全体の印象を追加的に説明することがわかりました。ただし、本研究は実験室環境における特定の質感の組み合わせに基づく知見であり、日常の多様な触覚環境全体へどこまで一般化できるかは今後の検証が必要です。",
+    "why_ja": "製品のデザインやパッケージの素材選びにおいて、単体の手触りだけでなく組み合わせた時の相性を考慮することで、より心地よいユーザー体験を設計するのに役立ちます。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-10-15",
+    "confidence": "high",
+    "drafted_at": "2026-10-15",
+    "published_at": "2026-10-15"
+  },
+  {
+    "id": "W7221835772",
+    "doi": "https://doi.org/10.1177/09567976261479660",
+    "title_en": "Does Global Slowing Explain Age Effects in Inhibitory Control?",
+    "authors": [
+      "Jacob Sellers",
+      "Han Zhang",
+      "John J. Jonides",
+      "Taraz G. Lee"
+    ],
+    "venue": "Psychological Science",
+    "published": "2026-10-14",
+    "topic": "Neural and Behavioral Psychology Studies",
+    "oa_status": "closed",
+    "abstract_en": "A long-standing debate in the study of cognitive aging centers around the issue of whether aging results in a selective deficit in inhibitory control beyond general slowing of cognitive processing. Previous studies have obtained mixed findings, in part because the typical free-response-time paradigm lacks the specificity required to disentangle component processes underlying inhibitory control. Here, we apply a forced-response paradigm and computational model to test whether aging results in overall speed differences or a selective deficit in inhibitory control. Across two experiments, over 200 older adults and younger adults completed a forced-response arrow-flanker task. We found strong evidence that older adults demonstrate a global slowing of processing without any selective deficit in inhibitory control in this task. Furthermore, we demonstrate that global slowing is sufficient to explain the mixed findings in previous free-response-time studies. Overall, these results argue against a selective inhibitory-control deficit in older adults.",
+    "title_ja": "高齢者の認知低下は抑制制御の衰えではなく処理速度全体の遅延が原因",
+    "summary_ja": "高齢者における抑制制御の選択的衰えが、処理速度の一般的な低下によるものか、それとも独立した能力低下によるものかを調べた。強制応答パラダイムと計算モデルを用いた実験の結果、高齢者には抑制制御の選択的低下はなく、処理速度の全体的な遅延のみが見られることが分かった。ただし、本研究は特定の矢印フランカー課題を用いた結果に基づくものであり、すべての認知課題や日常の複雑な状況にそのまま一般化できるとは限らない。",
+    "why_ja": "この知見は、高齢者のうっかりミスや判断の遅れを「自制心や我慢する力の衰え」と誤解せず、情報処理全体のペースダウンとして温かく理解し、対策を立てる際に役立ちます。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-10-15",
+    "confidence": "high",
+    "drafted_at": "2026-10-15",
+    "published_at": "2026-10-15"
+  },
+  {
+    "id": "W7221779365",
+    "doi": "https://doi.org/10.1177/01461672261489310",
+    "title_en": "Impressions of Deviant Disgust Expressions Are Functionally Specific",
+    "authors": [
+      "Kaelyn Sabree",
+      "Joshua M. Ackerman"
+    ],
+    "venue": "Personality and Social Psychology Bulletin",
+    "published": "2026-10-13",
+    "topic": "Psychology of Moral and Emotional Judgment",
+    "oa_status": "closed",
+    "abstract_en": "the deviation occurred. Targets who failed to show disgust toward disgust-eliciting stimuli (\"flat deviants\") were judged as less healthy and lower in social status. Conversely, targets who expressed disgust to neutral stimuli (\"react deviants\") were judged as less open-minded and less cooperative. These impressions tracked inferred behavioral affordances: flat deviants were seen as more likely to engage in pathogen-risky behaviors, whereas react deviants were not. Consistent with these judgments, affective deviants were differentially \"punished\": flat deviants were rated as less fit and less likely to be recommended for jobs emphasizing health and hygiene, whereas react deviants faced these penalties for jobs emphasizing cooperativeness. Thus, perceivers do not simply condemn emotional norm violations; instead, they draw on expression-environment mismatches to make functionally specific trait judgments and potentially discriminatory decisions.",
+    "title_ja": "表情の不一致が対人評価に与える機能的影響",
+    "summary_ja": "嫌悪を喚起する状況で嫌悪を示さない場合や、中立的な状況で嫌悪を示す場合など、感情表現の文脈的逸脱が他者評価にどう影響するかを調べた。その結果、嫌悪を示さない者は不健康で社会的地位が低いとみなされる一方、不必要な嫌悪を示す者は協調性がないと判断され、それぞれに関連する職務適性評価で不利益を被ることがわかった。ただし、本研究の抄録からは具体的なサンプル構成や文化的背景が明記されておらず、結果の一般化可能性には限界がある。",
+    "why_ja": "この知見は、職場や面接などの社会的場面において、状況にそぐわない感情表出が相手にどのような誤解や不利益な評価をもたらすかを理解するのに役立つ。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-10-15",
+    "confidence": "high",
+    "drafted_at": "2026-10-15",
+    "published_at": "2026-10-15"
   }
 ]
