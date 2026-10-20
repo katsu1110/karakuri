@@ -1,5 +1,68 @@
 [
   {
+    "id": "W7222933996",
+    "doi": "https://doi.org/10.1073/pnas.2609893123",
+    "title_en": "Neuromodulatory control of cortical function: Cell-type-specific regulation of neuronal information transfer",
+    "title_ja": "神経修飾物質が脳の細胞タイプ別に情報伝達を変化させる仕組み",
+    "authors": [
+      "Narayan R. Joshi",
+      "Xuan Yan",
+      "Niccolò Calcini",
+      "Payam Safavi",
+      "Asli Ak",
+      "Koen Kole",
+      "Sven van der Burg",
+      "Tansu Celikel",
+      "Fleur Zeldenrust"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-10-19",
+    "topic": "Neural dynamics and brain function",
+    "summary_ja": "ドーパミンやアセチルコリンなどの神経修飾物質が、大脳皮質の単一ニューロンの計算特性や情報処理をどのように変化させるかを調べた。その結果、受容体の種類や細胞のタイプに応じて情報伝達の効率が選択的に変化し、神経細胞間の機能的な結びつきが再組織化されることがわかった。ただし、本研究はマウスの脳組織を用いた実験に基づくものであり、ヒトの複雑な認知活動や脳全体における動態へ直接一般化できるかは今後の検証が必要である。",
+    "why_ja": "この知見は、脳内の神経伝達物質の異常が関与する精神疾患の病態理解や、より効果的な薬剤開発の基礎的な手がかりとして役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-10-20"
+  },
+  {
+    "id": "W7222964102",
+    "doi": "https://doi.org/10.1073/pnas.2615627123",
+    "title_en": "Calibration, accuracy, and domain variation across one million collective forecasts from prediction platforms",
+    "title_ja": "予測プラットフォームにおける集団予測の精度と較正の検証",
+    "authors": [
+      "Justin Dickerson",
+      "Hilla Shinitzky",
+      "Maayan Peer",
+      "Mattan S. Ben‐Shachar",
+      "Michael Gilead"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-10-19",
+    "topic": "Forecasting Techniques and Applications",
+    "summary_ja": "4つの予測プラットフォームから約100万件のデータを収集し、実世界における集団予測の精度と較正状態を調査した。その結果、予測確率全体としては非常に高い較正を示し、確率p%とされた事象は約p%の割合で実際に発生していたことがわかった。ただし、一部の重要分野では過大・過小評価の傾向も見られ、個別の未来を確実視できるわけではない点に注意が必要である。",
+    "why_ja": "企業や政策決定者が社会の不確実性を見極め、より精度の高い予測に基づいて意思決定を行う際に役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-10-20"
+  },
+  {
+    "id": "W7222973945",
+    "doi": "https://doi.org/10.1038/s41562-026-02605-2",
+    "title_en": "Trait judgements of faces using a task without word labels",
+    "title_ja": "言葉を使わずに顔の印象評価から見出された5つの心理的次元",
+    "authors": [
+      "Yue Xu",
+      "Ümit Keleş",
+      "Chujun Lin",
+      "Ralph Adolphs"
+    ],
+    "venue": "Nature Human Behaviour",
+    "published": "2026-10-19",
+    "topic": "Face Recognition and Perception",
+    "summary_ja": "先行研究の言語的制約を克服するため、3,000人以上の参加者を対象に言葉のラベルを使わず顔の類似性配置による心理的特性の評価手法を調べた。その結果、人種や性別のステレオタイプの影響を受けつつも、親しみやすさや有能さなど共通する5つの評価次元が明らかにされた。ただし、実験1の主なサンプルは白人の顔写真に偏っており、結果の普遍性や文化差については慎重な解釈が求められる。",
+    "why_ja": "この知見は、初対面の相手に対する無意識の印象形成やステレオタイプがどのような要素に基づいて生じるのかを理解するのに役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-10-20"
+  },
+  {
     "id": "W7221942139",
     "doi": "https://doi.org/10.1073/pnas.2609630123",
     "title_en": "Mechanistic versus descriptive interpretation of brain activity pattern reconstruction",
