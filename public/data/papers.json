@@ -1,5 +1,23 @@
 [
   {
+    "id": "W7223053025",
+    "doi": "https://doi.org/10.1073/pnas.2617276123",
+    "title_en": "Multiple sources contribute to predictive tactile attenuation in the mouse whisker system",
+    "title_ja": "マウスのヒゲ感覚における予測的触覚抑制の2つのメカニズムの解明",
+    "authors": [
+      "Kalpana Gupta",
+      "Shubhodeep Chakrabarti",
+      "Cornelius Schwarz"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-10-20",
+    "topic": "Tactile and Sensory Interactions",
+    "summary_ja": "本研究では、マウスのヒゲ運動時において、感覚入力を弱める予測的メカニズムがどのように連動しているかを調べた。その結果、持続的な「感覚ゲーティング」と、時間的精度が高く学習可能な「状態推定」という2つの異なるシステムが触覚信号を抑制していることがわかった。ただし、本研究はマウスの神経系を対象とした実験室での知見であり、そのまま人間の日常的な感覚処理に直接一般化できるかは慎重な検討が必要である。",
+    "why_ja": "この知見は、脳が自分の動きに伴う感覚を予測して処理する仕組みの理解を深め、将来的にバーチャルリアリティやロボット工学における触覚フィードバック制御の設計に応用できる。",
+    "guest_slug": null,
+    "reviewed_at": "2026-10-21"
+  },
+  {
     "id": "W7222933996",
     "doi": "https://doi.org/10.1073/pnas.2609893123",
     "title_en": "Neuromodulatory control of cortical function: Cell-type-specific regulation of neuronal information transfer",
