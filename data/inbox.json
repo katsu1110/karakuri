@@ -3946,5 +3946,32 @@
     "confidence": "high",
     "drafted_at": "2026-10-21",
     "published_at": "2026-10-21"
+  },
+  {
+    "id": "W7223199649",
+    "doi": "https://doi.org/10.1073/pnas.2606806123",
+    "title_en": "Neuropharmacology of language: ERP evidence for catecholaminergic modulation of syntactic processing",
+    "authors": [
+      "Yingying Tan",
+      "Ashley Lewis",
+      "Iris C. Schmits",
+      "Robert Jan Verkes",
+      "Roshan Cools",
+      "Peter Hagoort A"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-10-22",
+    "topic": "Neurobiology of Language and Bilingualism",
+    "oa_status": "hybrid",
+    "abstract_en": "A few studies have shown that brain catecholamines are implicated in language comprehension. However, the specific cognitive processes they modulate remain underexplored. We hypothesized that catecholamines enhance the unification of syntactic roles and word meanings into coherent multiword structures. This study combined electroencephalography and psychopharmacology to examine the effects of a catecholaminergic stimulant (methylphenidate) on processing sentences containing local syntactic ambiguities. Methylphenidate amplified the P600 event-related potential effect, which has been linked to the recruitment of cognitive resources for processing sentences with increased syntactic load. The drug’s impact on semantic processing was subtler, showing a suggestive attenuation of the N400 effect to ambiguous sentences. Furthermore, the increase in the P600 effect under methylphenidate was most pronounced in participants with lower working memory capacity. This study provides evidence for linking catecholamine activity to syntactic unification in healthy individuals. Elevated catecholamine levels appear to increase the cognitive effort invested in syntactic unification, and to support the dynamic prioritization of syntactic information when contextual demands require it.",
+    "title_ja": "脳内神経伝達物質が文法処理に与える影響の解明",
+    "summary_ja": "本研究は、カテコールアミン系刺激薬が文法的な曖昧さを含む文の処理にどのような影響を与えるかを脳波と薬理学的手法を用いて調べた。その結果、薬物の投与によって文法処理の負荷に関連するP600脳電位が増幅し、特にワーキングメモリ容量が低い人でその傾向が顕著であることがわかった。ただし、本研究は健康な被験者を対象とした実験室での一時的な薬物効果を観察したものであり、日常会話や長期的な言語能力への直接的な影響については慎重な解釈が求められる。",
+    "why_ja": "この知見は、複雑な文を理解する際の認知的負荷や個人差のメカニズムを理解し、学習やコミュニケーション支援のあり方を考える際に役立つ。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-10-23",
+    "confidence": "high",
+    "drafted_at": "2026-10-23",
+    "published_at": "2026-10-23"
   }
 ]
