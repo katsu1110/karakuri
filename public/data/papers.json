@@ -1,5 +1,26 @@
 [
   {
+    "id": "W7223199649",
+    "doi": "https://doi.org/10.1073/pnas.2606806123",
+    "title_en": "Neuropharmacology of language: ERP evidence for catecholaminergic modulation of syntactic processing",
+    "title_ja": "脳内神経伝達物質が文法処理に与える影響の解明",
+    "authors": [
+      "Yingying Tan",
+      "Ashley Lewis",
+      "Iris C. Schmits",
+      "Robert Jan Verkes",
+      "Roshan Cools",
+      "Peter Hagoort A"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-10-22",
+    "topic": "Neurobiology of Language and Bilingualism",
+    "summary_ja": "本研究は、カテコールアミン系刺激薬が文法的な曖昧さを含む文の処理にどのような影響を与えるかを脳波と薬理学的手法を用いて調べた。その結果、薬物の投与によって文法処理の負荷に関連するP600脳電位が増幅し、特にワーキングメモリ容量が低い人でその傾向が顕著であることがわかった。ただし、本研究は健康な被験者を対象とした実験室での一時的な薬物効果を観察したものであり、日常会話や長期的な言語能力への直接的な影響については慎重な解釈が求められる。",
+    "why_ja": "この知見は、複雑な文を理解する際の認知的負荷や個人差のメカニズムを理解し、学習やコミュニケーション支援のあり方を考える際に役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-10-23"
+  },
+  {
     "id": "W7223053025",
     "doi": "https://doi.org/10.1073/pnas.2617276123",
     "title_en": "Multiple sources contribute to predictive tactile attenuation in the mouse whisker system",
