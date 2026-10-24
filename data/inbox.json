@@ -3973,5 +3973,38 @@
     "confidence": "high",
     "drafted_at": "2026-10-23",
     "published_at": "2026-10-23"
+  },
+  {
+    "id": "W7223288881",
+    "doi": "https://doi.org/10.1073/pnas.2625018123",
+    "title_en": "Action features dominate cortical representation during natural vision",
+    "authors": [
+      "Heejung Jung",
+      "Hunar Jain",
+      "Xiaochun Han",
+      "Ma Feilong",
+      "Jane Han",
+      "Deepanshi Shokeen",
+      "Cara Van Uden",
+      "Isabella Hanson",
+      "Andrew C. Connolly",
+      "Tor Dessart Wager",
+      "James V. Haxby",
+      "Samuel A. Nastase"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-10-23",
+    "topic": "Action Observation and Synchronization",
+    "oa_status": "hybrid",
+    "abstract_en": "Cortical resources are allocated into systems specialized for processing ecologically relevant features of the world. These features are typically studied in isolation using controlled experimental stimuli, making it difficult to assess the relative importance of different kinds of features that tend to overlap during natural vision. In the current study, we evaluated the relative contributions of action, agent, and scene features in predicting cortical activity while participants viewed a 1-h nature documentary. We tested four sets of model features: semantic vectors capturing the observed action, agent, and scene features derived from an annotation of the stimulus, as well as low-level visual motion-energy features. We used banded ridge regression to fit vertex-wise encoding models from the combination of all four sets of features. While each set of features predicted neural activity in the expected areas, the action features predicted more widespread activity. A variance partitioning analysis revealed that the action features captured the most unique variance in neural activity across a much larger extent of cortex than the agent or scene features. Our findings suggest that cortical activity during dynamic, natural vision is dominated by features for understanding the actions of others.",
+    "title_ja": "自然な視覚体験における脳活動は「他者の行動」の処理が支配的である",
+    "summary_ja": "本研究では、自然な映像を視聴している最中の脳活動において、行動・エージェント・背景という各特徴がそれぞれどの程度影響しているかを調べた。その結果、行動に関する特徴量が、他のどの特徴量よりも広範な脳領域で脳活動の独自分散を最も多く説明することがわかった。ただし、本研究は特定の自然ドキュメンタリー映像を用いた観察に基づくものであり、他の状況や多様な刺激一般にそのまま因果関係として一般化できるかは今後の検証が必要である。",
+    "why_ja": "この知見は、人間が日常生活の中で周囲の状況を理解し、他者と円滑に対話・協働するためのデザインや、効果的な映像教材・UI設計に応用できる。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-10-24",
+    "confidence": "high",
+    "drafted_at": "2026-10-24",
+    "published_at": "2026-10-24"
   }
 ]
