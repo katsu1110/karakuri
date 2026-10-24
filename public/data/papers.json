@@ -1,5 +1,32 @@
 [
   {
+    "id": "W7223288881",
+    "doi": "https://doi.org/10.1073/pnas.2625018123",
+    "title_en": "Action features dominate cortical representation during natural vision",
+    "title_ja": "自然な視覚体験における脳活動は「他者の行動」の処理が支配的である",
+    "authors": [
+      "Heejung Jung",
+      "Hunar Jain",
+      "Xiaochun Han",
+      "Ma Feilong",
+      "Jane Han",
+      "Deepanshi Shokeen",
+      "Cara Van Uden",
+      "Isabella Hanson",
+      "Andrew C. Connolly",
+      "Tor Dessart Wager",
+      "James V. Haxby",
+      "Samuel A. Nastase"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-10-23",
+    "topic": "Action Observation and Synchronization",
+    "summary_ja": "本研究では、自然な映像を視聴している最中の脳活動において、行動・エージェント・背景という各特徴がそれぞれどの程度影響しているかを調べた。その結果、行動に関する特徴量が、他のどの特徴量よりも広範な脳領域で脳活動の独自分散を最も多く説明することがわかった。ただし、本研究は特定の自然ドキュメンタリー映像を用いた観察に基づくものであり、他の状況や多様な刺激一般にそのまま因果関係として一般化できるかは今後の検証が必要である。",
+    "why_ja": "この知見は、人間が日常生活の中で周囲の状況を理解し、他者と円滑に対話・協働するためのデザインや、効果的な映像教材・UI設計に応用できる。",
+    "guest_slug": null,
+    "reviewed_at": "2026-10-24"
+  },
+  {
     "id": "W7223199649",
     "doi": "https://doi.org/10.1073/pnas.2606806123",
     "title_en": "Neuropharmacology of language: ERP evidence for catecholaminergic modulation of syntactic processing",
