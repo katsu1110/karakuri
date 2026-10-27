@@ -1,5 +1,45 @@
 [
   {
+    "id": "W7212412311",
+    "doi": "https://doi.org/10.1177/01461672261493645",
+    "title_en": "Helpful and in Danger: Attributes and Correlates of Perceived Occupational Heroism",
+    "title_ja": "職業的英雄主義の属性と社会政策への影響",
+    "authors": [
+      "Jean Monéger",
+      "Roger Giner‐Sorolla"
+    ],
+    "venue": "Personality and Social Psychology Bulletin",
+    "published": "2026-10-26",
+    "topic": "Leadership, Courage, and Heroism Studies",
+    "summary_ja": "イギリスの代表的サンプルを用いた2つの事前登録済み相関研究において、どのような属性が職業的英雄主義を構成し、それが労働者に関する政策的態度とどのように関連するかを調べた。その結果、職業的英雄主義は労働者の「助けとなる性質」と「リスクへの曝露」に関連しており、批判の抑制や規制緩和などの免責的保護（モラル・シールド）や感謝・支援の増加と結びついていることがわかった。本研究は英国のサンプルに基づく相関研究であるため、因果関係の断定や他文化圏への一般化には限界がある。",
+    "why_ja": "この知見は、エッセンシャルワーカーや災害対応者に対する社会的な評価や支援、および彼らを対象とした労働政策や法的保護のあり方を検討する際に役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-10-27"
+  },
+  {
+    "id": "W7223674191",
+    "doi": "https://doi.org/10.1073/pnas.2618030123",
+    "title_en": "Behavioral evidence for two-stage sleep in spiders",
+    "title_ja": "ハエトリグモにもREM様睡眠が存在？ クモの睡眠構造を解明",
+    "authors": [
+      "Nadja Geiger",
+      "Maxim Q. Capelle",
+      "Phillip Rosentreter",
+      "Marie Elisabeth Herberstein",
+      "Armin Bahl",
+      "Massimo De Agrò",
+      "Barrett Anthony Klein",
+      "Daniela Christina Rößler"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-10-26",
+    "topic": "Sleep and Wakefulness Research",
+    "summary_ja": "ハエトリグモの一種を対象に、彼らが示す睡眠様の行動が真の睡眠やREM様サブステートにあたるかを網羅的に調査した。その結果、明確な睡眠構造や覚醒閾値の上昇に加え、REM様行動や睡眠妨害後のリバウンド効果が確認され、クモにも行動学的な睡眠が存在することが示された。ただし、本研究は特定の種における観察に基づいた結果であり、すべてのクモ類や無脊椎動物一般に普遍的な現象と言えるかは今後のさらなる検証が必要である。",
+    "why_ja": "この知見は、脊椎動物中心であった睡眠の進化の歴史やその普遍的な機能を再定義し、多様な動物における睡眠の起源を探る基礎資料として役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-10-27"
+  },
+  {
     "id": "W7223288881",
     "doi": "https://doi.org/10.1073/pnas.2625018123",
     "title_en": "Action features dominate cortical representation during natural vision",
