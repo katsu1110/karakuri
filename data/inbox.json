@@ -4006,5 +4006,57 @@
     "confidence": "high",
     "drafted_at": "2026-10-24",
     "published_at": "2026-10-24"
+  },
+  {
+    "id": "W7212412311",
+    "doi": "https://doi.org/10.1177/01461672261493645",
+    "title_en": "Helpful and in Danger: Attributes and Correlates of Perceived Occupational Heroism",
+    "authors": [
+      "Jean Monéger",
+      "Roger Giner‐Sorolla"
+    ],
+    "venue": "Personality and Social Psychology Bulletin",
+    "published": "2026-10-26",
+    "topic": "Leadership, Courage, and Heroism Studies",
+    "oa_status": "hybrid",
+    "abstract_en": "Some occupations such as firefighters are described as heroic, while others, such as healthcare workers, are applauded as “heroes” in crises. In two preregistered correlational studies conducted on representative U.K. samples, we evaluated theory-based attributes of occupational heroism, and its relationship to specific policy-relevant attitudes toward occupations. In Study 1 ( N = 430), we confirmed that occupational heroism relates to the perceived helpfulness and risk exposure of workers. In Study 2 ( N = 840), we further showed that occupational heroism is associated with a moral shield: workers’ hero status correlates with decreased acceptability of criticism toward them, and increased support for deregulating them and protecting them from punishment for rule-breaking. Unlike previous findings suggesting a willingness to exploit heroized workers, heroism correlated with increased gratitude toward workers, support for their demands, and perception that they are vulnerable. Societal consequences and relevance for policy-making are discussed.",
+    "title_ja": "職業的英雄主義の属性と社会政策への影響",
+    "summary_ja": "イギリスの代表的サンプルを用いた2つの事前登録済み相関研究において、どのような属性が職業的英雄主義を構成し、それが労働者に関する政策的態度とどのように関連するかを調べた。その結果、職業的英雄主義は労働者の「助けとなる性質」と「リスクへの曝露」に関連しており、批判の抑制や規制緩和などの免責的保護（モラル・シールド）や感謝・支援の増加と結びついていることがわかった。本研究は英国のサンプルに基づく相関研究であるため、因果関係の断定や他文化圏への一般化には限界がある。",
+    "why_ja": "この知見は、エッセンシャルワーカーや災害対応者に対する社会的な評価や支援、および彼らを対象とした労働政策や法的保護のあり方を検討する際に役立ちます。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-10-27",
+    "confidence": "high",
+    "drafted_at": "2026-10-27",
+    "published_at": "2026-10-27"
+  },
+  {
+    "id": "W7223674191",
+    "doi": "https://doi.org/10.1073/pnas.2618030123",
+    "title_en": "Behavioral evidence for two-stage sleep in spiders",
+    "authors": [
+      "Nadja Geiger",
+      "Maxim Q. Capelle",
+      "Phillip Rosentreter",
+      "Marie Elisabeth Herberstein",
+      "Armin Bahl",
+      "Massimo De Agrò",
+      "Barrett Anthony Klein",
+      "Daniela Christina Rößler"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-10-26",
+    "topic": "Sleep and Wakefulness Research",
+    "oa_status": "hybrid",
+    "abstract_en": "Sleep is a fundamental behavioral state found across the animal kingdom, yet most of what we know about sleep is heavily vertebrate-biased. Studies are scarce or nonexistent in all but a few invertebrate lineages. A recent study of an REM sleep-like behavior in a jumping spider has reported unexpected parallels to sleep expression in vertebrates. So far, experimental evidence that these behavioral indicators truly represent sleep was lacking in spiders. Here, we present a comprehensive investigation into sleep behavior in the spider Portia fimbriata (Salticidae). We demonstrate diurnal activity, a free-running circadian rhythm, robust sleep architecture, regularly occurring REM-like behaviors, elevated arousal thresholds during those REM-like states, as well as rebound effects following sleep disruption. We conclude that the behavior we observe in spiders is behavioral sleep, providing evidence for an REM-like sleep substate in a terrestrial invertebrate. These results contribute to fundamental questions about the evolution and function of sleep across animals.",
+    "title_ja": "ハエトリグモにもREM様睡眠が存在？ クモの睡眠構造を解明",
+    "summary_ja": "ハエトリグモの一種を対象に、彼らが示す睡眠様の行動が真の睡眠やREM様サブステートにあたるかを網羅的に調査した。その結果、明確な睡眠構造や覚醒閾値の上昇に加え、REM様行動や睡眠妨害後のリバウンド効果が確認され、クモにも行動学的な睡眠が存在することが示された。ただし、本研究は特定の種における観察に基づいた結果であり、すべてのクモ類や無脊椎動物一般に普遍的な現象と言えるかは今後のさらなる検証が必要である。",
+    "why_ja": "この知見は、脊椎動物中心であった睡眠の進化の歴史やその普遍的な機能を再定義し、多様な動物における睡眠の起源を探る基礎資料として役立つ。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-10-27",
+    "confidence": "high",
+    "drafted_at": "2026-10-27",
+    "published_at": "2026-10-27"
   }
 ]
