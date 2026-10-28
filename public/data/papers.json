@@ -1,5 +1,60 @@
 [
   {
+    "id": "W4417464881",
+    "doi": "https://doi.org/10.1073/pnas.2607559123",
+    "title_en": "Neuromodulation-inspired gated associative memory networks: Extended memory retrieval and emergent multistability",
+    "title_ja": "神経修飾物質に着想を得たゲート機構が記憶容量と安定性を劇的に高める",
+    "authors": [
+      "Daiki Goto",
+      "Hector Manuel Lopez Rios",
+      "Monika Scholz",
+      "Suriyanarayanan Vaikuntanathan"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-10-27",
+    "topic": "Neural dynamics and brain function",
+    "summary_ja": "神経回路の記憶容量と安定性に影響を与える神経修飾物質の働きに着目し、自己適応型のゲート機構を持つ新しい連想記憶ネットワークモデルの挙動を調べた。シミュレーションと理論解析の結果、このゲート機構により従来モデルの限界を超えて頑健な記憶の想起が可能になり、記憶の固定点が連続的な状態へと再構築されることがわかった。本研究は理論モデルおよび多体系シミュレーションに基づく知見であり、実際の生体神経回路や具体的な神経形態学的人工知能への適用にはさらなる検証が必要である。",
+    "why_ja": "この知見は、AIやニューロモーフィックチップにおいて、限られたリソースで大量の情報を安定して記憶・処理する効率的なアーキテクチャを設計する際に役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-10-28"
+  },
+  {
+    "id": "W7223649912",
+    "doi": "https://doi.org/10.1037/pspp0000617",
+    "title_en": "Anchored in truth but driven by grandiosity: A process account of narcissistic self-enhancement.",
+    "title_ja": "ナルシシズムと自己高揚の認知メカニズムの解明",
+    "authors": [
+      "Christoph Heine",
+      "Constantine Sedikides",
+      "Michael Dufner"
+    ],
+    "venue": "Journal of Personality and Social Psychology",
+    "published": "2026-10-26",
+    "topic": "Personality Traits and Psychology",
+    "summary_ja": "本研究は、自己知識が典型的なレベルにある状況下で、誇大的なナルシシズムが認知能力の自己高揚とどのように関連しているのかを調べた。その結果、ナルシシズム的賞賛は認知能力の自己高揚と関連していることが明らかになった。ただし、本研究の知見がどのような多様な文化圏や非学生サンプルにも普遍的に当てはまるかについては、さらなる検証が必要である。",
+    "why_ja": "この知見は、他者が自分を過大評価する心理的背景を理解し、職場や人間関係における適切なコミュニケーションや自己評価の歪みに対処する際に役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-10-28"
+  },
+  {
+    "id": "W7223659478",
+    "doi": "https://doi.org/10.1037/xge0002026",
+    "title_en": "Stronger mnemonic prediction errors can disproportionately impair memory updating in older adults.",
+    "title_ja": "高齢者における記憶のアップデートの困難さと予測エラーの影響",
+    "authors": [
+      "Min Sung Seo",
+      "Christopher N. Wahlheim",
+      "Kelly S. Giovanello"
+    ],
+    "venue": "Journal of Experimental Psychology General",
+    "published": "2026-10-26",
+    "topic": "Memory Processes and Influences",
+    "summary_ja": "記憶の予測の強さが古い情報の更新に与える影響を、高齢者と若年者を対象に調査した。強い予測は高齢者において新しい記憶への更新を不相応に阻害し、変更の自覚も低下させることがわかった。ただし、この実験は特定の記憶課題に基づくものであり、日常生活の多様な記憶場面一般にそのまま適用できるかは慎重な検討が必要である。",
+    "why_ja": "この知見は、高齢者の物忘れや情報のアップデートがうまくいかない背景を理解し、効果的な学習や記憶補助の方法を考える際に役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-10-28"
+  },
+  {
     "id": "W7212412311",
     "doi": "https://doi.org/10.1177/01461672261493645",
     "title_en": "Helpful and in Danger: Attributes and Correlates of Perceived Occupational Heroism",
