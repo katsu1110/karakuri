@@ -4131,5 +4131,37 @@
     "confidence": "high",
     "drafted_at": "2026-10-28",
     "published_at": "2026-10-28"
+  },
+  {
+    "id": "W7224128202",
+    "doi": "https://doi.org/10.1073/pnas.2608460123",
+    "title_en": "Lysine crotonylation acts as an epigenetic switch for glutamate neurotransmission and spatial memory",
+    "authors": [
+      "Utsav Mukherjee",
+      "Budhaditya Basu",
+      "Pratyush S. Suryavanshi",
+      "Stacy E. Beyer",
+      "Saaman Ghodsi",
+      "Nathan Robillard",
+      "Yann S. Vanrobaeys",
+      "Eric B. Taylor",
+      "Joseph C. Glykys",
+      "Ted G. Abel",
+      "Snehajyoti Chatterjee"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-10-28",
+    "topic": "Memory and Neural Mechanisms",
+    "oa_status": "hybrid",
+    "abstract_en": "Histone posttranslational modifications, particularly lysine acetylation (Kac), are critical epigenetic regulators of transcriptional programs underlying long-term memory consolidation. Beyond Kac, several other non-acetyl acylations have been identified with the ability to regulate transcription; however, their role in memory consolidation remains unknown. Here, we identify histone lysine crotonylation (Kcr) as a molecular switch for long-term memory and glutamatergic neurotransmission. We find that spatial learning induces distinct spatiotemporal patterns of Kcr across hippocampal subregions. Through genetic manipulations, we show that reducing hippocampal Kcr levels impairs memory, while increasing Kcr levels by means of crotonate administration enhances long-term memory. Single-nuclei transcriptome and chromatin accessibility analyses reveal that crotonate facilitates activation of genes regulating glutamate signaling. Cell–cell communication analysis further suggests a strengthening of glutamatergic signaling within hippocampal excitatory neurons following crotonate administration. Real-time fluorescence imaging with genetically encoded sensors functionally validates our multiomics and computational findings—demonstrating the role of Kcr in regulating presynaptic glutamate release and neuronal activity. In summary, our findings elucidate a key mechanism underlying long-term memory consolidation and excitatory neurotransmission, linking epigenetic events to synaptic function and behavior.",
+    "title_ja": "ヒストンのクロトン化が空間記憶とグルタミン酸作動性神経伝達を調節する",
+    "summary_ja": "本研究は、ヒストンのリシンクロトン化（Kcr）が長期記憶の固定化およびグルタミン酸作動性神経伝達において果たす役割を調べた。海馬におけるKcrレベルの減少が記憶障害を引き起こし、逆にクロトン酸投与によるKcrの増加が長期記憶を強化することがわかった。ただし、本研究は主にげっ歯類を用いた実験に基づくものであり、ヒトにおける直接的な因果関係や適用限界については今後の検証が必要である。",
+    "why_ja": "この知見は、記憶力の向上や神経変性疾患における認知機能低下に対する新たな治療法・介入戦略の開発に応用できる可能性がある。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-10-29",
+    "confidence": "high",
+    "drafted_at": "2026-10-29",
+    "published_at": "2026-10-29"
   }
 ]
