@@ -4163,5 +4163,31 @@
     "confidence": "high",
     "drafted_at": "2026-10-29",
     "published_at": "2026-10-29"
+  },
+  {
+    "id": "W7224370009",
+    "doi": "https://doi.org/10.1177/09567976261470400",
+    "title_en": "Context Matters, Doesn’t It? The Role of Context in Everyday Emotion Regulation Strategy Use",
+    "authors": [
+      "Anh Tran",
+      "Rachel Freeman-Robinson",
+      "Peter Koval",
+      "Katharine Helen Greenaway",
+      "Elise Katherine Kalokerinos"
+    ],
+    "venue": "Psychological Science",
+    "published": "2026-10-29",
+    "topic": "Emotions and Moral Behavior",
+    "oa_status": "hybrid",
+    "abstract_en": "A common maxim holds that “context is everything.” This perspective transformed the field of emotion regulation, which evolved from understanding which regulation strategies people use, to understanding how strategy use varies by context (i.e., strategy–situation fit). Theoretical accounts suggest contextual features are crucial in guiding strategy use. However, empirical evidence is isolated in piecemeal studies with inconclusive results. To comprehensively explore context-dependent emotion regulation, we need data on emotion regulation across many contexts, at scale. Combining up to 11 experience-sampling data sets collected from Belgian and Australian samples in an integrative analysis ( N ID = 500–1,696, N observations = 27,023–101,114, M age = 25.38 years, 71% women), we examined how regulation-strategy use varies as a function of three theory-derived contextual features— intensity , controllability , and social features (i.e., the presence and closeness of others). We found limited support that context matters for daily emotion-regulation strategy use. Our study provides a well-powered foundational step to test a theory central to emotion-regulation research and highlights the complexity of capturing strategy–situation fit in daily life.",
+    "title_ja": "日常の感情調整と文脈の関係：大規模データが示す実際",
+    "summary_ja": "ベルギーとオーストラリアの参加者を対象とした最大10万件以上の経験サンプリングデータを用い、日常の感情調整方略の選択が文脈の3つの特徴（強度、統御可能性、社会的状況）にどう影響されるかを調べた。その結果、文脈が日常の感情調整方略の使用に影響するという理論的予測への支持は限定的であることがわかった。本研究のサンプルは若年層や女性に偏っており、日常生活における文脈と方略の適合性を捉える複雑さを示している。",
+    "why_ja": "この知見は、感情をコントロールする際に状況や文脈に過度に合わせようとするアプローチの限界を見直し、より現実的なメンタルケアの手法を考える際に役立ちます。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-10-30",
+    "confidence": "high",
+    "drafted_at": "2026-10-30",
+    "published_at": "2026-10-30"
   }
 ]
