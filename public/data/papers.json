@@ -1,5 +1,103 @@
 [
   {
+    "id": "W7224183078",
+    "doi": "https://doi.org/10.1037/xge0002008",
+    "title_en": "Beliefs about the causal interdependence of virtues and vices.",
+    "title_ja": "人々は道徳的特性が互いにどう影響し合うと信じているのか",
+    "authors": [
+      "Benjamin Hardin",
+      "Sydney Scott",
+      "Jessie Sun"
+    ],
+    "venue": "Journal of Experimental Psychology General",
+    "published": "2026-10-29",
+    "topic": "Psychology of Moral and Emotional Judgment",
+    "summary_ja": "人々が道徳的な美徳と悪徳の間で因果関係や相互作用をどのように捉えているかを4つの研究で調べた。ある美徳の向上や悪徳の増加が他の特性も同様に高めるという「促進効果」が広く信じられている一方で、特定の「マスター美徳」の存在は支持されず、残酷さや強欲さが影響力の大きい「マスター悪徳」とみなされる傾向が示された。本研究は主にオンライン参加者や大学生を対象とした自己報告に基づいているため、実際の行動変容との乖離や文化的な偏りの可能性についてはさらなる検討が必要である。",
+    "why_ja": "この知見は、人々が自身の道徳的な向上や悪習の改善を目指す際に、どのような思い込みや期待を抱きやすいかを理解するのに役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "W7224307166",
+    "doi": "https://doi.org/10.1037/xge0001985",
+    "title_en": "Enacted love: Capitalization responses signal love, including toward strangers.",
+    "title_ja": "他者の良い知らせへの積極的反応は「行動としての愛」である",
+    "authors": [
+      "Tatum A. Jolink",
+      "Emily Le",
+      "Zoe Hansen",
+      "Kylie R. Chandler",
+      "Alexis M. Cameron",
+      "Issay Barry",
+      "Brett A. Murphy",
+      "Sara B. Algoe"
+    ],
+    "venue": "Journal of Experimental Psychology General",
+    "published": "2026-10-29",
+    "topic": "Death Anxiety and Social Exclusion",
+    "summary_ja": "他者が良い知らせを打ち明けた際の積極的で建設的な反応が「愛の表れ」としてどのように機能し関係発展に影響するかを複数研究で調べた。その結果、恋人同士だけでなく見知らぬ人に対するそのような反応も愛のシグナルとして伝わり、社会的つながりの構築に寄与することがわかった。ただし、本研究の知見が多様な文化や状況において普遍的にどこまで当てはまるかについては、さらなる検証が必要である。",
+    "why_ja": "この知見は、日常のちょっとした共感や相手の喜びへの前向きな反応が、分断された社会で他者との関係を深め絆を築くための実践的なヒントとして役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "W7224348669",
+    "doi": "https://doi.org/10.1037/xge0002012",
+    "title_en": "How we see relations: The case of containment and support.",
+    "title_ja": "視覚的シーンにおける「包含・支持」関係の認知メカニズム",
+    "authors": [
+      "Sofie Vettori",
+      "Farzad Rostami",
+      "Jean‐Rémy Hochmann",
+      "Liuba Papeo"
+    ],
+    "venue": "Journal of Experimental Psychology General",
+    "published": "2026-10-29",
+    "topic": "Attachment and Relationship Dynamics",
+    "summary_ja": "物体間の位置関係が視覚的知覚においてどの程度素早く自動的に抽出されるかを調べた。同じカテゴリ内では支持や包含の関係に対する神経応答が強まったが、異なるカテゴリ間ではその効果は見られなかった。本研究は特定の視覚的シーンや被験者サンプルに依存している可能性があり、すべての抽象的な関係認知にそのまま当てはまるとは限らない。",
+    "why_ja": "この知見は、人間が物理的な環境を直感的に把握し、UIデザインや空間認知に関わるインターフェースを最適化する場面で役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "W7224490518",
+    "doi": "https://doi.org/10.1037/xge0002006",
+    "title_en": "Investigating how reward retroactively improves memory for associations and items: A registered report.",
+    "title_ja": "報酬は過去の記憶を本当に強化するのか？",
+    "authors": [
+      "Hannah Tarder-Stoll",
+      "Margaret L. Schlichting",
+      "Katherine D. Duncan"
+    ],
+    "venue": "Journal of Experimental Psychology General",
+    "published": "2026-10-29",
+    "topic": "Memory Processes and Influences",
+    "summary_ja": "報酬がその直前のニュートラルな体験の記憶を遡って高めるかどうかをオンライン実験で調査した。事前の確証的分析では報酬による記憶の遡及的向上効果は確認されなかったが、探索的分析において報酬に敏感な参加者でのみ効果が示唆された。この研究はオンライン実験における限定的なサンプルや特定条件下での結果であり、普遍的な効果と断定するには限界がある。",
+    "why_ja": "この知見は、学習やマーケティングにおいて報酬を提示するだけでは記憶の定着が保証されず、個人の動機づけの感度が鍵になることを理解するのに役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "W7224514736",
+    "doi": "https://doi.org/10.1037/xge0001982",
+    "title_en": "Task-evoked pupillary responses reveal a role for attentional intensity in auditory discrimination.",
+    "title_ja": "注意制御力が音の聴き分け能力とメンタル努力の効果を左右する",
+    "authors": [
+      "Mark Pillai",
+      "Cody Anthony Mashburn",
+      "Jason S. Tsukahara",
+      "Audrey J. Leroux",
+      "Randall W Engle"
+    ],
+    "venue": "Journal of Experimental Psychology General",
+    "published": "2026-10-29",
+    "topic": "Neuroscience and Music Perception",
+    "summary_ja": "聴覚の識別能力とメンタル努力の指標である瞳孔反応が、注意制御力とどのように関連しているかを大規模データを用いて調査した。構造方程式モデリングの結果、注意制御力は聴覚の識別閾値を予測し、瞳孔の拡張とパフォーマンスの関係を完全に媒介することが確認された。ただし、本研究は特定の適応型聴覚課題とサンプルに基づいているため、すべての聴覚的文脈や多様な集団にそのまま一般化できるとは限らない。",
+    "why_ja": "この知見は、学習や仕事において困難な課題に直面した際、単に努力量を増やすだけでなく、注意を適切にコントロールすることが成果を上げるためのカギとなる場面で役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-10-31"
+  },
+  {
     "id": "W7224370009",
     "doi": "https://doi.org/10.1177/09567976261470400",
     "title_en": "Context Matters, Doesn’t It? The Role of Context in Everyday Emotion Regulation Strategy Use",
