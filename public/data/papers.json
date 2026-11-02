@@ -1,5 +1,80 @@
 [
   {
+    "id": "W4408020017",
+    "doi": "https://doi.org/10.1037/xge0002008",
+    "title_en": "Beliefs about the causal interdependence of virtues and vices.",
+    "title_ja": "徳や悪徳は連鎖する？道徳的特性の因果関係に関する人々の信念",
+    "authors": [
+      "Benjamin Hardin",
+      "Sydney E. Scott",
+      "Jessie Sun"
+    ],
+    "venue": "Journal of Experimental Psychology General",
+    "published": "2026-10-29",
+    "topic": "Psychology of Moral and Emotional Judgment",
+    "summary_ja": "人々が道徳的な美徳と悪徳の間にどのような因果関係があると信じているかを4つの研究で調べた。ある徳を高めれば他の徳も高まり悪徳は減るという、特性同士の促進効果を人々が広く信じていることがわかった。ただし、本研究はオンライン参加者や大学生の主観的な信念を調べたものであり、実際の道徳的行動の変化や因果関係を示すものではない。",
+    "why_ja": "この知見は、人々が自身の性格や道徳性を改善しようとする際や、モラル教育プログラムを設計する際の心理的背景を理解するのに役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-11-02"
+  },
+  {
+    "id": "W4416587149",
+    "doi": "https://doi.org/10.1037/xge0002000",
+    "title_en": "The orthographic mind: Orthographic imagery propensity correlates with semantic structure and sensory sensitivity.",
+    "title_ja": "文字の心内イメージが意味構造や感覚処理に与える影響",
+    "authors": [
+      "Huichao Yang",
+      "Xiaosha Wang",
+      "Yanchao Bi"
+    ],
+    "venue": "Journal of Experimental Psychology General",
+    "published": "2026-10-29",
+    "topic": "Social Representations and Identity",
+    "summary_ja": "思考における内部表現の癖、特に文字イメージの心内シミュレーション傾向が、意味の構造化や外部情報への関与とどのように関連しているかを調査した。文字イメージを強く持つ人は、意味のカテゴリー間結合が強く、社会的同調性が低く、感覚処理感受性も低いことが明らかになった。ただし、効果の大きさは控えめであり、本研究は相関関係を示すものであり因果関係の断定には限界がある。",
+    "why_ja": "この知見は、個人の思考スタイルの違いが、情報の捉え方や感覚の敏感さにどのような影響を与えるかを理解するのに役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-11-02"
+  },
+  {
+    "id": "W7111634596",
+    "doi": "https://doi.org/10.1037/xge0002012",
+    "title_en": "How we see relations: The case of containment and support.",
+    "title_ja": "視覚シーンにおける物体間の関係性は脳内でどのように認識されるのか",
+    "authors": [
+      "Sofie Vettori",
+      "Farzad Rostami",
+      "Jean‐Rémy Hochmann",
+      "Liuba Papeo"
+    ],
+    "venue": "Journal of Experimental Psychology General",
+    "published": "2026-10-29",
+    "topic": "Attachment and Relationship Dynamics",
+    "summary_ja": "人間が視覚世界を認識する際、物体同士の関係性（支持や包含など）がどの程度迅速かつ自動的に抽出されるのかを脳波測定により調べた。その結果、同じ種類のシーン内であれば関係性に対する神経応答が強まるものの、異なるカテゴリのシーン間ではその汎用性が示されなかった。ただし、本研究は特定の視覚的呈示条件に基づく実験室での測定結果であり、実際の複雑な環境における全般的な認知プロセスへの一般化には限界がある。",
+    "why_ja": "この知見は、デザインやUIの配置において、ユーザーが物体同士の関係性を直感的に理解しやすい視覚情報を設計する際に役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-11-02"
+  },
+  {
+    "id": "W7133805499",
+    "doi": "https://doi.org/10.1177/09567976261470400",
+    "title_en": "Context Matters, Doesn’t It? The Role of Context in Everyday Emotion Regulation Strategy Use",
+    "title_ja": "日常の感情調整と文脈の関係：11の大規模データによる検証",
+    "authors": [
+      "Anh Tu Tran",
+      "Rachel Freeman-Robinson",
+      "Peter Koval",
+      "Katharine Helen Greenaway",
+      "Elise Katherine Kalokerinos"
+    ],
+    "venue": "Psychological Science",
+    "published": "2026-10-29",
+    "topic": "Emotions and Moral Behavior",
+    "summary_ja": "日常場面における感情調整の選択が状況や文脈によってどのように変化するかを、11の経験サンプリングデータセットを統合して大規模に調査した。その結果、状況の強度や統制可能性、社会的文脈が感情調整の選択に与える影響は限定的であることがわかった。本研究は統合分析による基盤的な知見を提供するものであるが、日常の複雑な状況と戦略の適合性を捉える難しさが浮き彫りになっており、結果の一般化にはさらなる検証が必要である。",
+    "why_ja": "この知見は、個人の感情コントロールが常に周囲の状況や文脈に左右されるわけではないことを示し、過度な状況適応のプレッシャーを見直すヒントになる。",
+    "guest_slug": null,
+    "reviewed_at": "2026-11-02"
+  },
+  {
     "id": "W7224183078",
     "doi": "https://doi.org/10.1037/xge0002008",
     "title_en": "Beliefs about the causal interdependence of virtues and vices.",
