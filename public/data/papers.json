@@ -1,5 +1,26 @@
 [
   {
+    "id": "W7222778172",
+    "doi": "https://doi.org/10.1073/pnas.2534136123",
+    "title_en": "A causal account of the neural origins of mental fatigue",
+    "title_ja": "認知的疲労の脳内メカニズム：背外側前頭前野とグルタミン代謝の因果関係",
+    "authors": [
+      "Hongmei Xia",
+      "Gizem Vural",
+      "Antonia Šušnjar",
+      "Helge J. Zöllner",
+      "Robert Mattes",
+      "Alexander Soutschek"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-11-02",
+    "topic": "Sleep and Work-Related Fatigue",
+    "summary_ja": "認知的コントロールの中枢である背外側前頭前野の持続的活性化が、精神的疲労やモチベーション低下を引き起こす原因となるかを検証した。脳刺激法と分光法を用いた実験の結果、同領域の刺激は精神的パフォーマンスを向上させる一方で、作業後の疲労感を増加させ、前頭前のグルタミン濃度の上昇がそのモチベーション低下を統計的に説明することがわかった。本研究は特定の脳刺激と代謝物質の変化に基づく因果関係を示しているが、実際の日常生活における多様な認知的負荷や長期的な影響については、さらなる検証が必要である。",
+    "why_ja": "この知見は、長時間のデスクワークや学習で感じるメンタル疲労の脳内メカニズムを理解し、効率的な休息方法や疲労感を軽減する作業環境のデザインに役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-11-03"
+  },
+  {
     "id": "W4408020017",
     "doi": "https://doi.org/10.1037/xge0002008",
     "title_en": "Beliefs about the causal interdependence of virtues and vices.",
