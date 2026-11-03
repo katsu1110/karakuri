@@ -4416,5 +4416,32 @@
     "confidence": "high",
     "drafted_at": "2026-11-02",
     "published_at": "2026-11-02"
+  },
+  {
+    "id": "W7222778172",
+    "doi": "https://doi.org/10.1073/pnas.2534136123",
+    "title_en": "A causal account of the neural origins of mental fatigue",
+    "authors": [
+      "Hongmei Xia",
+      "Gizem Vural",
+      "Antonia Šušnjar",
+      "Helge J. Zöllner",
+      "Robert Mattes",
+      "Alexander Soutschek"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-11-02",
+    "topic": "Sleep and Work-Related Fatigue",
+    "oa_status": "hybrid",
+    "abstract_en": "Successful goal-directed behavior often requires the exertion of effortful cognitive control processes, but it remains unclear why engaging in cognitive control is experienced as effortful and induces fatigue. Here, we tested the hypothesis that sustained activation in the dorsolateral prefrontal cortex (DLPFC)—a neural substrate of cognitive control—causally induces motivational fatigue via the accumulation of prefrontal glutamate metabolites. For this purpose, we combined brain stimulation with spectroscopy imaging to assess how increasing DLPFC excitability during an effortful mental task changes the motivation for mental effort and glutamate concentrations. We found that stimulating the DLPFC during mental effort exertion improved mental performance at the cost of increased posteffort motivational fatigue, suggesting a causal role of DLPFC activation for inducing fatigue. On the neural level, DLPFC activation during effortful cognition also increased prefrontal concentrations of glutamate, which statistically explained the fatigue-induced lower motivation for mental effort. A corresponding analysis of combined glutamate–glutamine (Glx) concentrations revealed converging effects. Together, these findings provide causal evidence that enhanced DLPFC activation contributes to fatigue via neurochemical changes, supporting neuro-metabolic accounts of fatigue and offering new insights into why demanding cognitive tasks are perceived as effortful.",
+    "title_ja": "認知的疲労の脳内メカニズム：背外側前頭前野とグルタミン代謝の因果関係",
+    "summary_ja": "認知的コントロールの中枢である背外側前頭前野の持続的活性化が、精神的疲労やモチベーション低下を引き起こす原因となるかを検証した。脳刺激法と分光法を用いた実験の結果、同領域の刺激は精神的パフォーマンスを向上させる一方で、作業後の疲労感を増加させ、前頭前のグルタミン濃度の上昇がそのモチベーション低下を統計的に説明することがわかった。本研究は特定の脳刺激と代謝物質の変化に基づく因果関係を示しているが、実際の日常生活における多様な認知的負荷や長期的な影響については、さらなる検証が必要である。",
+    "why_ja": "この知見は、長時間のデスクワークや学習で感じるメンタル疲労の脳内メカニズムを理解し、効率的な休息方法や疲労感を軽減する作業環境のデザインに役立ちます。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-11-03",
+    "confidence": "high",
+    "drafted_at": "2026-11-03",
+    "published_at": "2026-11-03"
   }
 ]
