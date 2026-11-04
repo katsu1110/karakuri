@@ -1,5 +1,101 @@
 [
   {
+    "id": "W7160096002",
+    "doi": "https://doi.org/10.1073/pnas.2613283123",
+    "title_en": "Dissociation of gravity and limb dynamics in motor control",
+    "title_ja": "脳は重力と腕の動きの力学をどう制御しているのか",
+    "authors": [
+      "Valeriya Gritsenko",
+      "Tjaša Kunavar",
+      "Marko Jamšek",
+      "Sergiy Yakovenko",
+      "Olivier White",
+      "Jan Babič"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-11-03",
+    "topic": "Motor Control and Adaptation",
+    "summary_ja": "放物線飛行による重力変化を利用し、中枢神経系が重力負荷と腕の固有力学をどのように分離して補正しているかを調べた。その結果、筋肉の活性化パターンは機械的な必要トルクだけでなく、重力負荷に応じた関節のインピーダンス調整を反映していることがわかった。ただし、本研究は9名の参加者による限られた条件下での実験に基づくため、多様な環境や集団への一般化には限界がある。",
+    "why_ja": "この知見は、変動する環境下でも安定して動作する義肢や装着型ロボット、リハビリテーションシステムの適応型制御アルゴリズムの設計に役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-11-04"
+  },
+  {
+    "id": "W7162045999",
+    "doi": "https://doi.org/10.1177/01461672261496741",
+    "title_en": "Because You Know They Like Me So: Examining the Accuracy of Dyadic and Triadic Meta-Liking Judgments in Initial Social Encounters",
+    "title_ja": "他者同士の好意を正確に見抜く心理メカニズムの解明",
+    "authors": [
+      "Jana Bruns",
+      "Steffen Nestler"
+    ],
+    "venue": "Personality and Social Psychology Bulletin",
+    "published": "2026-11-03",
+    "topic": "Attachment and Relationship Dynamics",
+    "summary_ja": "初対面の人間関係において、他者同士が互いに好意を持っているかを正確に推測できるか、およびその認知バイアスを調査した。分析の結果、人々は誰が好かれているかについて一定の洞察力を持ち、相互性や合意性のヒューリスティックに依存していることが明らかになった。ただし、本研究は主に若年女性のサンプルを対象とした初対面の相互作用に基づくため、結果の一般化には限界がある。",
+    "why_ja": "この知見は、新しい人間関係やグループの中で、周囲の人間関係の力学を正確に把握し円滑なコミュニケーションを図る際に役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-11-04"
+  },
+  {
+    "id": "W7203962423",
+    "doi": "https://doi.org/10.1177/01461672261491417",
+    "title_en": "The Role of the Disintegration Trait in Everyday Situation Perception",
+    "title_ja": "統合失調症傾向が日常の状況認知に与える影響の解明",
+    "authors": [
+      "Michael Barthelmäs",
+      "Goran Knežević",
+      "Johannes Keller"
+    ],
+    "venue": "Personality and Social Psychology Bulletin",
+    "published": "2026-11-03",
+    "topic": "Personality Traits and Psychology",
+    "summary_ja": "一般集団における統合失調症様体験・行動（PLEBs）の傾向を示す「解体（Disintegration）」特性が、日常の状況認知にどのように関連しているかを調べた。その結果、この特性を持つ人はHEXACO特性とは独立して、日常のほとんどの状況をより強烈に、特に不快かつ刺激的な側面として認知しやすいことがわかった。ただし、本研究は自己報告式の経験サンプリング法や日記法を用いているため、因果関係の断定や他文化圏への一般化には限界がある。",
+    "why_ja": "この知見は、メンタルヘルス不調の傾向がある人がなぜ日常の刺激を過剰に受け止めやすいのかを理解し、心理支援やコミュニケーションの改善に役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-11-04"
+  },
+  {
+    "id": "W7225084649",
+    "doi": "https://doi.org/10.1037/pspa0000503",
+    "title_en": "Communicating emotion through drawings across cultures.",
+    "title_ja": "文化的背景が感情を伝える絵画表現に与える影響",
+    "authors": [
+      "Xia Fang",
+      "Disa Anna Sauter",
+      "Hweemin Tan",
+      "Shiqi Wang",
+      "Ruotong Wang",
+      "Shanmukh Kamble",
+      "Kerry Kawakami"
+    ],
+    "venue": "Journal of Personality and Social Psychology",
+    "published": "2026-11-02",
+    "topic": "Cultural Differences and Values",
+    "summary_ja": "感情を伝える絵画表現が文化によってどのように形作られ、他者に認識されるのかをカナダと中国の参加者を対象に調べた。同じ文化背景を持つ者同士のほうが感情の認識精度が高いことがわかったが、歴史的に多様な社会の絵画が普遍的に認識されやすいという傾向は確認されなかった。本研究はカナダと中国の学生等を対象とした実験に基づいており、すべての文化圏や多様な年齢層にそのまま一般化できるとは限らない。",
+    "why_ja": "この知見は、グローバルなチームや異なる文化圏の間でデザインやイラストを使って感情や意図を正確に伝える際、文化による受け取り方の違いを考慮する重要性を示唆している。",
+    "guest_slug": null,
+    "reviewed_at": "2026-11-04"
+  },
+  {
+    "id": "W7225098998",
+    "doi": "https://doi.org/10.1037/bul0000540",
+    "title_en": "Self-esteem and social relationships: A meta-analytic review of longitudinal studies with continuous time modeling.",
+    "title_ja": "自尊心と人間関係の相互影響：メタ分析が示す時間的ダイナミクス",
+    "authors": [
+      "Ulrich Orth",
+      "Max Lustenberger",
+      "Jasmin Alessandra Aebi"
+    ],
+    "venue": "Psychological Bulletin",
+    "published": "2026-11-02",
+    "topic": "Personality Traits and Psychology",
+    "summary_ja": "自尊心と人間関係の質の間にどのような双方向の影響があるかを、縦断的データのメタ分析により調べた。その結果、自尊心と人間関係の質は互いに正の影響を与え合い、その効果は約3ヶ月後にピークを迎えることがわかった。ただし、効果は1年ほどでほぼ消失し、人間関係の種類や測定方法によって影響の大きさに違いがある点に注意が必要である。",
+    "why_ja": "この知見は、良好な人間関係を築くことと自分を尊重する気持ちを高めることが、数ヶ月単位の循環的なアプローチとして日常生活やメンタルケアに応用できることを示している。",
+    "guest_slug": null,
+    "reviewed_at": "2026-11-04"
+  },
+  {
     "id": "W7222778172",
     "doi": "https://doi.org/10.1073/pnas.2534136123",
     "title_en": "A causal account of the neural origins of mental fatigue",
