@@ -4569,5 +4569,28 @@
     "confidence": "high",
     "drafted_at": "2026-11-04",
     "published_at": "2026-11-04"
+  },
+  {
+    "id": "W7225241335",
+    "doi": "https://doi.org/10.1016/j.cognition.2026.106771",
+    "title_en": "When looking away means looking inward: contextual interpretation of gaze aversions determines their attentional value",
+    "authors": [
+      "Amit Zehngut",
+      "Shlomit Yuval‐Greenberg"
+    ],
+    "venue": "Cognition",
+    "published": "2026-11-04",
+    "topic": "Face Recognition and Perception",
+    "oa_status": "hybrid",
+    "abstract_en": "Eye movements are typically understood as supporting outward orienting, directing attention toward locations of interest in the external environment. However, not all eye movements reflect outward orienting. Gaze aversions, the common tendency to look away during effortful cognitive processing, serve as social signals of inward-oriented attention and ongoing processing. Because observers continuously monitor others' eye movements and use gaze-related cues to guide their own behavior, distinguishing between outward-oriented gaze-shifts and inward-oriented gaze aversions is a basic challenge in human interaction. Here, we examine the hypothesis that this distinction depends on the context in which gaze shifts appear. While participants reorient their attention following an outward-oriented gaze shift, they withhold doing so when the context suggests that the gaze shift reflects inward-oriented processing. To test this hypothesis, we relied on the Gaze Cueing Effect (GCE), an attentional orienting to observed gaze shifts that is known to be modulated by top-down context and interpretation. In two pre-registered experiments (total N = 90), participants performed a gaze-cueing letter-discrimination task while viewing identical gaze shifts within different contexts. One group was led to interpret the gaze shifts as occurring during effortful thinking, whereas the other group received no thinking-related context. Across both experiments, attentional orienting was significantly reduced when gaze shifts were perceived as reflecting internal cognitive processing rather than attention shifts. These findings demonstrate that gaze aversions function as communicative signals that dynamically regulate interpersonal attention, and that gaze following depends fundamentally on the inferred social meaning of the observed eye movement.",
+    "title_ja": "視線をそらす行動が持つ社会的意味と注意への影響",
+    "summary_ja": "思考中の視線逃避が周囲の他者の注意誘導に与える影響を検証した。文脈によって視線移動の内省的な処理が推測される場合、他者の視線への自動的な注意追従が抑制されることがわかった。ただし、本研究は限られた実験参加者を対象とした実験室ベースの結果であり、実際の多様な社会的場面への一般化には慎重を要する。",
+    "why_ja": "この知見は、会話中に相手が目をそらした際、それを無視または理解すべきかを判断し円滑なコミュニケーションを図る場面で役立ちます。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-11-05",
+    "confidence": "high",
+    "drafted_at": "2026-11-05",
+    "published_at": "2026-11-05"
   }
 ]
