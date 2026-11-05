@@ -1,5 +1,22 @@
 [
   {
+    "id": "W7225241335",
+    "doi": "https://doi.org/10.1016/j.cognition.2026.106771",
+    "title_en": "When looking away means looking inward: contextual interpretation of gaze aversions determines their attentional value",
+    "title_ja": "視線をそらす行動が持つ社会的意味と注意への影響",
+    "authors": [
+      "Amit Zehngut",
+      "Shlomit Yuval‐Greenberg"
+    ],
+    "venue": "Cognition",
+    "published": "2026-11-04",
+    "topic": "Face Recognition and Perception",
+    "summary_ja": "思考中の視線逃避が周囲の他者の注意誘導に与える影響を検証した。文脈によって視線移動の内省的な処理が推測される場合、他者の視線への自動的な注意追従が抑制されることがわかった。ただし、本研究は限られた実験参加者を対象とした実験室ベースの結果であり、実際の多様な社会的場面への一般化には慎重を要する。",
+    "why_ja": "この知見は、会話中に相手が目をそらした際、それを無視または理解すべきかを判断し円滑なコミュニケーションを図る場面で役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-11-05"
+  },
+  {
     "id": "W7160096002",
     "doi": "https://doi.org/10.1073/pnas.2613283123",
     "title_en": "Dissociation of gravity and limb dynamics in motor control",
