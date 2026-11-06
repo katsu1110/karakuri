@@ -1,5 +1,81 @@
 [
   {
+    "id": "W7114984568",
+    "doi": "https://doi.org/10.1073/pnas.2624145123",
+    "title_en": "In-group neural alignment serves as a biomarker of social identity",
+    "title_ja": "脳の同期パターンから社会的アイデンティティや所属集団を特定できる",
+    "authors": [
+      "Yohay Zvi",
+      "Nitai Kerem",
+      "Eldad Aviv",
+      "Yaara Yeshurun"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-11-05",
+    "topic": "Action Observation and Synchronization",
+    "summary_ja": "宗教グループと非宗教グループの被験者を対象に、動画視聴中の脳活動の同期が社会的特徴を反映するかどうかを調べました。その結果、行動上の違いが見られない場合でも、宗教グループでは脳の同期が著しく高く、脳活動から所属集団を高精度で予測できることがわかりました。ただし、本研究は特定の宗教および非宗教の小規模なサンプルに基づくものであり、結果が他の文化的・社会的集団にどこまで当てはまるかは限定的です。",
+    "why_ja": "この知見は、人々が無意識のうちに共有している価値観や帰属意識を脳科学的アプローチから客観的に理解し、集団間のダイナミクスを分析する際に役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-11-06"
+  },
+  {
+    "id": "W7225292438",
+    "doi": "https://doi.org/10.1037/pspi0000537",
+    "title_en": "Individual, interpersonal, and socioeconomic predictors of divorce: A 12-year prospective study.",
+    "title_ja": "新婚夫婦の離婚リスク：個人の脆弱性とコミュニケーションの影響",
+    "authors": [
+      "Molly Grace Smith",
+      "Jared M. Block",
+      "Thomas N. Bradbury",
+      "Benjamin R. Karney"
+    ],
+    "venue": "Journal of Personality and Social Psychology",
+    "published": "2026-11-05",
+    "topic": "Attachment and Relationship Dynamics",
+    "summary_ja": "新婚カップル368組を対象に、個人の特性、夫婦のコミュニケーション、社会経済的要因が12年以内の離婚を予測するかどうかを調べた。分析の結果、すべての要因が独立して離婚リスクを予測したものの、すべての予測因子を同時に含めると、妻個人の脆弱性のみが離婚を予測することが示された。ただし、本研究のサンプルは異性の新婚夫婦に限られており、結果の一般化には限界がある。",
+    "why_ja": "この知見は、カップルのカウンセリングや関係改善プログラムにおいて、コミュニケーションの改善だけでなく個人の抱える脆弱性へのアプローチが離婚予防に役立つことを示唆している。",
+    "guest_slug": null,
+    "reviewed_at": "2026-11-06"
+  },
+  {
+    "id": "W7225347649",
+    "doi": "https://doi.org/10.1177/17456916261489588",
+    "title_en": "Why Do We Value the Feeling of Meaning in Life? Critiquing Evolutionary Accounts",
+    "title_ja": "人生の意味の感覚は進化の適応によるものか？既存説への批判的検討",
+    "authors": [
+      "Christina Lombardi",
+      "Jonathan Redshaw",
+      "Brendan P. Zietsch"
+    ],
+    "venue": "Perspectives on Psychological Science",
+    "published": "2026-11-05",
+    "topic": "Psychological Well-being and Life Satisfaction",
+    "summary_ja": "人生の意味を感じることが特定の適応行動を促すという進化心理学の従来説を検証した。その結果、それらの説は説明が不十分であり、他の心理的メカニズムの副産物として説明できる可能性が示された。ただし、本研究は理論的考察であり、実際の人間行動に関する実証データや普遍性については今後の検証が必要である。",
+    "why_ja": "人生の意義や目的を過剰に求めてしまう現代人の心理的傾向や、モチベーションの源泉を客観的に見直す際に役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-11-06"
+  },
+  {
+    "id": "W7225231481",
+    "doi": "https://doi.org/10.1016/j.cognition.2026.106755",
+    "title_en": "From linguistic anchors to acoustic skeletons: the dual-pathway model of voice identity representation",
+    "title_ja": "声の個人識別における言語的経路と音響的経路の二重経路モデル",
+    "authors": [
+      "Lan Fang",
+      "Yan Zhang",
+      "Yunxiao Ma",
+      "John Wayne Schwieter",
+      "Ruiming Wang"
+    ],
+    "venue": "Cognition",
+    "published": "2026-11-04",
+    "topic": "Phonetics and Phonology Research",
+    "summary_ja": "話し言葉と歌声の間で声の個人を識別する際、聴覚システムがどのように情報を処理しているかを調べた。言語的手がかりは初期の識別を迅速にする一方で、歌声による学習はクロスモーダルな転移や時間経過に対してより頑健であることがわかった。本研究は実験室環境における行動実験に基づいており、実際の多様なコミュニケーション環境への一般化には限界がある。",
+    "why_ja": "この知見は、音声AIの音声合成や、外国語学習における声の聞き分けトレーニングを設計する際に役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-11-06"
+  },
+  {
     "id": "W7225241335",
     "doi": "https://doi.org/10.1016/j.cognition.2026.106771",
     "title_en": "When looking away means looking inward: contextual interpretation of gaze aversions determines their attentional value",
