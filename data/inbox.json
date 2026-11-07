@@ -4692,5 +4692,76 @@
     "confidence": "high",
     "drafted_at": "2026-11-06",
     "published_at": "2026-11-06"
+  },
+  {
+    "id": "W7113650880",
+    "doi": "https://doi.org/10.1016/j.cognition.2026.106770",
+    "title_en": "Visual and interoceptive factors shape affective and aesthetic evaluations of body postures",
+    "authors": [
+      "Andrea Orlandi",
+      "Emily S. Cross"
+    ],
+    "venue": "Cognition",
+    "published": "2026-11-06",
+    "topic": "Aesthetic Perception and Analysis",
+    "oa_status": "hybrid",
+    "abstract_en": "The influence of internal body rhythms, such as heartbeats, on affective and cognitive processes remains an area of research, informing how bodily states shape perception of the world. Studies of facial expression evaluation show that emotional (negative vs. neutral) faces are detected more easily and perceived as more intense when presented during systole rather than diastole, two phases of the cardiac cycle. Whether similar cardiac phase effects extend to affective and aesthetic evaluations of human bodies remains unclear. In this preregistered study, participants without dance training rated upright and inverted body postures from motion capture recordings of contemporary dancers for emotional intensity and likability. Each image was presented during either the participant's ventricular systole or diastole. We assessed interoceptive accuracy (via the Heartbeat Counting Task; HBCT) and collected emotional valence and bodily arousal ratings for each stimulus. Contrary to predictions, emotional intensity and likability did not increase during systole. Instead, we found that cardiac-related effects were conditional. Emotional intensity was positively associated with bodily arousal, except for inverted postures during systole. How this relationship depended on orientation was modulated by HBCT performance. Likability was positively associated with valence, with this relationship becoming stronger as HBCT performance increased. These findings suggest cardiac-related factors may contribute to affective and aesthetic evaluations of dance-like body postures, as a function of body orientation, stimulus affective characteristics, and individual differences in heartbeat perception. They indicate that ongoing physiological states may shape how others are evaluated beyond facial information, extending to both affective and aesthetic domains.",
+    "title_ja": "心拍サイクルと身体の姿勢評価の関係を解明",
+    "summary_ja": "心臓の拍動フェーズが身体姿勢の感情・審美評価に影響を与えるかを調べた。予想に反して収縮期による一律の評価上昇は見られず、効果は姿勢の向きや身体内受容感覚の正確性によって条件付けられることが分かった。本研究は特定のダンス経験のない参加者を対象としており、知見の一般化には限界がある。",
+    "why_ja": "この知見は、私たちの感情や好みが自身の身体的状態や個人差にどのように影響されるかを理解するのに役立つ。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-11-07",
+    "confidence": "high",
+    "drafted_at": "2026-11-07",
+    "published_at": "2026-11-07"
+  },
+  {
+    "id": "W7126078421",
+    "doi": "https://doi.org/10.1073/pnas.2605876123",
+    "title_en": "Intuitive knowledge of object acoustics enables perceptual separation of physical variables from impact sounds",
+    "authors": [
+      "Vinayak Agarwal",
+      "James A. Traer",
+      "Jeremy Schwartz",
+      "Josh H. McDermott"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-11-06",
+    "topic": "Neuroscience and Music Perception",
+    "oa_status": "hybrid",
+    "abstract_en": "Upon hearing objects collide, humans can estimate physical attributes such as material and mass. Although the physics of sound generation is well established, the inverse problem that listeners solve - of inferring physical parameters from sound - remains poorly understood. Classical accounts posit the use of acoustic cues that correlate with physical variables, but do not explain how humans might distinguish multiple concurrent physical causes. To study this problem, we built a probabilistic generative model of impact sounds, combining theoretical acoustics with statistics of object resonances measured from hundreds of everyday objects, and used it to synthesize and manipulate experimental stimuli. Humans accurately judged object properties from collision sounds. However, when both of the colliding objects varied, performance was impaired if the distribution of object resonances deviated from those measured in real-world objects. The results suggest that listeners use internal physical models to separate the acoustic contributions of objects in the world.",
+    "title_ja": "打撃音から物体の材質や質量を聴覚で推測する仕組みの解明",
+    "summary_ja": "人間が物体の衝突音から材質や質量などの物理的特徴をどのように推測しているのかを確率的生成モデルを用いて調査した。その結果、人間は音の響きの統計的特徴を利用して正確に物体特性を判断しているが、現実世界の物理法則から外れると判断力が低下することがわかった。本研究はシミュレーションを用いた実験室内の知見であり、多様な実環境音における一般化可能性についてはさらなる検証が必要である。",
+    "why_ja": "この知見は、VR空間やゲームにおけるリアルな音響デザインの設計や、視覚障害者のための高度な聴覚インターフェースの開発に役立ちます。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-11-07",
+    "confidence": "high",
+    "drafted_at": "2026-11-07",
+    "published_at": "2026-11-07"
+  },
+  {
+    "id": "W7224036001",
+    "doi": "https://doi.org/10.1016/j.cognition.2026.106753",
+    "title_en": "The folk concept of moral agency",
+    "authors": [
+      "Joanna Demaree‐Cotton",
+      "Jen Semler"
+    ],
+    "venue": "Cognition",
+    "published": "2026-11-06",
+    "topic": "Psychology of Moral and Emotional Judgment",
+    "oa_status": "hybrid",
+    "abstract_en": "Whether a particular entity is a ‘moral agent’ determines the sense in which its behaviour is morally evaluable. Theories of moral agency aim to capture and explain commonsense distinctions between the possession or absence of moral agency across different kinds of being. But little is known about the ordinary concept of moral agency, its application across different entities, and its relation to the more specific notion of moral responsibility. In this paper, we investigate the folk concept of moral agency through philosophical analysis and two empirical studies. We draw conceptual distinctions between three components of moral agency: intentional action (acting rather than behaving), moral action (acting morally rightly or wrongly), and responsible action (being blameworthy for one's actions). We then investigate whether people differentiate between the three components of moral agency, and the extent to which their judgments depend on the perceived psychological and behavioural capacities of the entity in question. We find that people attribute varying degrees of moral agency to different entities while differentiating between the proposed components. These moral agency attributions are partly, but not fully, explained by people's attributions of underlying capacities. While intentional action ascriptions were linked to the attribution of mental states like desires, beliefs, and sensations, moral action and moral responsibility were linked to ascriptions of capacities for a ‘deep self’. Philosophical theories of moral agency should account for these patterns in folk attributions.",
+    "title_ja": "人々はどのように道徳的行為者を認識しているのか",
+    "summary_ja": "人々の持つ道徳的行為者に関する日常的な概念や、多様な存在への適用の仕方、および道徳的責任との関係性を調査した。その結果、人々は意図的行為、道徳的行為、責任ある行為という3つの要素を区別し、対象の心理的・行動的容量に基づいて道徳的 एजेंसीを atribu していることがわかった。しかし、本研究は哲学的な分析と特定の実験に基づくものであり、文化的背景やサンプルが多様な集団全体にどこまで一般化できるかには限界がある。",
+    "why_ja": "この知見は、AIやロボット、あるいは他者に対する法的・倫理的な責任のあり方を議論する際に役立つ。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-11-07",
+    "confidence": "high",
+    "drafted_at": "2026-11-07",
+    "published_at": "2026-11-07"
   }
 ]
