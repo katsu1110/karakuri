@@ -1,5 +1,58 @@
 [
   {
+    "id": "W7113650880",
+    "doi": "https://doi.org/10.1016/j.cognition.2026.106770",
+    "title_en": "Visual and interoceptive factors shape affective and aesthetic evaluations of body postures",
+    "title_ja": "心拍サイクルと身体の姿勢評価の関係を解明",
+    "authors": [
+      "Andrea Orlandi",
+      "Emily S. Cross"
+    ],
+    "venue": "Cognition",
+    "published": "2026-11-06",
+    "topic": "Aesthetic Perception and Analysis",
+    "summary_ja": "心臓の拍動フェーズが身体姿勢の感情・審美評価に影響を与えるかを調べた。予想に反して収縮期による一律の評価上昇は見られず、効果は姿勢の向きや身体内受容感覚の正確性によって条件付けられることが分かった。本研究は特定のダンス経験のない参加者を対象としており、知見の一般化には限界がある。",
+    "why_ja": "この知見は、私たちの感情や好みが自身の身体的状態や個人差にどのように影響されるかを理解するのに役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-11-07"
+  },
+  {
+    "id": "W7126078421",
+    "doi": "https://doi.org/10.1073/pnas.2605876123",
+    "title_en": "Intuitive knowledge of object acoustics enables perceptual separation of physical variables from impact sounds",
+    "title_ja": "打撃音から物体の材質や質量を聴覚で推測する仕組みの解明",
+    "authors": [
+      "Vinayak Agarwal",
+      "James A. Traer",
+      "Jeremy Schwartz",
+      "Josh H. McDermott"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-11-06",
+    "topic": "Neuroscience and Music Perception",
+    "summary_ja": "人間が物体の衝突音から材質や質量などの物理的特徴をどのように推測しているのかを確率的生成モデルを用いて調査した。その結果、人間は音の響きの統計的特徴を利用して正確に物体特性を判断しているが、現実世界の物理法則から外れると判断力が低下することがわかった。本研究はシミュレーションを用いた実験室内の知見であり、多様な実環境音における一般化可能性についてはさらなる検証が必要である。",
+    "why_ja": "この知見は、VR空間やゲームにおけるリアルな音響デザインの設計や、視覚障害者のための高度な聴覚インターフェースの開発に役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-11-07"
+  },
+  {
+    "id": "W7224036001",
+    "doi": "https://doi.org/10.1016/j.cognition.2026.106753",
+    "title_en": "The folk concept of moral agency",
+    "title_ja": "人々はどのように道徳的行為者を認識しているのか",
+    "authors": [
+      "Joanna Demaree‐Cotton",
+      "Jen Semler"
+    ],
+    "venue": "Cognition",
+    "published": "2026-11-06",
+    "topic": "Psychology of Moral and Emotional Judgment",
+    "summary_ja": "人々の持つ道徳的行為者に関する日常的な概念や、多様な存在への適用の仕方、および道徳的責任との関係性を調査した。その結果、人々は意図的行為、道徳的行為、責任ある行為という3つの要素を区別し、対象の心理的・行動的容量に基づいて道徳的 एजेंसीを atribu していることがわかった。しかし、本研究は哲学的な分析と特定の実験に基づくものであり、文化的背景やサンプルが多様な集団全体にどこまで一般化できるかには限界がある。",
+    "why_ja": "この知見は、AIやロボット、あるいは他者に対する法的・倫理的な責任のあり方を議論する際に役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-11-07"
+  },
+  {
     "id": "W7114984568",
     "doi": "https://doi.org/10.1073/pnas.2624145123",
     "title_en": "In-group neural alignment serves as a biomarker of social identity",
