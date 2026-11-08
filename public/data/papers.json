@@ -1,5 +1,39 @@
 [
   {
+    "id": "W7153075024",
+    "doi": "https://doi.org/10.1016/j.cognition.2026.106773",
+    "title_en": "The spatial specificity and recovery from visual adaptation in causality perception",
+    "title_ja": "因果関係の視覚的知覚における適応現象の空間的特性と回復過程",
+    "authors": [
+      "Laura Van Zantwijk",
+      "Martin Rolfs",
+      "Sven Ohl"
+    ],
+    "venue": "Cognition",
+    "published": "2026-11-07",
+    "topic": "Visual perception and processing mechanisms",
+    "summary_ja": "物体が別の物体を押して動かす因果関係の知覚が視覚的適応によってどのように変化するかを、実験を通じて調べた。その結果、適応効果は非常に狭い空間的範囲に限定され、適応後には時間経過とともに知覚が徐々に回復することがわかった。ただし、本研究は限られた実験条件や特定の視覚刺激に基づくものであり、日常生活の多様な文脈における一般化には限界がある。",
+    "why_ja": "この知見は、人間の脳が視覚的な因果関係をどのような空間的・時間的メカニズムで処理しているかを理解し、錯覚やデザインの評価に応用する際に役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-11-08"
+  },
+  {
+    "id": "W7225464968",
+    "doi": "https://doi.org/10.1016/j.cognition.2026.106782",
+    "title_en": "Probing spatiotemporal context reveals differences between true and false memories",
+    "title_ja": "本当の記憶と偽りの記憶は、時間や場所の文脈記憶で区別できる",
+    "authors": [
+      "Brynn E. Sherman"
+    ],
+    "venue": "Cognition",
+    "published": "2026-11-07",
+    "topic": "Memory Processes and Influences",
+    "summary_ja": "偽りの記憶がどのようなメカニズムで生じるのかを解明するため、いつどこで起きたかという時間・空間の文脈記憶に違いがあるかを調べた。その結果、文脈記憶の確信度や一貫性を分析することで、本当の記憶と偽りの記憶の間にある微妙な違いを確率的に見分けられることがわかった。ただし、この違いは状況によって変化し、偽りの記憶であっても本物のような文脈記憶を伴う場合がある点には注意が必要である。",
+    "why_ja": "この知見は、目撃証言の信頼性を評価する際や、不正確な記憶に基づく誤った判断を防ぐための手がかりとして役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-11-08"
+  },
+  {
     "id": "W7113650880",
     "doi": "https://doi.org/10.1016/j.cognition.2026.106770",
     "title_en": "Visual and interoceptive factors shape affective and aesthetic evaluations of body postures",
