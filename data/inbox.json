@@ -4763,5 +4763,51 @@
     "confidence": "high",
     "drafted_at": "2026-11-07",
     "published_at": "2026-11-07"
+  },
+  {
+    "id": "W7153075024",
+    "doi": "https://doi.org/10.1016/j.cognition.2026.106773",
+    "title_en": "The spatial specificity and recovery from visual adaptation in causality perception",
+    "authors": [
+      "Laura Van Zantwijk",
+      "Martin Rolfs",
+      "Sven Ohl"
+    ],
+    "venue": "Cognition",
+    "published": "2026-11-07",
+    "topic": "Visual perception and processing mechanisms",
+    "oa_status": "hybrid",
+    "abstract_en": "Abstract When one object approaches another object which, upon touching, moves in the same direction, humans report a vivid impression of one launching the other. Visual adaptation can alter this perception of causality: observers less often report seeing a launch after viewing a stream of launch events. In three experiments, we further characterised how visual adaptation influences the perception of causality by determining the spatial specificity of adaptation and timecourse of recovery from adaptation. In Experiment 1, observers saw ambiguous test events (i.e., the overlap between the two objects varied over trials) at three different horizontal eccentricities. Adaptation was strongest when adaptor and test event were presented at the same eccentricity, and absent when the two were separated by just three degrees of visual angle. Moreover, the perception of causality gradually recovered from adaptation, but remained incomplete. In Experiment 2, both long and short adaptation sequences were highly effective in driving adaptation, and showed no difference in the recovery timecourse, which was complete following more experimental blocks. In Experiment 3, a break without any task-relevant visual input also led to a recovery over the same timespan, but this time, the recovery was instantaneous and incomplete. Altogether, our results provide evidence for highly spatially specific computations, instananeously responding to the onset of adaptation and then gradually recovering from the adaptation over a short time window.",
+    "title_ja": "因果関係の視覚的知覚における適応現象の空間的特性と回復過程",
+    "summary_ja": "物体が別の物体を押して動かす因果関係の知覚が視覚的適応によってどのように変化するかを、実験を通じて調べた。その結果、適応効果は非常に狭い空間的範囲に限定され、適応後には時間経過とともに知覚が徐々に回復することがわかった。ただし、本研究は限られた実験条件や特定の視覚刺激に基づくものであり、日常生活の多様な文脈における一般化には限界がある。",
+    "why_ja": "この知見は、人間の脳が視覚的な因果関係をどのような空間的・時間的メカニズムで処理しているかを理解し、錯覚やデザインの評価に応用する際に役立つ。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-11-08",
+    "confidence": "high",
+    "drafted_at": "2026-11-08",
+    "published_at": "2026-11-08"
+  },
+  {
+    "id": "W7225464968",
+    "doi": "https://doi.org/10.1016/j.cognition.2026.106782",
+    "title_en": "Probing spatiotemporal context reveals differences between true and false memories",
+    "authors": [
+      "Brynn E. Sherman"
+    ],
+    "venue": "Cognition",
+    "published": "2026-11-07",
+    "topic": "Memory Processes and Influences",
+    "oa_status": "hybrid",
+    "abstract_en": "Our memories do not faithfully represent the past, but rather are reconstructive, rendering them susceptible to the intrusion of false memories. However, the nature of the false memories is debated: Do false memories reflect the retrieval of a genuine, erroneous memory trace, or are they the product of semantic associations? This question reflects the fact that although some findings suggest that false memories can be phenomenologically compelling and rich in details, others suggest that there are subtle cues that distinguish true and false memories. Here, we take a novel approach to this question by assessing memory for the spatiotemporal context of false memories — the when and where of those memories. We demonstrate that context memory can provide a probabilistic cue to whether a memory is true or false in the Deese-Roediger-McDermott paradigm. Across participants, the reliability of reported context memory (i.e., the consistency with which people report remembering when or where a false memory occurred) revealed differences between true and false memories. Additionally, confidence in memory for context (both within and across participants) differed between true and false memories — even when controlling for confidence in having encountered the false memory. However, these effects were malleable: Under certain circumstances, false memories appeared to have genuine context traces. Together, these data provide new insights into the circumstances under which true and false memories differ in subtle but meaningful ways, speaking to theories of how false memories may arise from the reconstructive nature of memory.",
+    "title_ja": "本当の記憶と偽りの記憶は、時間や場所の文脈記憶で区別できる",
+    "summary_ja": "偽りの記憶がどのようなメカニズムで生じるのかを解明するため、いつどこで起きたかという時間・空間の文脈記憶に違いがあるかを調べた。その結果、文脈記憶の確信度や一貫性を分析することで、本当の記憶と偽りの記憶の間にある微妙な違いを確率的に見分けられることがわかった。ただし、この違いは状況によって変化し、偽りの記憶であっても本物のような文脈記憶を伴う場合がある点には注意が必要である。",
+    "why_ja": "この知見は、目撃証言の信頼性を評価する際や、不正確な記憶に基づく誤った判断を防ぐための手がかりとして役立つ。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-11-08",
+    "confidence": "high",
+    "drafted_at": "2026-11-08",
+    "published_at": "2026-11-08"
   }
 ]
