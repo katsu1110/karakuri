@@ -1,5 +1,24 @@
 [
   {
+    "id": "W4407884439",
+    "doi": "https://doi.org/10.1038/s41562-026-02622-1",
+    "title_en": "Long-term development of a motor memory",
+    "title_ja": "数週間の訓練による運動記憶の長期的な発達プロセスの解明",
+    "authors": [
+      "David W. Franklin",
+      "Pascal Nietschmann",
+      "Thalia Papadopoulou",
+      "Sae Franklin"
+    ],
+    "venue": "Nature Human Behaviour",
+    "published": "2026-11-09",
+    "topic": "Motor Control and Adaptation",
+    "summary_ja": "本研究は数千回におよぶ複数週の訓練を用いて、運動記憶の長期的な発達や適応メカニズムを調べた。長期間の訓練により、新規の環境への完全な適応や保持の向上、自発的回復、および一般化の狭小化が確認された。ただし、本研究のサンプル特性や特定の運動課題以外の領域への普遍性については慎重な解釈が求められる。",
+    "why_ja": "この知見は、スポーツのスキル習得やリハビリテーションにおいて、効果的な長期トレーニングプログラムを設計する際に役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-11-10"
+  },
+  {
     "id": "W7153075024",
     "doi": "https://doi.org/10.1016/j.cognition.2026.106773",
     "title_en": "The spatial specificity and recovery from visual adaptation in causality perception",
