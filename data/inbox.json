@@ -4809,5 +4809,30 @@
     "confidence": "high",
     "drafted_at": "2026-11-08",
     "published_at": "2026-11-08"
+  },
+  {
+    "id": "W4407884439",
+    "doi": "https://doi.org/10.1038/s41562-026-02622-1",
+    "title_en": "Long-term development of a motor memory",
+    "authors": [
+      "David W. Franklin",
+      "Pascal Nietschmann",
+      "Thalia Papadopoulou",
+      "Sae Franklin"
+    ],
+    "venue": "Nature Human Behaviour",
+    "published": "2026-11-09",
+    "topic": "Motor Control and Adaptation",
+    "oa_status": "hybrid",
+    "abstract_en": "Abstract Human behavior is developed through continuous adaptation to our environment over a range of timescales. Extensive studies have investigated the mechanisms and computations underlying this process of sensorimotor adaptation using several hundred trials. However, most of our motor skills have had countless hours of practice. Here we study a simple motor adaptation task using thousands of training trials over multiple weeks to study the long-term development of a motor memory, and examine changes in adaptation, retention, inter-limb transfer, decay, spontaneous recovery and generalization. Unlike previous studies, participants showed complete compensation to the novel dynamics, along with long-term increases in retention and spontaneous recovery. Moreover, we find narrowing in the angular generalization, suggesting continual tuning of the motor memory to the task. This demonstrates the extensive changes occurring with longer training of motor tasks, highlighting their importance in studies of sensorimotor control, rehabilitation and training.",
+    "title_ja": "数週間の訓練による運動記憶の長期的な発達プロセスの解明",
+    "summary_ja": "本研究は数千回におよぶ複数週の訓練を用いて、運動記憶の長期的な発達や適応メカニズムを調べた。長期間の訓練により、新規の環境への完全な適応や保持の向上、自発的回復、および一般化の狭小化が確認された。ただし、本研究のサンプル特性や特定の運動課題以外の領域への普遍性については慎重な解釈が求められる。",
+    "why_ja": "この知見は、スポーツのスキル習得やリハビリテーションにおいて、効果的な長期トレーニングプログラムを設計する際に役立つ。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-11-10",
+    "confidence": "high",
+    "drafted_at": "2026-11-10",
+    "published_at": "2026-11-10"
   }
 ]
