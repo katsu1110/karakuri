@@ -1,5 +1,21 @@
 [
   {
+    "id": "W7225783030",
+    "doi": "https://doi.org/10.1073/pnas.2622467123",
+    "title_en": "Modest loss of sleep increases susceptibility to cybersecurity threats",
+    "title_ja": "わずかな睡眠不足がフィッシング詐欺の被害リスクを高める",
+    "authors": [
+      "Eitan Schechtman"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-11-11",
+    "topic": "Sleep and Work-Related Fatigue",
+    "summary_ja": "夏時間への移行に伴う軽度の睡眠不足が、シミュレーションされたフィッシング詐欺の標的になりやすさに与える影響を調査した。その結果、睡眠時間がわずかに減少することで、不審なリンクをクリックする確率が約13%上昇することがわかった。ただし、本研究は特定の大学職員というサンプルに基づいており、他の職業や日常的な環境全体にそのまま一般化できるかは慎重な検討が必要である。",
+    "why_ja": "この知見は、重要な判断やセキュリティ対策を行う際、睡眠不足が個人の脆弱性を高めるリスクへの注意喚起や組織のシフト管理に応用できます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-11-12"
+  },
+  {
     "id": "W4407884439",
     "doi": "https://doi.org/10.1038/s41562-026-02622-1",
     "title_en": "Long-term development of a motor memory",
