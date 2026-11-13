@@ -4856,5 +4856,54 @@
     "confidence": "high",
     "drafted_at": "2026-11-12",
     "published_at": "2026-11-12"
+  },
+  {
+    "id": "W7160697385",
+    "doi": "https://doi.org/10.1016/j.cognition.2026.106768",
+    "title_en": "Communication about color over the life span",
+    "authors": [
+      "Angela M. Brown",
+      "Delwin T. Lindsey"
+    ],
+    "venue": "Cognition",
+    "published": "2026-11-12",
+    "topic": "Categorization, perception, and language",
+    "oa_status": "hybrid",
+    "abstract_en": "Color communication is more than a naming game where the informant names each color: the color terms must also be understood by the listener. Here, we studied how participants’ productive and receptive vocabularies affect communication about color over the life span. Human participants, 3–72 years old, played a color communication game. As “senders”, participants named 15 or 30 color samples presented singly. Then, as “receiv­ers”, they selected, from the full palette of colors, the sample that corresponded to color term “messages,” which were either their own color terms (self-communication) or another participant’s color terms (interpersonal communication). The number of color terms in participants’ vocabularies, their fraction correct performance for self-communication, and their fraction correct for interpersonal communication, all matured continuously until at least age 21, and were highly correlated with each other. Analysis by simulation showed that performance for self-communication was determined by the number of color terms the participant provided in the color-naming phase of the experiment (color term produc­tion), with some forgetting of how they had previously named the samples. By contrast, simulation predicted no association between participant age and performance on the interpersonal communication task. Contrary to prediction, interpersonal communication improved throughout the age range. Further simulations showed that performance for inter­personal communication was independently controlled by life-long improvement in participants’ ability to understand terms provided by others (color term comprehension). Therefore, color term production and color term comprehension are distinct abilities which mature independently across the life span.",
+    "title_ja": "色彩コミュニケーション能力は21歳まで発達し続ける",
+    "summary_ja": "3歳から72歳までの参加者を対象に、色の命名と理解を通じた色彩コミュニケーション能力の年齢変化を調べた。その結果、色の語彙数や自己・他者とのコミュニケーション能力は21歳頃まで連続的に発達することがわかった。ただし、実験は特定のゲーム形式で行われており、結果が日常のあらゆる色彩判断にそのまま当てはまるとは限らない。",
+    "why_ja": "この知見は、デザインや教育現場において年齢に応じた色彩表現やコミュニケーション手法を最適化する際に役立つ。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-11-13",
+    "confidence": "high",
+    "drafted_at": "2026-11-13",
+    "published_at": "2026-11-13"
+  },
+  {
+    "id": "W7204645473",
+    "doi": "https://doi.org/10.1037/pspp0000620",
+    "title_en": "Navigating divorce and partner bereavement: Personality and trajectories of change in life satisfaction and mental health.",
+    "authors": [
+      "Thao Kieu",
+      "Liselotte den Boer",
+      "Wiebke Bleidorn",
+      "Yu Xie",
+      "Jaap J. A. Denissen"
+    ],
+    "venue": "Journal of Personality and Social Psychology",
+    "published": "2026-11-12",
+    "topic": "Grief, Bereavement, and Mental Health",
+    "oa_status": "hybrid",
+    "abstract_en": "Dissolutions of romantic relationships can elicit diverse reactions across various aspects of well-being, but they also offer an opportunity to examine which factors promote resilience and identify individuals at risk. In this preregistered multi-sample longitudinal study, we examined the heterogeneity in life satisfaction and mental health changes around and during divorce or partner bereavement, and whether personality (i.e., traits and resilient versus nonresilient personality profiles) may explain individual differences in change trajectories. Data from 1,306 divorcees and 1,150 bereaved partners were drawn from nationally representative panel studies in the Netherlands (N = 12,551), Germany (N = 10,830), and China (N = 28,628), and analyzed using growth mixture modeling. Four life satisfaction trajectories and three mental health trajectories were identified for each event. Recovery and resilience emerged as the most common trajectories across events, outcomes, and samples. Among personality factors, neuroticism was the most consistent predictor of a lower likelihood of belonging to a resilience trajectory. This study advanced the generalizability of findings across diverse loss-based events, populations, and aspects of well-being. The findings further underscore the influence of neuroticism in shaping, and potentially complicating, psychological adjustment surrounding divorce and partner bereavement.",
+    "title_ja": "離婚や死別後のメンタル回復：パーソナリティがもたらす影響",
+    "summary_ja": "本研究では、離婚や配偶者の死別を経験した際の人生の満足度やメンタルヘルスの変化の多様性と、パーソナリティが個人差に与える影響を縦断データを用いて調査した。その結果、回復とレジリエンスが最も一般的な変化の軌跡であり、神経症傾向が高いほどレジリエンスを示す軌跡に属する確率が一貫して低いことがわかった。ただし、本研究は特定の国々のパネルデータに基づいているため、文化的背景やサンプル特性の違いが結果に影響する可能性に注意が必要である。",
+    "why_ja": "この知見は、人生の重大な喪失体験を乗り越える際に、個人のパーソナリティ特性（特に神経症傾向）を考慮したきめ細やかな心理的支援の必要性を考える場面で役立ちます。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-11-13",
+    "confidence": "high",
+    "drafted_at": "2026-11-13",
+    "published_at": "2026-11-13"
   }
 ]
