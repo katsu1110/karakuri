@@ -1,5 +1,42 @@
 [
   {
+    "id": "W7160697385",
+    "doi": "https://doi.org/10.1016/j.cognition.2026.106768",
+    "title_en": "Communication about color over the life span",
+    "title_ja": "色彩コミュニケーション能力は21歳まで発達し続ける",
+    "authors": [
+      "Angela M. Brown",
+      "Delwin T. Lindsey"
+    ],
+    "venue": "Cognition",
+    "published": "2026-11-12",
+    "topic": "Categorization, perception, and language",
+    "summary_ja": "3歳から72歳までの参加者を対象に、色の命名と理解を通じた色彩コミュニケーション能力の年齢変化を調べた。その結果、色の語彙数や自己・他者とのコミュニケーション能力は21歳頃まで連続的に発達することがわかった。ただし、実験は特定のゲーム形式で行われており、結果が日常のあらゆる色彩判断にそのまま当てはまるとは限らない。",
+    "why_ja": "この知見は、デザインや教育現場において年齢に応じた色彩表現やコミュニケーション手法を最適化する際に役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-11-13"
+  },
+  {
+    "id": "W7204645473",
+    "doi": "https://doi.org/10.1037/pspp0000620",
+    "title_en": "Navigating divorce and partner bereavement: Personality and trajectories of change in life satisfaction and mental health.",
+    "title_ja": "離婚や死別後のメンタル回復：パーソナリティがもたらす影響",
+    "authors": [
+      "Thao Kieu",
+      "Liselotte den Boer",
+      "Wiebke Bleidorn",
+      "Yu Xie",
+      "Jaap J. A. Denissen"
+    ],
+    "venue": "Journal of Personality and Social Psychology",
+    "published": "2026-11-12",
+    "topic": "Grief, Bereavement, and Mental Health",
+    "summary_ja": "本研究では、離婚や配偶者の死別を経験した際の人生の満足度やメンタルヘルスの変化の多様性と、パーソナリティが個人差に与える影響を縦断データを用いて調査した。その結果、回復とレジリエンスが最も一般的な変化の軌跡であり、神経症傾向が高いほどレジリエンスを示す軌跡に属する確率が一貫して低いことがわかった。ただし、本研究は特定の国々のパネルデータに基づいているため、文化的背景やサンプル特性の違いが結果に影響する可能性に注意が必要である。",
+    "why_ja": "この知見は、人生の重大な喪失体験を乗り越える際に、個人のパーソナリティ特性（特に神経症傾向）を考慮したきめ細やかな心理的支援の必要性を考える場面で役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-11-13"
+  },
+  {
     "id": "W7225783030",
     "doi": "https://doi.org/10.1073/pnas.2622467123",
     "title_en": "Modest loss of sleep increases susceptibility to cybersecurity threats",
