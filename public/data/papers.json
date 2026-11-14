@@ -1,5 +1,61 @@
 [
   {
+    "id": "W7225982908",
+    "doi": "https://doi.org/10.1073/pnas.2611952123",
+    "title_en": "People know who to ask for favors despite underestimating compliance",
+    "title_ja": "頼み事をする相手を私たちは実によく見極められている",
+    "authors": [
+      "Casher D. Belinda",
+      "Brittany C. Solomon"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-11-13",
+    "topic": "Psychology of Social Influence",
+    "summary_ja": "他者からの協力を過小評価する傾向がある一方で、誰が協力してくれるのかを正確に見極められるかについて4つの研究で調査した。その結果、平均的な承諾率を低く見積もりがちな一方で、誰に頼めば引き受けてくれるかという個人間の違いは正確に識別できていることがわかった。ただし、調査は特定の文化圏やお願いの文脈に限定されている可能性があり、あらゆる社会的状況で同様の結果になるかは今後の検証が必要である。",
+    "why_ja": "この知見は、仕事やプライベートで誰に頼み事をすれば快く引き受けてもらえるかを見極め、人間関係の無駄なストレスを減らす際に役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-11-14"
+  },
+  {
+    "id": "W7203850933",
+    "doi": "https://doi.org/10.1037/pspp0000623",
+    "title_en": "Examining the gender-equality paradox in values using a new measure of value-based gender typicality.",
+    "title_ja": "男女平等度と価値観の関係性：ジェンダー平等パラドックスの再検証",
+    "authors": [
+      "Florencia Maria Sortheix",
+      "Ville–Juhani Ilmarinen",
+      "Rasmus Mannerström",
+      "Sointu Leikas"
+    ],
+    "venue": "Journal of Personality and Social Psychology",
+    "published": "2026-11-12",
+    "topic": "Cultural Differences and Values",
+    "summary_ja": "各国の男女平等度と人々の価値観におけるジェンダー差の関係性やその経時的変化を大規模調査から調べた。その結果、男女平等度が高い国ほど男女ともに男性的な価値観の典型性が低下する傾向が見られたが、全体として価値観におけるジェンダー平等のパラドックスは支持されなかった。本研究は特定の国や地域を対象としたデータに基づいているため、結果の解釈や一般化には地域差などの条件を考慮する必要がある。",
+    "why_ja": "この知見は、社会のジェンダー平等政策や文化が人々の意識や価値観に与える影響を理解し、今後の多様性推進の施策を考える際に役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-11-14"
+  },
+  {
+    "id": "W7225867489",
+    "doi": "https://doi.org/10.1037/pspp0000627",
+    "title_en": "The structure and history of English words that describe people.",
+    "title_ja": "英語の人格描写語の構造と歴史的変遷の解明",
+    "authors": [
+      "Yuanze Liu",
+      "Tessa Elizabeth Sadie Charlesworth",
+      "Alex Stefan Koch",
+      "Andrew Luttrell",
+      "Joshua Conrad Jackson"
+    ],
+    "venue": "Journal of Personality and Social Psychology",
+    "published": "2026-11-12",
+    "topic": "Categorization, perception, and language",
+    "summary_ja": "英語における2,847語の人格・属性描写語を対象に、大規模言語モデルと人間による評価を組み合わせてその意味構造と歴史的変化を調べた。その結果、これらの言葉は「適応」「有能さ」「親愛性」「伝統主義」の4つの要因に大別され、それぞれで意味のまとまりや歴史的使われ方が異なることがわかった。ただし、本研究の分析は英語圏のデータおよび言語表現に基づくものであり、他の言語や文化圏においても同様の構造が見られるかは今後の検証が必要である。",
+    "why_ja": "私たちが他者を評価する際に使う言葉の偏りや歴史的変化を理解することで、コミュニケーションの誤解を防ぎ、社会的認知のメカニズムを客観的に捉えるのに役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-11-14"
+  },
+  {
     "id": "W7160697385",
     "doi": "https://doi.org/10.1016/j.cognition.2026.106768",
     "title_en": "Communication about color over the life span",
