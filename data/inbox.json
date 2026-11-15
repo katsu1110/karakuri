@@ -4979,5 +4979,30 @@
     "confidence": "high",
     "drafted_at": "2026-11-14",
     "published_at": "2026-11-14"
+  },
+  {
+    "id": "W7226033862",
+    "doi": "https://doi.org/10.1016/j.cognition.2026.106779",
+    "title_en": "Testing a secondary motor integration account of confidence computation",
+    "authors": [
+      "Axel Garnier-Allain",
+      "Vincent de Gardelle",
+      "Thibault Gajdos Preuss",
+      "Mathieu Servant"
+    ],
+    "venue": "Cognition",
+    "published": "2026-11-13",
+    "topic": "Motor Control and Adaptation",
+    "oa_status": "hybrid",
+    "abstract_en": "A growing body of empirical evidence suggests that confidence judgments are modulated by action-related cues, yet the underlying mechanisms remain unclear. Recent decision-making models propose that the evidence accumulation variable is continuously transmitted to the motor system, allowing motor plans to evolve in parallel with decision formation. At the motor level, a secondary leaky integration process acts as a filter that regulates the speed-accuracy tradeoff: the stronger the filter, the slower and more accurate the responses. Here, we tested whether action-related effects on confidence are mediated by this secondary motor integration process. We manipulated sensory noise using a doubly stochastic random dot motion task and varied the motor-level filter via speed-accuracy instructions. We reasoned that the positive effect of sensory noise on confidence observed in previous studies should be attenuated by stronger filtering in the accuracy condition compared to the speed condition. However, we found strong empirical evidence against this qualitative prediction. Computational modeling further revealed that the predicted attenuation was extremely small and that confidence predictions based on secondary motor integration offered no advantage over those based on evidence accumulation. Together, these results show that confidence need not be computed from secondary motor integration to account for the observed pattern.",
+    "title_ja": "自信の判断に運動系プロセスの影響はあるか？",
+    "summary_ja": "意思決定における自信の判断が二次的な運動統合プロセスによって媒介されているかを検証した。その結果、予測されていたような運動フィルターによる自信への影響や効果は見られなかった。本研究は計算モデリングによる検証に基づいているが、実際の人間行動における多様な条件や限界についてはさらなる検討が必要である。",
+    "why_ja": "この知見は、人間の直感的な確信や自信がどのような認知メカニズムで作られているかを理解し、意思決定支援システムを設計する際に役立ちます。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-11-15",
+    "confidence": "high",
+    "drafted_at": "2026-11-15",
+    "published_at": "2026-11-15"
   }
 ]
