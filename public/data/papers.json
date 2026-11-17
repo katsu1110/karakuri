@@ -1,5 +1,83 @@
 [
   {
+    "id": "W4413327383",
+    "doi": "https://doi.org/10.1038/s41562-026-02627-w",
+    "title_en": "Causal role of human hippocampus in relational structure learning and inference",
+    "title_ja": "海馬が新しい人間関係や状況の推論に果たす役割の解明",
+    "authors": [
+      "Deng Pan",
+      "Simone D’Ambrogio",
+      "Naomi Kingston",
+      "Miruna Rascu",
+      "Pranav Sankhe",
+      "Shuyi Luo",
+      "Miriam C. Klein-Flügge",
+      "Ali Mahmoodi",
+      "Matthew F. S. Rushworth"
+    ],
+    "venue": "Nature Human Behaviour",
+    "published": "2026-11-16",
+    "topic": "Memory and Neural Mechanisms",
+    "summary_ja": "本研究では、人間が既存の関係性に関する知識を活用して新しい関係を推論し、環境の変化に適応するメカニズムを調べた。行動実験と脳刺激の手法を用いた結果、海馬の活動が関係性に基づく推論に因果的な役割を果たしていることがわかった。ただし、参加者が少数の健康な成人に限られており、日常の複雑な状況一般にそのまま適用できるかは今後の検証が必要である。",
+    "why_ja": "この知見は、人々が過去の経験から新しい人間関係や状況を素早く予測し、変化する環境に適応する仕組みを理解するのに役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-11-17"
+  },
+  {
+    "id": "W4414381469",
+    "doi": "https://doi.org/10.1037/rev0000659",
+    "title_en": "Uncovering internal sensory evidence reveals the nature of confidence computation in multi-alternative perceptual decision making.",
+    "title_ja": "多肢選択的意志決定における確信度計算の解明",
+    "authors": [
+      "Kai Xue",
+      "Medha Shekhar",
+      "Dobromir Rahnev"
+    ],
+    "venue": "Psychological Review",
+    "published": "2026-11-16",
+    "topic": "Visual perception and processing mechanisms",
+    "summary_ja": "複雑な多肢選択課題において脳が外部刺激を内部感覚証拠に変換するメカニズムを新しいモデリング手法を用いて調査した。その結果、確信度は上位2つの選択肢間の生データの差を反映していることが明らかになった。本研究は特定の数感覚課題に基づく実験モデルであり、より多様な文脈やサンプルにおける普遍性は今後の検証が必要である。",
+    "why_ja": "この知見は、人間が複数の選択肢から決断を下しその判断に自信を持つ仕組みを理解することで、意思決定支援システムの設計や教育現場での指導法改善に役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-11-17"
+  },
+  {
+    "id": "W7161953010",
+    "doi": "https://doi.org/10.1093/pnasnexus/pgag393",
+    "title_en": "Mapping intermediate cognitive representations within a frontal cortical hierarchy for mnemonic olfactory decisions in mice",
+    "title_ja": "マウスの前頭皮質における匂い記憶の意思決定プロセスを解明",
+    "authors": [
+      "Josefine Reuschenbach",
+      "Maria Ines Ribeiro",
+      "Xiaochen Fu",
+      "Izumi Fukunaga"
+    ],
+    "venue": "PNAS Nexus",
+    "published": "2026-11-16",
+    "topic": "Memory and Neural Mechanisms",
+    "summary_ja": "マウスが匂いの記憶に基づいて文脈に応じた意思決定を行う際、前頭皮質内で情報がどのように統合されるかを調べた。その結果、感覚情報から選択行動へと至る信号が前頭皮質内の領域間で徐々に変換され、中間領域では感覚感受性を維持した選択変調が示されることがわかった。ただし、本研究は頭部固定されたマウスを用いた動物実験であり、得られた知見がそのままヒトの複雑な意思決定に当てはまるかは慎重な検討が必要である。",
+    "why_ja": "この知見は、人間の脳が過去の記憶と現在の感覚情報をどのように組み合わせて複雑な意思決定を行っているかを理解する手がかりとなる。",
+    "guest_slug": null,
+    "reviewed_at": "2026-11-17"
+  },
+  {
+    "id": "W7233821259",
+    "doi": "https://doi.org/10.1073/pnas.2625583123",
+    "title_en": "Short-term flexibility and long-term stability in models of mind perception",
+    "title_ja": "他者の心を感じる仕組み：無生物への認知の柔軟性と限界",
+    "authors": [
+      "Ronja Held",
+      "Ruud Hortensius"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-11-16",
+    "topic": "Social Robot Interaction and HRI",
+    "summary_ja": "他者やモノに心があるかを判断する際に人々がどのような内面モデルを用いているかを4つの実験で調べた。その結果、経験の属性には生物性の区別が根底にある一方、エージェンシーの属性に関する内面モデルはより否定的かつ柔軟であり、明示的な情報の提示によって変化することがわかった。ただし、ロボットや音声アシスタント、ペットとの長期的な接触や所有は内面モデルの構造的な再構築をもたらさないことが示されており、研究は主に実験室環境に基づく限られたサンプルを対象としている。",
+    "why_ja": "この知見は、AIやロボットなどのテクノロジーが社会に導入される際、人々がそれらにどのように心を感じ、コミュニケーションをとるのかを理解するのに役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-11-17"
+  },
+  {
     "id": "W7226033862",
     "doi": "https://doi.org/10.1016/j.cognition.2026.106779",
     "title_en": "Testing a secondary motor integration account of confidence computation",
