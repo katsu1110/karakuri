@@ -1,5 +1,99 @@
 [
   {
+    "id": "W4406067284",
+    "doi": "https://doi.org/10.1177/17456916261482029",
+    "title_en": "Evolved Equity but Inequity in the Household? Reviewing Evolutionary Accounts of Fairness",
+    "title_ja": "なぜ女性は不公平な家事を「公平」と感じるのか",
+    "authors": [
+      "Angarika Deb",
+      "Christophe Heintz"
+    ],
+    "venue": "Perspectives on Psychological Science",
+    "published": "2026-11-20",
+    "topic": "Evolutionary Psychology and Human Behavior",
+    "summary_ja": "家事負担の偏りとそれが公平だと判断される現象に対し、進化心理学的な3つの従来説の妥当性を検証した。その結果、従来の説は中立な分配のみを前提としているため説明が不十分であり、性別役割分担イデオロギーと調整問題の解決が公平性の判断に影響していることが示された。本研究は文献レビューに基づく理論的提案であり、実際の人間行動に関する大規模な実証データや多様な文化的サンプルの分析は含まれていない。",
+    "why_ja": "この知見は、家庭内の性別役割分担に対する意識や不公平感の背景にある心理的メカニズムを理解し、職場や家庭での公平な協働を設計する際に役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-11-21"
+  },
+  {
+    "id": "W4415352549",
+    "doi": "https://doi.org/10.1016/j.cognition.2026.106783",
+    "title_en": "Something's gotta give: Reward-induced effort modulation in task-switching reveals a flexibility-stability trade-off",
+    "title_ja": "報酬が柔軟性と安定性のトレードオフに与える影響",
+    "authors": [
+      "Nathan K. Mathews",
+      "Senne Braem",
+      "Eliana Vassena",
+      "A. Ross Otto"
+    ],
+    "venue": "Cognition",
+    "published": "2026-11-20",
+    "topic": "Neural and Behavioral Psychology Studies",
+    "summary_ja": "日常行動における認知の柔軟性と安定性のトレードオフ関係が、報酬による努力調整によってどのように生じるかを調べた。2つの実験の結果、大きな報酬は課題の切り替えを容易にして柔軟性を高める一方で、干渉に対する抵抗力を下げて安定性を低下させることがわかった。ただし、本研究は限られたサンプルサイズと特定の実験課題に基づくものであり、より多様な集団や状況で同様のトレードオフが成り立つかは慎重な検証が必要である。",
+    "why_ja": "この知見は、仕事や学習の場でインセンティブ（報酬）を与える際、作業の切り替えやすさが向上する一方で集中力の維持が難しくなる可能性を予測し、適切な報酬設計や環境調整に役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-11-21"
+  },
+  {
+    "id": "W7163558571",
+    "doi": "https://doi.org/10.1016/j.cognition.2026.106777",
+    "title_en": "Mind the cueing design: Order effects mask benefits of congruency pre-cues",
+    "title_ja": "事前の手がかり呈示順序が認知制御の研究結果に与える影響の解明",
+    "authors": [
+      "Chris Nuno",
+      "Máté Gyurkovics",
+      "Julie M. Bugg"
+    ],
+    "venue": "Cognition",
+    "published": "2026-11-20",
+    "topic": "Neural and Behavioral Psychology Studies",
+    "summary_ja": "事前の手がかりが認知制御に与える影響に関する研究では、従来の手法における実験デザインの限界が結果にどう影響するかを検証した。実験の結果、手がかりを提示する順序やランダムに混在させるデザインによって、事前の手がかりの効果が検出できるかどうかが大きく変わることがわかった。ただし、本研究は特定の実験デザインにおける効果の検出方法を比較したものであり、実際の日常場面における認知制御の限界についてはさらなる検証が必要である。",
+    "why_ja": "この知見は、心理学実験や認知能力の測定において、実験の順序やデザインの工夫が結果の解釈に大きな影響を与えることを理解する際に役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-11-21"
+  },
+  {
+    "id": "W7165829788",
+    "doi": "https://doi.org/10.1177/09567976261495567",
+    "title_en": "Surprise Resets the Mind: An Adaptive Online Reset in Working Memory Selection",
+    "title_ja": "予期せぬ出来事がワーキングメモリの選択をリセットする仕組み",
+    "authors": [
+      "Jiahan Yu",
+      "Jiewei Zheng",
+      "Yingtao Fu",
+      "Ning Tang",
+      "Bin Li",
+      "Jifan Zhou",
+      "MoWei SHEN",
+      "HUI CHEN"
+    ],
+    "venue": "Psychological Science",
+    "published": "2026-11-20",
+    "topic": "Neural and Behavioral Psychology Studies",
+    "summary_ja": "予想外の出来事が注意を向ける情報のワーキングメモリへの選択にどのような影響を与えるかを調べた。予想外の変化が生じると、通常は報告されないターゲット特徴の報告率が確実に向上が見られた。ただし、この実験は17歳から27歳の大学生250名を対象としたものであり、結果の一般化には限界がある。",
+    "why_ja": "この知見は、予期せぬトラブルや環境の変化に直面した際、人間の脳が瞬時に情報を整理し直して柔軟に対応する場面で役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-11-21"
+  },
+  {
+    "id": "W7237002493",
+    "doi": "https://doi.org/10.1177/17456916261484103",
+    "title_en": "Regulating for Others’ Sake: An Integrative Framework of Prosocial Emotion Regulation",
+    "title_ja": "他者の感情を整える「向社会的感情調整」の統合的枠組み",
+    "authors": [
+      "Lameese Eldesouky",
+      "Casey L. Brown"
+    ],
+    "venue": "Perspectives on Psychological Science",
+    "published": "2026-11-20",
+    "topic": "Emotions and Moral Behavior",
+    "summary_ja": "他者の利益を意図して感情を調整する「向社会的感情調整」の定義や予測因子、成功の評価基準を体系的に調べるため、統合的枠組みを提案した。その結果、この行為には他者の幸福や絆を深める利点がある一方で、調整者自身には負担がかかる可能性があることが示された。ただし、本研究は理論的な枠組みの提示であり、実際の人間関係や特定の文化圏における具体的な因果関係については今後の実証的研究が必要である。",
+    "why_ja": "この知見は、職場や家庭において他者をサポートする際の燃え尽きを防ぎ、健全な対人関係を築くためのヒントとして役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-11-21"
+  },
+  {
     "id": "W7211843308",
     "doi": "https://doi.org/10.1016/j.cognition.2026.106776",
     "title_en": "Event-general concepts guide semantic generalizations during verb learning cross-linguistically",
