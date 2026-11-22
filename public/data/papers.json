@@ -1,5 +1,41 @@
 [
   {
+    "id": "W7118194765",
+    "doi": "https://doi.org/10.1016/j.cognition.2026.106786",
+    "title_en": "A free energy principle account of musical valence, arousal, and emotionality",
+    "title_ja": "音楽で感情が動く仕組みを自由エネルギー原理から解明",
+    "authors": [
+      "Kai Ishida",
+      "Hiroshi Nittono"
+    ],
+    "venue": "Cognition",
+    "published": "2026-11-21",
+    "topic": "Neuroscience and Music Perception",
+    "summary_ja": "本研究は、音楽鑑賞時に予測誤差の減少を期待することがどのように感情を引き起こすのかをオンライン実験で調べた。その結果、より大きな自由エネルギーの減少が予測された際、その後の予測誤差が小さいコードは、より強い快感や覚醒感、身体感覚を引き起こすことがわかった。ただし、本研究はオンライン環境における200名の参加者を対象とした実験に基づくものであり、聴取者の音楽経験や文化的な背景などの影響についてはさらなる検証が必要である。",
+    "why_ja": "この知見は、CMや映画のBGM制作、あるいは人々の感情を効果的に誘導する音楽デザインの応用において、リスナーの予測と驚きのバランスを科学的に設計する際に役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-11-22"
+  },
+  {
+    "id": "W7237104175",
+    "doi": "https://doi.org/10.1177/17456916261482038",
+    "title_en": "The Role of U.S.-Based Professional Societies in Advancing and Creating Space for Global Psychological Science",
+    "title_ja": "米国の心理学会における国際的連携とグローバル化の現状",
+    "authors": [
+      "Vaishali Vidhatri Raval",
+      "Bronwyn Nichols Lodato",
+      "Susan Clayton",
+      "Ourania Kosti"
+    ],
+    "venue": "Perspectives on Psychological Science",
+    "published": "2026-11-20",
+    "topic": "Psychology Research and Bibliometrics",
+    "summary_ja": "心理学研究の国際化と多様性推進における米国系学会の役割と現状を調査した。多くの学会が国際的関与の重要性を認識し多様な活動を行っている一方で、多数派地域外の科学者の会員数や指導層への参画は依然として低いことがわかった。本調査は米国の24学会の代表者を対象としたアンケートに基づくものであり、すべての国の学会や個別の研究者全体を直接代表しているわけではない。",
+    "why_ja": "この知見は、学術団体や組織が真の多様性とグローバルな包摂性を高めるための具体的な課題と改善策を考える際に役立ちます。",
+    "guest_slug": null,
+    "reviewed_at": "2026-11-22"
+  },
+  {
     "id": "W4406067284",
     "doi": "https://doi.org/10.1177/17456916261482029",
     "title_en": "Evolved Equity but Inequity in the Household? Reviewing Evolutionary Accounts of Fairness",
