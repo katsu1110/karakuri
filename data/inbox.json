@@ -5326,5 +5326,29 @@
     "confidence": "high",
     "drafted_at": "2026-11-22",
     "published_at": "2026-11-22"
+  },
+  {
+    "id": "W7222769219",
+    "doi": "https://doi.org/10.1177/01461672261502633",
+    "title_en": "Drinking and the Good Life: A Daily Diary Study",
+    "authors": [
+      "Hannah R. Hamilton",
+      "Nicholas R. Buttrick",
+      "Shigehiro Oishi"
+    ],
+    "venue": "Personality and Social Psychology Bulletin",
+    "published": "2026-11-21",
+    "topic": "Psychological Well-being and Life Satisfaction",
+    "oa_status": "closed",
+    "abstract_en": "Given the prevalence of social drinking among college students, understanding the association between social drinking and the good life is key to understanding how students are achieving a good life. This 14-day diary study of undergraduate drinkers ( N = 287) examined whether consuming alcohol with others (vs. alone) and time interacting with romantic partners and friends are associated with satisfaction, meaning in life, and psychological richness. Multilevel modeling suggests social drinking was associated with greater happiness, meaning, and richness that evening. Time with a romantic partner was associated with greater meaning and richness that evening, and time with casual friends was associated with richness. Multilevel structural equation modeling revealed that increases in self-expansion and belongingness and decreases in loneliness partially mediated associations between social drinking and the good life. These results suggest ways in which college students’ social (but not solitary) drinking may help students connect with others and enhance their evening.",
+    "title_ja": "大学生の社交飲酒が幸福感や人生の意味に与える影響",
+    "summary_ja": "本研究は、大学生における社交的な飲酒や他者との交流が、その日の満足感や人生の意味、心理的豊かさにどのように関連しているかを14日間の日記調査で調べた。分析の結果、他者と一緒に飲酒した日の夜には、幸福感や人生の意味、心理的豊かさがより高まることが示された一方で、自己拡張や所属感の増加、孤独感の減少が部分的な媒介要因であることが明らかになった。ただし、本研究はアメリカの大学生サンプルに基づく相関研究であり、因果関係の断定や他世代・他文化への一般化には限界がある。",
+    "why_ja": "この知見は、大学生活や若者の社交イベントにおいて、孤立を防ぎつながりを感じるためのコミュニケーションのあり方を考えるヒントになります。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-11-23",
+    "confidence": "high",
+    "drafted_at": "2026-11-23",
+    "published_at": "2026-11-23"
   }
 ]
