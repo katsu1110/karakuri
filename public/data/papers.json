@@ -1,5 +1,63 @@
 [
   {
+    "id": "W7137057878",
+    "doi": "https://doi.org/10.1037/xge0002027",
+    "title_en": "A generalized life motion mechanism supports invariant directional coding of local biological kinematics in humans.",
+    "title_ja": "人間の視覚は動物や動作の種類を超えて生物の動きの方向を共通の仕組みで検出する",
+    "authors": [
+      "Zhihan Gao",
+      "Lianzi Xing",
+      "Rui Wang",
+      "Yi Jiang"
+    ],
+    "venue": "Journal of Experimental Psychology General",
+    "published": "2026-11-23",
+    "topic": "Visual perception and processing mechanisms",
+    "summary_ja": "ヒトの視覚システムが生物の局所的な動きの方向情報をどのようにコード化しているかを、視覚適応パラダイムと計算モデリングを用いて調べた。その結果、ある生物の動きへの適応が異なる種や多様な動作の方向知覚に影響を与えるという、高い普遍性を持つ方向感応型の神経メカニズムの存在が明らかになった。ただし、この実験はヒトの知覚メカニズムの特性を調べるものであり、実際の日常環境における複雑な動体検知のすべてを直接説明できる範囲は限定的である。",
+    "why_ja": "この知見は、人間が自然界や社会生活の中で動く人物や動物を瞬時に見分け、安全確保や円滑なコミュニケーションを行うための認知メカニズムを理解する際に役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-11-24"
+  },
+  {
+    "id": "W7171402699",
+    "doi": "https://doi.org/10.1037/rev0000654",
+    "title_en": "Cycles of discourse, speech dysfluency, and active inference.",
+    "title_ja": "音声生成と社会的対話を再現する計算論モデル",
+    "authors": [
+      "Thomas Parr",
+      "Birtan Demirel",
+      "Youssuf Saleh",
+      "Sanjay Manohar"
+    ],
+    "venue": "Psychological Review",
+    "published": "2026-11-23",
+    "topic": "Stuttering Research and Treatment",
+    "summary_ja": "発話と聴覚のメカニズムおよび社会的要因が音声の流暢さに与える影響を調べるため、部分観測マルコフ決定過程を用いた計算論モデルを構築した。その結果、次に来る単語の予測精度を下げると、吃音に似たポーズや単語初めの繰り返しが発生することが示された。ただし、本研究は理論的な計算モデルに基づくものであり、実際の人間を対象とした実験的検証や限界についてはさらなる検討が必要である。",
+    "why_ja": "この知見は、吃音や神経変性疾患による発話障害の原因解明や、自然な音声対話システムの設計に役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-11-24"
+  },
+  {
+    "id": "W7238797171",
+    "doi": "https://doi.org/10.1073/pnas.2617434123",
+    "title_en": "Phase coding supports neuronal replication and enables combinatorial problem solving",
+    "title_ja": "脳の神経活動が生み出す新しい問題解決のメカニズム",
+    "authors": [
+      "Hamza Giaffar",
+      "Márton Csillag",
+      "Zoltán Nádasdy",
+      "Dániel Czégel",
+      "Eörs Szathmáry"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-11-23",
+    "topic": "Neural dynamics and brain function",
+    "summary_ja": "脳が膨大な選択肢から最適な答えを見つけ出す仕組みを解明するため、位相コード化されたスパイクパターンが生物学的な複製子として機能するかを調べた。その結果、シナプス可塑性なしで信号を忠実に複製・伝達しながら進化的な探索を行い、組合せ最適化問題において優れたパフォーマンスを発揮することがわかった。ただし、これは理論モデルと計算機シミュレーションに基づく結果であり、実際の生体脳における神経回路での実証には限界がある。",
+    "why_ja": "この知見は、人間の直感やひらめき、複雑な意思決定のプロセスを脳科学の視点から理解し、AIや問題解決アルゴリズムの効率化に応用する際に役立つ。",
+    "guest_slug": null,
+    "reviewed_at": "2026-11-24"
+  },
+  {
     "id": "W7222769219",
     "doi": "https://doi.org/10.1177/01461672261502633",
     "title_en": "Drinking and the Good Life: A Daily Diary Study",
