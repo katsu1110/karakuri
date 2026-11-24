@@ -5350,5 +5350,81 @@
     "confidence": "high",
     "drafted_at": "2026-11-23",
     "published_at": "2026-11-23"
+  },
+  {
+    "id": "W7137057878",
+    "doi": "https://doi.org/10.1037/xge0002027",
+    "title_en": "A generalized life motion mechanism supports invariant directional coding of local biological kinematics in humans.",
+    "authors": [
+      "Zhihan Gao",
+      "Lianzi Xing",
+      "Rui Wang",
+      "Yi Jiang"
+    ],
+    "venue": "Journal of Experimental Psychology General",
+    "published": "2026-11-23",
+    "topic": "Visual perception and processing mechanisms",
+    "oa_status": "green",
+    "abstract_en": "Humans can detect biological motion (BM) from sparse local kinematic cues, yet whether the visual system encodes directional information in a category-invariant manner remains unresolved. Here we combined a visual adaptation paradigm with computational modelling to reveal direction-sensitive neural mechanisms specialized for local biological kinematics. Adapting to a side-view scrambled point-light walker produced a robust repulsive aftereffect in the perceived direction of an intact human walker near the frontal view. Notably, this aftereffect generalized across different terrestrial vertebrates (pigeon, cat, dog) and across various actions (running, crawling, cycling), demonstrating a high degree of kinematic invariance. Crucially, the effect disappeared when biological kinematics were disrupted (inversion or removal of gravitational acceleration cues) or when the test stimulus was replaced with non-biological object motion. Individuals’ direction-discrimination abilities were also highly correlated across diverse local BM patterns, indicating a shared underlying mechanism. Drift-diffusion modeling further revealed that adaptation primarily altered the efficiency of sensory evidence accumulation rather than decision-level processes, and individual drift-rate changes strongly predicted the magnitude of perceptual aftereffects. These findings provide compelling evidence for a generalized, direction-sensitive neural system tuned to local biological kinematics, extending the life-motion detector theory and revealing a fundamental principle of biological motion perception. Significance Statement Humans possess an exceptional ability to detect and interpret the movements of living beings—an ability fundamental to survival, social interaction, and adaptive behavior. But how does the visual system extract “life motion” so adeptly amidst the complexity of natural scenes? Using visual adaptation and computational modelling, we provide direct evidence for direction-sensitive neural mechanisms specialized for local biological kinematics. These mechanisms operate robustly across species and actions, and remain selective for natural biological dynamics. Our findings advance the life-motion detector theory by demonstrating that the human visual system encodes directional information in a highly invariant manner, revealing a fundamental computational strategy for detecting animate agents.",
+    "title_ja": "人間の視覚は動物や動作の種類を超えて生物の動きの方向を共通の仕組みで検出する",
+    "summary_ja": "ヒトの視覚システムが生物の局所的な動きの方向情報をどのようにコード化しているかを、視覚適応パラダイムと計算モデリングを用いて調べた。その結果、ある生物の動きへの適応が異なる種や多様な動作の方向知覚に影響を与えるという、高い普遍性を持つ方向感応型の神経メカニズムの存在が明らかになった。ただし、この実験はヒトの知覚メカニズムの特性を調べるものであり、実際の日常環境における複雑な動体検知のすべてを直接説明できる範囲は限定的である。",
+    "why_ja": "この知見は、人間が自然界や社会生活の中で動く人物や動物を瞬時に見分け、安全確保や円滑なコミュニケーションを行うための認知メカニズムを理解する際に役立つ。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-11-24",
+    "confidence": "high",
+    "drafted_at": "2026-11-24",
+    "published_at": "2026-11-24"
+  },
+  {
+    "id": "W7171402699",
+    "doi": "https://doi.org/10.1037/rev0000654",
+    "title_en": "Cycles of discourse, speech dysfluency, and active inference.",
+    "authors": [
+      "Thomas Parr",
+      "Birtan Demirel",
+      "Youssuf Saleh",
+      "Sanjay Manohar"
+    ],
+    "venue": "Psychological Review",
+    "published": "2026-11-23",
+    "topic": "Stuttering Research and Treatment",
+    "oa_status": "hybrid",
+    "abstract_en": "Speech is a complex motor and social act. We must not only produce and understand sequences of variable-length words formed from ordered syllables but also speak and listen in turn. This theoretical article introduces a computational model of speech production and auditory segmentation based on sequences of discrete phonemes . The purpose of this model is to develop a vehicle for testing (in silico) hypotheses about the mechanisms that govern the loss of speech fluency , something may occur transiently in people who stutter or progressively in various neurodegenerative conditions. The modeling presented here employs Partially Observable Markov Decision Processes that provide a useful generic formulation for specifying the internal model that our brains might use to describe dynamic environments in which they can exert partial control and make partial observations. The core features of the specific model used here are as follows: (a) a reciprocal mapping from words to sequences of varying numbers of phonemes and (b) a common subset of states for both speech generation and speech perception . A further novel feature is a social component in which one must infer who is speaking (oneself or another person). We propose a series of hypotheses about the computational mechanisms that might underwrite speech breakdown. For example, we demonstrate that reducing the precision in the next word introduces pauses and start-of-word repetitions of the sort associated with stuttering . We examine the patterns of behavior and belief-updating predicted by each of these hypotheses, with implications for both speaking and listening . Finally, we discuss plausible neural substrates for the underlying message passing that might be amenable to interrogation with functional imaging.",
+    "title_ja": "音声生成と社会的対話を再現する計算論モデル",
+    "summary_ja": "発話と聴覚のメカニズムおよび社会的要因が音声の流暢さに与える影響を調べるため、部分観測マルコフ決定過程を用いた計算論モデルを構築した。その結果、次に来る単語の予測精度を下げると、吃音に似たポーズや単語初めの繰り返しが発生することが示された。ただし、本研究は理論的な計算モデルに基づくものであり、実際の人間を対象とした実験的検証や限界についてはさらなる検討が必要である。",
+    "why_ja": "この知見は、吃音や神経変性疾患による発話障害の原因解明や、自然な音声対話システムの設計に役立つ。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-11-24",
+    "confidence": "high",
+    "drafted_at": "2026-11-24",
+    "published_at": "2026-11-24"
+  },
+  {
+    "id": "W7238797171",
+    "doi": "https://doi.org/10.1073/pnas.2617434123",
+    "title_en": "Phase coding supports neuronal replication and enables combinatorial problem solving",
+    "authors": [
+      "Hamza Giaffar",
+      "Márton Csillag",
+      "Zoltán Nádasdy",
+      "Dániel Czégel",
+      "Eörs Szathmáry"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "published": "2026-11-23",
+    "topic": "Neural dynamics and brain function",
+    "oa_status": "hybrid",
+    "abstract_en": "Darwinian neurodynamics posits that the brain searches large solution spaces through iterated cycles of variation and selection on competing neural representations. Testing this hypothesis requires a biologically plausible neural replicator: a mechanism that copies spatiotemporal signals faithfully enough to cumulatively improve good solutions, yet loosely enough to allow exploration. We show that phase-coded spike patterns constitute such a replicator. Spike timing referenced to a local field oscillation is compressed into a transferable spike train and reconstructed by coincidence with the receiver’s own field, without synaptic plasticity or a shared code key. As replication noise rises, the system crosses two thresholds. Below the first, faithful copying sustains patterns as dynamic memory. Between the two thresholds, pattern populations evolve. On two hard combinatorial benchmarks, the traveling salesman problem and NK fitness landscapes, neural replication remains competitive with standard search methods at a matched evaluation budget. Beyond the second, an Eigen-like error threshold, inherited information collapses. The network architecture tunes the exploration-exploitation balance: high-degree lattices, where local competition is stronger, exploit smooth landscapes, while low-degree lattices, where weaker competition preserves diversity, search more broadly on rugged landscapes. The framework predicts phase-locked information transfer and phylogenetic structure in replay, as well as a selective loss of combinatorial problem solving beyond the error threshold. These results indicate that a single neurobiological substrate can support memory, variation, and selection, and point to evolutionary dynamics as a candidate computational principle for cognition.",
+    "title_ja": "脳の神経活動が生み出す新しい問題解決のメカニズム",
+    "summary_ja": "脳が膨大な選択肢から最適な答えを見つけ出す仕組みを解明するため、位相コード化されたスパイクパターンが生物学的な複製子として機能するかを調べた。その結果、シナプス可塑性なしで信号を忠実に複製・伝達しながら進化的な探索を行い、組合せ最適化問題において優れたパフォーマンスを発揮することがわかった。ただし、これは理論モデルと計算機シミュレーションに基づく結果であり、実際の生体脳における神経回路での実証には限界がある。",
+    "why_ja": "この知見は、人間の直感やひらめき、複雑な意思決定のプロセスを脳科学の視点から理解し、AIや問題解決アルゴリズムの効率化に応用する際に役立つ。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-11-24",
+    "confidence": "high",
+    "drafted_at": "2026-11-24",
+    "published_at": "2026-11-24"
   }
 ]
