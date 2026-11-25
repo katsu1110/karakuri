@@ -5426,5 +5426,100 @@
     "confidence": "high",
     "drafted_at": "2026-11-24",
     "published_at": "2026-11-24"
+  },
+  {
+    "id": "W3127278622",
+    "doi": "https://doi.org/10.1177/09567976261498023",
+    "title_en": "Movies’ Content Features Predict the Personalities of Their Fans",
+    "authors": [
+      "Gideon Nave",
+      "Peter Jason Rentfrow",
+      "Sudeep Bhatia"
+    ],
+    "venue": "Psychological Science",
+    "published": "2026-11-24",
+    "topic": "Personality Traits and Psychology",
+    "oa_status": "hybrid",
+    "abstract_en": "Movies are a central form of entertainment and cultural expression, yet little is known about how their content aligns with the psychological traits of their audiences. We link movie characteristics and contents with the aggregate Big Five personalities of social-media users from a large, international sample who “liked” them. Movie content, captured by text keywords, predicts aggregate audience personalities beyond genre, demographics, and attributes like quality and popularity. An online experiment (N = 1,018 adults) demonstrates that these content-based personality predictions are behaviorally relevant for choices and evaluations involving new movies and participants. We further provide fine-grained mappings between personality and movie features, including quality, popularity, genre, psychological themes, and unique concepts. Our findings reveal systematic links between personality and movie preferences, showing that people favor content that resonates with their thoughts, emotions, and behaviors. This research enables scalable, automated audience psychographic assessment based on content features, offering insights into personality-driven media preferences.",
+    "title_ja": "映画のコンテンツ特徴からファンの性格を予測できる",
+    "summary_ja": "映画のキーワードなどのコンテンツ特徴と視聴者のビッグファイブ性格特性との関連性を大規模な国際サンプルを用いて調べた。その結果、映画のコンテンツはジャンルや人口統計学的属性を超えて、視聴者の集団的な性格を予測できることがわかった。ただし、本研究は主にSNSの「いいね」に基づくデータや限定的なオンライン実験を対象としており、すべての個人に直接当てはまるとは限らない。",
+    "why_ja": "この知見は、個人の心理的傾向に合わせた映画やコンテンツのおすすめ機能の精度向上に役立ちます。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-11-25",
+    "confidence": "high",
+    "drafted_at": "2026-11-25",
+    "published_at": "2026-11-25"
+  },
+  {
+    "id": "W4414396402",
+    "doi": "https://doi.org/10.1177/09567976261496284",
+    "title_en": "Evaluating the Ecological Validity and Mechanism of a Generative Model-Based Decomposition of Affective Variability",
+    "authors": [
+      "Ryan Yan Yan",
+      "Don Chamith Halahakoon",
+      "Michael D Browning"
+    ],
+    "venue": "Psychological Science",
+    "published": "2026-11-24",
+    "topic": "Mental Health Research Topics",
+    "oa_status": "hybrid",
+    "abstract_en": "Affective variability is a pervasive phenomenon with important implications for cognition, behavior, and well-being. Yet the broad concept of variability may conflate distinct processes, such as transient fluctuations versus more sustained shifts. Computational approaches like reinforcement learning (RL) offer a mechanistic framework for these processes, but they are often studied in artificial settings, raising questions about ecological validity. We combined an RL task with real-world experience sampling from 332 adult Prolific participants. Using a Bayesian filter, we decomposed affective variability into short-lived affective noise and longer-term affective volatility. In the RL task, noise was driven by recent outcomes, whereas volatility reflected more distant ones. Notably, task-based noise and volatility selectively mapped onto their real-world experience-sampling method (ESM) counterparts, whereas conventional measures did not show such specificity. These findings provide a mechanistic account of distinct timescales underlying affective variability and demonstrate the ecological validity of laboratory tasks for studying real-world affect dynamics.",
+    "title_ja": "感情の変動性を短期の揺らぎと長期の不安定さに分解する",
+    "summary_ja": "強化学習モデルと実生活の経験サンプリング法を組み合わせ、感情の変動性のメカニズムとその生態学的妥当性を調べた。その結果、実験課題から得られた短期的なノイズと長期的なボラティリティが、それぞれ実生活の感情の変動性と特異的に対応していることがわかった。ただし、参加者はオンラインプラットフォームで募集された332人の成人であり、結果の一般化には慎重な検討が必要である。",
+    "why_ja": "この知見は、日々の感情の起伏が生じる仕組みを科学的に理解し、メンタルヘルスケアや感情の自己調整を支援する手法の開発に役立つ。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-11-25",
+    "confidence": "high",
+    "drafted_at": "2026-11-25",
+    "published_at": "2026-11-25"
+  },
+  {
+    "id": "W7239365449",
+    "doi": "https://doi.org/10.1177/17456916261496285",
+    "title_en": "From Intelligence to Attention Control: Are We Discovering New Cognitive Abilities or Renaming Old Ones?",
+    "authors": [
+      "Kenneth R. Paap",
+      "John Majoubi"
+    ],
+    "venue": "Perspectives on Psychological Science",
+    "published": "2026-11-24",
+    "topic": "Cognitive Abilities and Testing",
+    "oa_status": "closed",
+    "abstract_en": "Psychological science repeatedly generates new constructs that appear to offer more mechanistic explanations of behavior than their predecessors. Intelligence was supplemented by working memory, executive functioning, and attention control; cognitive reserve was proposed to explain resilience to neuropathology; cognitive training sought to strengthen underlying capacities; and bilingualism was hypothesized to enhance domain-general cognition. Such developments are often interpreted as evidence of scientific progress, but their broader implications remain unclear. Three competing interpretations of this pattern are considered. Progressive refinement holds that newer constructs increasingly approximate underlying mechanisms and should eventually replace earlier explanations. Conceptual relabeling posits that successive constructs often redescribe overlapping sources of variance. Hierarchical integration proposes that older and newer constructs occupy different levels of explanation within a layered cognitive architecture. To evaluate these alternatives, we examine four influential research traditions: the succession of constructs from intelligence to attention control, the mixed record of cognitive-training interventions, the heterogeneous associations among cognitive reserve proxies, and the evolution of bilingualism research. Across these cases, evidence for broad transfer, convergent validity, and explanatory specificity is reviewed. The analysis suggests that hierarchical integration provides the most comprehensive account of how psychological constructs accumulate, interact, and persist across successive generations of theory.",
+    "title_ja": "新しい心理学的構成概念の乱立と認知構造の関係",
+    "summary_ja": "心理学研究において次々と生み出される新しい概念が、科学的進歩によるものか単なる言い換えに過ぎないのかを検証した。その結果、古い概念と新しい概念は階層的に統合されていることが最も妥当な説明であると示された。本研究は文献の概念的分析に基づいており、特定の実験データや限定されたサンプルに基づく因果関係を示すものではない。",
+    "why_ja": "この知見は、新しい流行の心理学用語や教育メソッドに直面した際、それが本当に新しい能力を発見したのか既存の能力の別の側面を見ているのかを冷静に見極めるために役立つ。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-11-25",
+    "confidence": "high",
+    "drafted_at": "2026-11-25",
+    "published_at": "2026-11-25"
+  },
+  {
+    "id": "W7238887640",
+    "doi": "https://doi.org/10.1037/pspa0000506",
+    "title_en": "The when, who, why, and how of crocodile tears: Manipulative crying is associated with specific situations, traits, motivations, and expressive behaviors.",
+    "authors": [
+      "Janis Zickfeld",
+      "Monika Wróbel",
+      "Paweł Ciesielski"
+    ],
+    "venue": "Journal of Personality and Social Psychology",
+    "published": "2026-11-23",
+    "topic": "Emotions and Moral Behavior",
+    "oa_status": "closed",
+    "abstract_en": "= 4,908) experimentally examined how expressive cues shape perceptions of crying. Crying was perceived as most \"crocodile\" when it involved high-intensity behaviors without tears. Moreover, intense behaviors combined with the absence of tears improved the detection of fake crying. Together, these findings provide a comprehensive account of crocodile tears, highlighting how multimodal expressive cues, as well as social, individual, and cultural factors, shape the strategic use and perception of crying. (PsycInfo Database Record (c) 2026 APA, all rights reserved).",
+    "title_ja": "「ワニの涙」の本質：操作的な涙を見抜く手がかりとは",
+    "summary_ja": "本研究は、どのような表現の手がかりが偽りの涙（ワニの涙）の知覚や検出に影響を与えるかを実験的に調査した。その結果、涙を伴わない高強度の感情表現が最も偽物っぽく知覚され、偽りの涙の検出精度を高めることが分かった。ただし、本研究は特定の表現キューに基づく知覚を調べたものであり、実際の対人場面における動機や限界についてはさらなる検証が必要である。",
+    "why_ja": "この知見は、他者の感情表現の矛盾に気づくことで、ビジネス交渉や人間関係において意図的な操作を見抜く際に役立つ。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-11-25",
+    "confidence": "high",
+    "drafted_at": "2026-11-25",
+    "published_at": "2026-11-25"
   }
 ]
