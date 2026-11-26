@@ -5521,5 +5521,77 @@
     "confidence": "high",
     "drafted_at": "2026-11-25",
     "published_at": "2026-11-25"
+  },
+  {
+    "id": "W7224047177",
+    "doi": "https://doi.org/10.1177/01461672261504850",
+    "title_en": "Moral Motive Attributions Drive Desires for Dialogue Over Punishment",
+    "authors": [
+      "Raihan Alam",
+      "Tage Shakti Rai"
+    ],
+    "venue": "Personality and Social Psychology Bulletin",
+    "published": "2026-11-25",
+    "topic": "Psychology of Moral and Emotional Judgment",
+    "oa_status": "hybrid",
+    "abstract_en": "In five experiments, we examined the motives people ascribe in cases of harm and their consequences for conflict resolution. In Experiments 1A and 1B (N = 935), participants recalled their own harmful acts as morally motivated, but harm done to them as anti-socially motivated. In Experiment 2 (N = 681), participants preferred dialogue over punishment when offenders were morally motivated. This effect was partially mediated by perceptions that moralistic offenders possess greater moral character and are more receptive to dialogue. In Experiment 3 (N = 534), participants were more likely to assume they had transgressed, improve their behavior, and refrain from retaliation when punishers were morally motivated. In Experiment 4 (N = 506), choosing dialogue over punishment reduced third-party perceptions of victims’ anger, disapproval, and harm, without affecting perceptions of offenders. Moral motive attributions thus shape preferences for dialogue or punishment, responses to punishment, and perceptions of victims and offenders.",
+    "title_ja": "加害者の「道徳的動機」の推測が対話か処罰かの選択を左右する",
+    "summary_ja": "他者の加害行為に対する動機の解釈が紛争解決の選好に与える影響を5つの実験で調べた。加害者が道徳的な動機を持っていると知覚されると、処罰よりも対話が好まれ、自身の過ちの認容や報復の抑制につながることがわかった。ただし、本研究は主に実験室状況での参加者を対象としており、実際の重大な紛争場面や文化差における一般化には限界がある。",
+    "why_ja": "この知見は、SNS上の炎上や職場での対立において、相手の動機への認知を改めることで報復的な対応を防ぎ、対話による解決を促進する場面で役立つ。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-11-26",
+    "confidence": "high",
+    "drafted_at": "2026-11-26",
+    "published_at": "2026-11-26"
+  },
+  {
+    "id": "W7239740255",
+    "doi": "https://doi.org/10.1177/01461672261506408",
+    "title_en": "Social Influence in the Age of Artificial Intelligence: Preference for Humans Does Not Deter Artificial Intelligence Influence",
+    "authors": [
+      "Constanza Musso",
+      "Andreas Kappes"
+    ],
+    "venue": "Personality and Social Psychology Bulletin",
+    "published": "2026-11-25",
+    "topic": "Social Robot Interaction and HRI",
+    "oa_status": "hybrid",
+    "abstract_en": "Artificial intelligence (AI) is becoming a source of social influence. But people often prefer human over AI sources (algorithm aversion/preference for humans), which might prevent AI from influencing humans. However, we outline a theoretical framework that suggests that preferences do not play a causal role in influence. To test this framework, we investigated under which conditions preferences predict AI influence. Participants (N = 1,254) indicated their adviser preference and then made incentivised decisions while receiving advice from AI or human advisers. Participants preferred human over AI advisers but were influenced by AI and humans similarly. A strong aversion to AI advisers had no (Study 1) or a trivial relation (Study 2 and 3) with AI influence, which was explained by confounding variables. When manipulated, preferences did not predict advice-taking, but adviser trustworthiness and competence did (Study 3). Our results suggest that for predicting AI influence, understanding domain-specific social cognitions, not preferences, is critical.",
+    "title_ja": "AIへの好みは影響力に影響しない：人間の選好と社会的影響の乖離",
+    "summary_ja": "人間に対する好みが人工知能（AI）からの社会的影響を妨げるかどうかを調査した。参加者を対象とした実験の結果、人間が好まれる一方で、AIと人間は同程度の影響力を持つことが示された。本研究の限界として、特定の意思決定状況における実験室環境での結果であり、実際の社会全体への一般化にはさらなる検証が必要である。",
+    "why_ja": "この知見は、AIの導入や活用において利用者の好みに囚われず、信頼性や有能感を高める設計が重要であることを示唆する場面で役立ちます。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-11-26",
+    "confidence": "high",
+    "drafted_at": "2026-11-26",
+    "published_at": "2026-11-26"
+  },
+  {
+    "id": "W7239847077",
+    "doi": "https://doi.org/10.1177/01461672261504853",
+    "title_en": "Keeping Score, Feeling Poor: Exchange Orientation Predicts Lower Relationship Satisfaction Through Diminished Gratitude",
+    "authors": [
+      "Haeyoung Gideon Park",
+      "Mustafa Anil Topal",
+      "Mariko Lisa Visserman",
+      "Amy Muise",
+      "Emily A. Impett"
+    ],
+    "venue": "Personality and Social Psychology Bulletin",
+    "published": "2026-11-25",
+    "topic": "Attachment and Relationship Dynamics",
+    "oa_status": "closed",
+    "abstract_en": "Past research shows that exchange orientation—the tendency to expect direct reciprocity in relationships—predicts lower romantic relationship well-being. However, less is known about why this transactional mindset, often grounded in seemingly reasonable ideals of fairness and balance, can be detrimental. This research examined gratitude and indebtedness as key emotional processes underlying the adverse effects of exchange orientation. Across five independent studies (N = 1,997), reduced felt gratitude consistently mediated the association between higher exchange orientation and lower romantic relationship satisfaction for both self and partner, emerging at both between- and within-person levels, cross-sectionally and longitudinally. In contrast, mediation via expressed gratitude was less consistent, and indebtedness generally failed to account for the link. These findings clarify why exchange orientation may undermine relationship well-being, identifying erosion of gratitude as a central pathway whereby individuals perceive relational benefits as running ledgers of obligations rather than spontaneous expressions of care and interdependence.",
+    "title_ja": "関係の見返りを気にするほど恋愛満足度が下がる理由",
+    "summary_ja": "恋愛関係において見返りを期待する傾向がどのように関係満足度を低下させるのか、そのメカニズムを5つの研究（総計1,997名）から調べました。その結果、見返りを重視する人は感謝の気持ちが減少しやすいため、自分もパートナーも関係満足度が低下することがわかりました。ただし、本研究の参加者や文化的な背景の偏りについては、今後のさらなる検証が必要です。",
+    "why_ja": "この知見は、人間関係で損得勘定を減らし、日々の小さな好意に対して意識的に感謝を伝えることで関係性を良好に保つために役立ちます。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-11-26",
+    "confidence": "high",
+    "drafted_at": "2026-11-26",
+    "published_at": "2026-11-26"
   }
 ]
