@@ -5593,5 +5593,28 @@
     "confidence": "high",
     "drafted_at": "2026-11-26",
     "published_at": "2026-11-26"
+  },
+  {
+    "id": "W7209329578",
+    "doi": "https://doi.org/10.1177/01461672261504139",
+    "title_en": "Registered Report: Does the Relationship Between Intellectual Humility and Argument Quality Sensitivity Depend on Motivation and Cognitive Capacity?",
+    "authors": [
+      "Julia Lombard",
+      "Irmak Olcaysoy Ökten"
+    ],
+    "venue": "Personality and Social Psychology Bulletin",
+    "published": "2026-11-27",
+    "topic": "Forgiveness and Related Behaviors",
+    "oa_status": "green",
+    "abstract_en": "Intellectual humility (IH) has been linked to analytical thinking and the ability to distinguish strong from weak arguments, known as argument quality sensitivity. However, it remains unclear whether this association reflects motivational factors, cognitive capacity, or both. Using an argument evaluation paradigm adapted from the persuasion literature, we experimentally manipulated participants' motivation and cognitive capacity to examine when IH predicts argument quality sensitivity. Consistent with previous research, IH was associated with greater sensitivity to argument quality, such that individuals higher in IH more effectively differentiated strong from weak arguments. Contrary to expectations, the experimental manipulations did not reliably influence argument quality sensitivity, limiting conclusions about the processes underlying this relationship. Furthermore, the association between IH and argument quality sensitivity did not vary across motivation or cognitive capacity conditions. These findings replicate prior work while highlighting the need for stronger tests of the mechanisms linking IH to argument evaluation.",
+    "title_ja": "知的中立性と議論の質を見極める能力の関連を検証する",
+    "summary_ja": "知的中立性が議論の質の感度にどう影響するか、動機づけや認知的容量に注目して実験的に調べた。その結果、知的中立性が高い人は強い議論と弱い議論をより効果的に区別できることが確認されたが、動機づけや認知的容量の操作は影響を与えなかった。本研究は実験的操作が機能しなかった点やメカニズムの特定に至らなかった点に限界があり、今後のさらなる検証が必要である。",
+    "why_ja": "この知見は、議論の妥当性を冷静に見極める力を高めるための要因や、その限界を理解する際に役立つ。",
+    "guest_slug": null,
+    "status": "published",
+    "fetched_at": "2026-11-28",
+    "confidence": "high",
+    "drafted_at": "2026-11-28",
+    "published_at": "2026-11-28"
   }
 ]
